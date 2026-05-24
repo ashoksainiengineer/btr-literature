@@ -1,0 +1,178 @@
+{
+  "pipeline": "BTR Knowledge Extraction Phase 2",
+  "startedAt": "2026-05-24T04:00:00Z",
+  "lastUpdated": "2026-05-25T12:00:00Z",
+  "totalSources": 373,
+  "completedSources": 141,
+  "sources": {
+    "classical_texts": {
+      "total": 18,
+      "processed": 18,
+      "status": "complete"
+    },
+    "methodology": {
+      "total": 13,
+      "processed": 13,
+      "status": "complete"
+    },
+    "event_files": {
+      "total": 56,
+      "total_kb_lines": 55881,
+      "files_with_pvr_content": 48,
+      "status": "complete"
+    },
+    "chunks": {
+      "total": 39,
+      "processed": 37,
+      "failed_downloads": ["jyotish_sara.txt", "bhrigu_sutram_kapoor.txt"],
+      "status": "complete"
+    },
+    "pvr_book": {
+      "pages": "1-515 (full book)",
+      "chapters": "1-37 (entire book)",
+      "sections_processed": 5,
+      "event_files_updated": 48,
+      "status": "complete"
+    },
+    "online_sources": {
+      "estimated_total": 210,
+      "processed_events_reference": 92,
+      "remaining_estimate": 118,
+      "status": "in_progress",
+      "categories_pending": [
+        "Self-published platforms (Medium, Substack, etc.)",
+        "Additional major portals",
+        "Academic journals (7)"
+      ],
+      "video_sources": {
+        "total_identified": 12,
+        "fully_processed": 5,
+        "metadata_only": 7,
+        "event_files_updated": ["timing.md", "birth.md", "children.md", "marriage.md", "death.md", "milestone.md", "combinations.md"],
+        "new_rules_appended": 27,
+        "summary": "data/btr-knowledge/chunks/youtube_btr_extraction.md",
+        "search_sources": ["Invidious (YouTube text search)", "youtube-transcript-api", "yt-dlp"],
+        "status": "completed"
+      },
+      "podcast_sources": {
+        "total_identified": 6,
+        "fully_processed": 6,
+        "metadata_only": 0,
+        "event_files_updated": ["birth.md", "timing.md", "transit.md", "combinations.md", "milestone.md", "twin_differentiation.md"],
+        "new_rules_appended": 30,
+        "summary": "data/btr-knowledge/chunks/podcast_btr_extraction.md",
+        "podcasts_processed": [
+          {"name": "The Astrology Podcast", "episodes": ["Ep 169 — Rectification", "Ep 394 — Hillary Clinton's Birth Certificate Released", "Ep 270 — How to Read a Natal Chart With No Birth Time", "Ep 91 — Hillary Clinton's Birth Time Revisited", "Ep 41 — Birth Times and Data Collection", "Ep 167 — The Problem of Twins"]}
+        ],
+        "search_sources": ["theastrologypodcast.com", "webfetch"],
+        "status": "completed"
+      },
+      "batches_completed": [
+        {
+          "batch": "software_btr_documentation",
+          "software_targeted": [
+            "Parashara's Light 9.0 (parasharaslight.com)",
+            "KPAstrology.com (kpastrology.com)",
+            "AstroSage.com KP System (astrosage.com/kpastrology)",
+            "Jagannatha Hora (jagannathhora.com) — already extracted in prior batches",
+            "kpastrology.astrosage.com BTR tutorial — already extracted in prior batches"
+          ],
+          "software_unavailable": [
+            "Astro-Vision (astrovision.com) — no BTR documentation accessible",
+            "Stellar Insights (stellarinsights.net) — not Vedic astrology software",
+            "Saptarishis Astrology (saptarishisastrology.com) — course/magazine platform, not software documentation"
+          ],
+          "urls_fetched": 15,
+          "event_files_updated": ["timing.md"],
+          "methodology_files_updated": ["general-btr.md"],
+          "chunks_summary": "data/btr-knowledge/chunks/software_btr_extraction.md",
+          "new_rules_appended": 8,
+          "new_rules_sections": [
+            "KPAstrology.com — Ruling Planets Event Timing by Movement",
+            "KPAstrology.com — Day Lord from Sunset to Sunset",
+            "KPAstrology.com — Significators Order of Importance",
+            "KPAstrology.com — Cusp Controllers (Sign-Star-Sub) as Primary Event Determinants",
+            "KPAstrology.com — Dasha Degrees: Converting Vimshottari Years to Spatial Degrees",
+            "KPAstrology.com — Guardian Lords Concept for Dasha Flow Analysis",
+            "KPAstrology.com — Co-Owners of Cusps (SKP Concept)",
+            "KPAstrology.com — Active Cusps Analysis for Transit BTR",
+            "AstroSage.com — Planetary Significator Houses for BTR Event Testing",
+            "Parashara's Light — Birth Time Rectification Tool (general-btr.md)"
+          ],
+          "status": "completed"
+        },
+        {
+          "batch": "phd_theses",
+          "papers_identified": 18,
+          "theses_with_btr_content": 3,
+          "academic_papers_with_btr": 8,
+          "event_files_updated": ["birth.md", "timing.md", "marriage.md", "transit.md"],
+          "event_files_batch2_appended": ["birth.md", "timing.md"],
+          "new_rules_appended": 14,
+          "summary": "data/btr-knowledge/chunks/phd_theses_extraction.md",
+          "search_sources": ["Google Scholar", "Crossref API", "CORE API", "Semantic Scholar", "arXiv", "CrossRef", "Shodhganga"],
+          "status": "completed"
+        },
+        {
+          "batch": "academic_papers",
+          "papers_identified": 18,
+          "papers_with_btr_content": 11,
+          "full_text_accessible": 1,
+          "abstract_accessible": 16,
+          "event_files_updated": ["timing.md", "marriage.md", "birth.md", "transit.md"],
+          "summary": "data/btr-knowledge/chunks/academic_papers_extraction.md",
+          "status": "completed"
+        },
+        {
+          "batch": "vedastro.org",
+          "urls_fetched": 12,
+          "event_files_updated": ["timing.md","death.md","health.md","combinations.md","marriage.md","parents.md","children.md","career.md","finance.md","education.md","spiritual.md","transit.md"],
+          "summary": "data/btr-knowledge/chunks/vedastro_btr_extraction.md",
+          "status": "completed"
+        },
+        {
+          "batch": "kp_web_articles",
+          "urls_fetched": 4,
+          "event_files_updated": ["timing.md","education.md","surgery.md","promotion.md","loss.md"],
+          "summary": "data/btr-knowledge/chunks/kp_articles_extraction.md",
+          "status": "completed"
+        },
+        {
+          "batch": "forum_case_studies",
+          "urls_attempted": 7,
+          "urls_fetched": 4,
+          "inaccessible": 3,
+          "event_files_updated": ["birth.md","timing.md","children.md"],
+          "summary": "data/btr-knowledge/chunks/forum_btr_extraction.md",
+          "status": "completed"
+        },
+        {
+          "batch": "uac2026_conference_proceedings",
+          "conference": "United Astrology Conference 2026 (UAC26)",
+          "dates": "September 3-9, 2026",
+          "location": "Chicago, IL",
+          "website": "https://uacastrology.com",
+          "schedule": "https://uac2026.sched.com",
+          "btr_presentations_identified": 4,
+          "dedicated_btr_talks": 2,
+          "btr_adjacent_talks": 2,
+          "presentations": [
+            {"title": "Rectification Solves Birth Time Dilemmas for Accurate Delineation and Forecasting", "speaker": "Carol Tebbs", "datetime": "Fri Sep 4, 2026 9:00am", "room": "Wisconsin Room"},
+            {"title": "Rectification Method Based on Big Data Analysis", "speaker": "Jackie Cui", "datetime": "Sat Sep 5, 2026 4:30pm", "room": "Illinois Room"},
+            {"title": "Primary Directions & The Times of Your Life", "speaker": "Maria Wander", "datetime": "Fri Sep 4, 2026 2:30pm", "room": "Grace Room"},
+            {"title": "Primary Directions: A Timeless Technique of Prediction", "speaker": "Burcu Cakir", "datetime": "Sun Sep 6, 2026 9:00am", "room": "Wisconsin Room"}
+          ],
+          "full_text_accessible": false,
+          "abstracts_accessible": false,
+          "reason": "Conference has not yet occurred (Sep 3-9, 2026); schedule published but no abstracts/slides/transcripts available yet",
+          "post_conference_action": "Check UAC recordings store at https://uacastrology.com/store after September 2026 for individual lecture recordings and slides",
+          "event_files_updated": [],
+          "new_rules_appended": 0,
+          "summary": "data/btr-knowledge/chunks/uac2026_btr_extraction.md",
+          "search_sources": ["uacastrology.com (conference website)", "uac2026.sched.com (schedule platform)", "NCGR.org", "ISARastrology.org", "OPAastrology.org", "AFAastrologers.com", "YouTube", "Bing Search", "Brave Search"],
+          "status": "discovered_pending_conference"
+        }
+      ]
+    }
+  }
+}

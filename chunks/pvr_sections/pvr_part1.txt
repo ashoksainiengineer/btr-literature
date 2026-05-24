@@ -1,0 +1,4901 @@
+
+=== PAGE 1 ===
+ 
+ 
+Looking Back: An Update 
+In the last ten years since writing this book, my astrology studies and research 
+continued and my knowledge has been considerably refined. I have refined several 
+calculations and concepts shared in this book, based on my studies, insights and 
+experimentation. I may try to edit this book or write a new book in future, reflecting 
+the refinements in knowledge. However, I think that the book may still be useful for 
+clarifying some basic concepts and preparing the ground for advanced studies. So I 
+am sharing this book freely with all. 
+ 
+Some of my researches are shared as free articles on 
+ 
+http://www.VedicAstrologer.org/articles 
+ 
+My writings on Jyotish are archived in the yahoogroup: 
+ 
+http://groups.yahoo.com/group/JyotishWritings/messages 
+ 
+P.V.R. Narasimha Rao 
+March 18, 2010 
+ 
+ 
+ 
+
+=== PAGE 2 ===
+ 
+ 
+  
+ 
+Vedic Astrology: 
+An Integrated Approach 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+© P.V.R. Narasimha Rao 
+ 
+ 
+ 
+ 
+ 
+First Published in 2000
+
+=== PAGE 3 ===
+ 
+ 
+ 
+ 
+ 
+ 
+Lord of the Universe, destroyer of demon Madhu, beacon of Yadu 
+community, preceptor of Gita, giver of Knowledge, cowherd, one who is 
+prayed by Shiva – the destroyer of Love God, beloved of Gopis, one who 
+is filled with tempting charm, Krishna, born in Vrishni lineage, the Final 
+Preceptor with nothing beyond or after, a complete Incarnation, Vishnu, 
+Govinda, leader of Gods — may He always bless me, Narasimha (Rao), 
+who is bowed before Him. 
+ 
+ 
+ 
+
+=== PAGE 4 ===
+ 
+ 
+  
+ 
+ 
+ 
+ 
+Dedication 
+ 
+ 
+This book is humbly dedicated to the lotus feet of three great men from 
+whom I learnt Jyotish: 
+ 
+1. Sri P. Venkata Subrahmanyachalapathi 
+Rao (my father and my first guru), 
+2. Dr. B. V. Raman (immortal author who 
+rendered great yeoman’s service to Jyotish), and, 
+3. Pt. Sanjay Rath (author, my guru and founder 
+of “Sri Jagannath Vedic Centre”). 
+ 
+My only qualification for writing this book, apart from great enthusiasm 
+to share my little knowledge with others, is the little knowledge I gained 
+from the above three gurus. Whatever flows from my pen (or rather 
+computer keyboard) is due to the knowledge and blessings I received 
+from Mahavishnu and the above three great men. This book really 
+belongs to them and not to me1. 
+ 
+ 
+                                                 
+1 But any mistakes in this book are mine. 
+
+=== PAGE 5 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About the author 
+P.V.R. Narasimha Rao is an engineer by profession. He did his 
+B.Tech in Electrical & Electronics Engineering at Indian 
+Institute of Technology, Madras (1987-1991). He did his 
+masters at Rice University, Houston, US (1991-1993). He 
+works as a software engineer near Boston, USA. 
+ 
+He is seriously interested in Jyotish and Sanskrit literature. His 
+academic record includes two diplomas equivalent to 
+Bachelor’s degree in Sanskrit at a young age: “Sanskrita 
+Bhaashaa Kovida” diploma from Bharatiya Vidya Bhavan at 
+an age of 10 and “Sanskrita Bhaashaa Visaarada” diploma, 
+with distinction, from a board in Baroda at an age of 11. He is 
+an ardent student of Jyotish and a designated Jyotish Guru at 
+“Sri Jagannath Vedic Centre”. 
+ 
+ 
+
+=== PAGE 6 ===
+
+=== PAGE 7 ===
+Preface 
+With the Creator said to be one of its eighteen great preceptors, Jyotish or Vedic 
+astrology is thought to be as old as this creation is. There are many excellent books 
+on Jyotish written in Sanskrit language by great Maharshis and brilliant scholars. 
+Thanks to the yeoman service rendered by Dr. B.V. Raman and the efforts of other 
+Indian astrologers to follow him, today we have a fair amount of Jyotish literature in 
+English language too. 
+ 
+Considering the wealth of Vedic astrology literature in Sanskrit and English, another 
+book may not really be needed. Even if another book is needed, there are many 
+erudite scholars who are better equipped than me to write. Nevertheless, I wanted, 
+like a parrot that enthusiastically repeats the few words learnt by it, to share with 
+fellow students the little knowledge I received from classics and from my gurus. 
+ 
+In this book, I covered divisional charts, special ascendants, arudhas, argalas, yogas, 
+ashtakavarga, avasthas, a few nakshatra dasas, a few rasi dasas, several techniques  
+of transit analysis, Tajaka analysis and a few miscellaneous topics. 
+ 
+I tried to give prominence to special ascendants, divisional charts and arudhas, 
+because contemporary literature doesn't seem to give them the kind of importance 
+that Sage Parasara gave. Understanding the primacy Parasara gave to all these 
+concepts is a must for a renaissance in Vedic astrology. 
+ 
+Unfortunately, some people think today that Parasara and Jaimini taught two totally 
+different approaches to astrology. When we talk about arudha padas, argalas, chara 
+karakas, chara dasa and other rasi dasas, people think of them as “Jaimini astrology”. 
+People even use terms like “Jaimini karakas” and “Jaimini dasas”. However, all 
+these concepts were covered by Parasara also (please read “Brihat Parasara Hora 
+Sastram”). The “Parasari vs Jaimini” distinction is based on unfortunate 
+misconceptions that we can do away with. 
+ 
+In this book, I have de-emphasized these wrong distinctions and emphasized an 
+integrated approach – a holistic approach – that looks at Vedic astrology as a whole. 
+I really think that this is the right approach. 
+ 
+
+=== PAGE 8 ===
+ 
+ 
+  
+ 
+In the part on dasas, I covered Vimsottari dasa and Ashtottari dasa, as they are the 
+most commonly used nakshatra dasas. Kalachakra dasa was termed the “most 
+respectable dasa” by Parasara and a discussion on dasas cannot be complete without 
+it. In the galaxy of dasas, rasi dasas taught by Parasara and Jaimini have their own 
+place and I covered two rasi dasas used for timing material success – Lagna 
+Kendradi Rasi dasa and Sudasa. I also covered Narayana dasa, which is the most 
+versatile rasi dasa taught by maharshis. For the spiritually inclined, I included 
+Drigdasa, which can help us in timing events in one’s spiritual evolution. Because of 
+the importance of the topic of longevity, I covered two ayur dasas – Shoola dasa and 
+Niryaana Shoola Dasa. 
+ 
+In the part on transits, I covered the interpretation of transits based on the natal 
+positions of planets in rasi chart and divisional charts. I covered some techniques 
+based on ashtakavarga and sodhya pindas. I also covered several techniques related 
+to transits in nakshatras. 
+ 
+In the part on Tajaka, I covered the casting of Tajaka annual, monthly and sixty-hour 
+charts, their interpretation, Tajaka yogas and three dasas used for timing events in 
+Tajaka charts. Some scholars may validly question why Tajaka system is being 
+covered in a book on Vedic astrology. There are no references to it in the works of 
+Parasara, Jaimini and other maharshis. The oldest reference to these techniques to be 
+found in the works of a respected authority on Vedic astrology is in “Tajaka 
+Neelakanthi”, a work by Neelakantha who also wrote a celebrated commentary on 
+“Jaimini Sutras”. His coverage of Tajaka system lends some authenticity to the 
+system. One can only speculate whether Parasara talked about this system in parts 
+that are possibly missing today. I simply followed the precedent set by illustrious 
+scholars of Vedic astrology, like Neelakantha and Dr. B.V. Raman. 
+ 
+When we rely on finer techniques of Vedic astrology – such as divisional charts and 
+special lagnas – for finer predictions, it is crucial to have an accurate birthtime. The 
+chapter “Impact of Birthtime Error” shows how to cope with birthtime inaccuracies. 
+ 
+While I am upset with the dismissal of astrology by some critics as a ‘superstition’, I 
+am equally, if not more, upset with the irrational and unscientific attitude of some 
+astrologers. In an effort to promote rational thinking in the astrological community, I 
+included a chapter on “Rational Thinking”. 
+ 
+
+=== PAGE 9 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A very brief introduction to some special topics such as remedial measures, mundane 
+astrology and muhurtas is provided in this book and it is hoped that interested 
+readers will pursue these topics further by referring to other textbooks. 
+ 
+Vedic astrology is considered a sacred subject and Maharshi Parasara warned us 
+against sharing this knowledge with unworthy people. Ancient Sages laid down 
+some rules for the ethical behavior of a Vedic astrologer. I earnestly hope that all the 
+readers of this book will appreciate those rules. To that end, I added a chapter on 
+“Ethical Behavior of a Jyotishi”. 
+ 
+While no particular topic has been covered in great depth, most key fundamentals are 
+covered in this book. Most fundamental concepts and computations are clearly 
+defined with examples and their uses are briefly outlined. But I do not want to bill 
+this as a comprehensive introduction for beginners. There are parts of this book that 
+can be followed even by beginners, but an average beginner may find it 
+overwhelming in many places. For most part, this book is for intermediate level 
+students who already have a good background, but are in need of integrating and 
+consolidating their knowledge. However, there are some points in some places that 
+can be appreciated only by advanced scholars. So I will not make any claims on who 
+will find this book useful. Rather than targeting readership with a specific level of 
+knowledge, I tried to write a more or less self-sufficient book that covers a wide 
+spectrum of topics. Beginners should read this book very carefully, and more than 
+once, to completely understand various concepts. Though I have tried to maintain 
+some level of clarity, I squeezed in a lot of material and beginners should patiently 
+read, re-read and practice. 
+ 
+Due to my background in engineering, I tried to adopt a style somewhat similar to 
+the one used in mathematics and physics textbooks. I tried to be concise and always 
+to the point. I gave plenty of examples and even some exercises. I hope that students 
+will read the material and examples carefully and attempt the exercises sincerely. I 
+hope that the astrological community will accept this new style of astrology teaching. 
+ 
+In this book, I did not try to steer clear of the controversies plaguing Vedic astrology. 
+As my purpose in writing this book is to chronicle my broad understanding of 
+Jyotish in a clear and concise fashion and to give clear guidance to fellow students, I 
+stated my views clearly except in issues in which I do not have a firm opinion. 
+ 
+
+=== PAGE 10 ===
+ 
+ 
+  
+ 
+This book probably contains some fine knowledge, due to the blessings I received 
+from my gurus, and some wrong knowledge as well, due to the limitations of my 
+intelligence. Giving fine knowledge to unworthy students and feeding wrong 
+knowledge to worthy students are both mistakes and I am aware that I may be 
+committing both. I beg for the forgiveness of my gurus, maharshis and gods. 
+ 
+A free computer software program written by me called “Jagannatha Hora” is 
+available for a free download on my website (http://www.VedicAstrologer.org). It 
+can compute the positions of all planets, upagrahas, lagna, special lagnas, arudha 
+padas and ashtakavarga for twenty divisional charts. It supports several popular 
+ayanamsas. It gives Shadbalas, Vimsottari, Ashtottari and Kalachakra dasas and also 
+gives Tajaka annual charts, Patyayini dasa, Mudda dasa, Panchavargeeya Bala and 
+Sahams. Those who have a computer with a Microsoft operating system (Windows 
+95 or later) can download and use this software. 
+ 
+As I dedicated most of my free time in the last few years to astrology reading, 
+research and writing, my wife Padmaja, my daughter Sriharini and my son Sriharish 
+made a personal sacrifice and co-operated with my astrological activities. I am 
+thankful to them for their co-operation. 
+ 
+I cannot possibly finish this preface without expressing my deep gratitude for my 
+guru Pt. Sanjay Rath, who has been a constant source of enlightenment, 
+encouragement and inspiration. I am eternally grateful to him. I express my gratitude 
+to all the elders and well-wishers whose blessings gave me the energy to finish this 
+book. I hope that I will be forgiven for any mistakes and that I will continue to 
+receive their kind blessings. 
+ 
+ 
+May Jupiter’s light shine on us, 
+ 
+P.V.R. Narasimha Rao 
+3 Baron Park Lane #13 
+Burlington, MA 01803 (USA) 
+e-mail: pvr108@yahoo.com 
+July 15, 2000 (Guru Pournima) 
+ 
+
+=== PAGE 11 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+Part 1: Chart Analysis ................................................................................ 1 
+1. 
+Basic Concepts.......................................................................................................3 
+2. 
+Rasis.....................................................................................................................21 
+3. 
+Planets..................................................................................................................28 
+4. 
+Upagrahas ............................................................................................................41 
+5. 
+Special Lagnas .....................................................................................................45 
+6. 
+Divisional Charts .................................................................................................51 
+7. 
+Houses..................................................................................................................67 
+8. 
+Karakas ................................................................................................................79 
+9. 
+Arudha Padas .......................................................................................................85 
+10. 
+Aspects and Argalas...........................................................................................100 
+11. 
+Yogas .................................................................................................................112 
+12. 
+Ashtakavarga .....................................................................................................145 
+13. 
+Interpreting Charts .............................................................................................166 
+14. 
+Topics Related to Longevity..............................................................................180 
+15. 
+Strength of Planets and Rasis.............................................................................187 
+Part 2: Dasa Analysis .............................................................................. 207 
+16. 
+Vimsottari Dasa .................................................................................................209 
+17. 
+Ashtottari Dasa ..................................................................................................226 
+18. 
+Narayana Dasa...................................................................................................231 
+19. 
+Lagna Kendradi Rasi Dasa ................................................................................259 
+20. 
+Sudasa................................................................................................................263 
+21. 
+Drigdasa.............................................................................................................267 
+22. 
+Niryaana Shoola Dasa........................................................................................273 
+23. 
+Shoola Dasa .......................................................................................................281 
+24. 
+Kalachakra Dasa ................................................................................................289 
+Part 3: Transit Analysis.......................................................................... 313 
+25. 
+Transits and Natal References ...........................................................................314 
+26. 
+Transits: Miscellaneous Topics .........................................................................346 
+
+=== PAGE 12 ===
+ 
+ 
+  
+ 
+Part 4: Tajaka Analysis .......................................................................... 365 
+27. 
+Tajaka Chart Basics ...........................................................................................367 
+28. 
+Techniques of Tajaka Charts .............................................................................374 
+29. 
+Tajaka Yogas .....................................................................................................386 
+30. 
+Annual Dasas .....................................................................................................396 
+31. 
+Sudarsana Chakra Dasa .....................................................................................408 
+Part 5: Special Topics ............................................................................. 417 
+32. 
+Impact of Birthtime Error ..................................................................................420 
+33. 
+Rational Thinking ..............................................................................................441 
+34. 
+Remedial Measures............................................................................................450 
+35. 
+Mundane Astrology ...........................................................................................460 
+36. 
+Muhurta or Electional Astrology.......................................................................471 
+37. 
+Ethical Behavior of a Jyotishi............................................................................482 
+Part 6: Real-life Examples...................................................................... 485 
+ 
+
+=== PAGE 13 ===
+ 
+ 
+ 
+ 
+ 
+Part 1:  Chart Analysis 
+ 
+ 
+ 
+Several important principles and techniques of chart analysis 
+are explained in this part. This part forms the basis for the rest 
+of the book. 
+ 
+Based on the positions of all the planets when a person is born, 
+several charts are prepared. They go by the names – “rasi chart” 
+and “divisional charts”. Based on the analysis of these charts, 
+several conclusions can be drawn regarding the results that can 
+be given by different planets to the native. This part covers the 
+analysis and judgment of these charts. 
+ 
+It can help if the reader has basic understanding and prior 
+knowledge of Vedic or western astrology, but it is not really 
+required. This part is intended to be self-sufficient. However, 
+bear in mind that extra reading can only do good! 
+ 
+
+=== PAGE 14 ===
+ 
+ 
+ 
+ 2 
+Vedic Astrology: An Integrated Approach
+ 
+
+=== PAGE 15 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+3 
+ 
+ 
+ 
+1.  Basic Concepts 
+ 
+1.1 
+What is astrology 
+ 
+Planets are constantly in motion with respect to earth in the skies. The positions of 
+Sun, Moon and some planets close to earth can give important clues about the 
+fortunes of individual human beings and groups of human beings. That is the basic 
+premise of astrology. How exactly we can make guesses about the fortunes of 
+individual human beings and groups of human beings based on the positions of those 
+planets in the skies is the question that we will attempt to answer in this book. While 
+astrology is the subject that deals with this question, there are many theories and 
+philosophies in vogue and they are significantly different from each other. 
+ 
+Sunsign astrology, for example, is based on categorizing people into 12 groups based 
+on the solar month of birth. Some people may be convinced, based on their 
+experiences, that people born in the same month share certain qualities. It is, 
+however, not very logical from a rational perspective – there are just too many 
+people in this world, who are totally different from each other. So the month of one's 
+birth is totally inadequate for guessing one's nature or fortune. Even the date and the 
+hour of birth are not enough. We know that there are many twins in this world, who 
+are significantly different from each other! 
+ 
+What we mentioned just now is, by the way, a very important question to be 
+answered – it is like an “acid test” for any astrological doctrine. It is a known fact 
+that there are many twins in this world, who are significantly different from each 
+other and who lead totally different lives. Of course, some twins may have some 
+common qualities between them, but the fact remains that several twins are 
+significantly different. An astrological doctrine should be capable of explaining this 
+fact in order to be considered as a meaningful subject. 
+ 
+Most astrological doctrines of the world fail this acid test. If an astrological doctrine 
+assumes, like in the case of many popular astrological theories of the world, that two 
+persons born within a couple of hours in nearby towns will have the same fortune, 
+
+=== PAGE 16 ===
+ 
+ 
+ 
+ 4 
+Vedic Astrology: An Integrated Approach
+then that doctrine is obviously lacking in completeness and inadequate for confident 
+use in real-life. It fails the acid test of twins. 
+  
+1.2 
+India's astrology 
+ 
+Materialistically speaking, India may not be a rich country today, but India has 
+extremely rich cultural heritage. The depth of some of India's ancient knowledge 
+(like astrology) is just amazing and it makes one wonder if the history of this great 
+civilization is correctly represented in the pages of modern history. Astrology of 
+India is the most comprehensive and complete system of astrology available today 
+and it is the only one that comes close to answering the just mentioned “twins 
+puzzle”. India's astrology can explain how twins can be different. The principles 
+used in India's astrology are so sensitive to changes in birthtime that people born 
+within 1-2 minutes can be significantly different in some aspects and similar in some 
+others. This approach distinguishes between what a person truly is, what a person 
+wants to be, what he thinks he is and what the world thinks he is. It has enough 
+parameters, tools, techniques and degrees of freedom to model the extremely 
+complicated human life. 
+ 
+This astrological approach is known in the world by many names. Early pioneers of 
+modern Indian astrology, like Dr. B.V. Raman, called it “Hindu astrology”, because 
+this system was first taught by ancient Hindu sages. However, some people do not 
+like this expression because “Hindu” is not a Sanskrit word. This word was later 
+coined by the western invaders from the name of a river flowing on the northwestern 
+border of India (river “Sindhu” or “Indus”). They used the word “Hindu” to describe 
+the land and the people on the eastern side of this river. 
+ 
+The religion practiced by a majority of Indians is known as “Hindu” religion today, 
+but the fact is that there is no name for this religion in India's Sanskrit language, the 
+language in which most of the literature of this religion – and astrology – appeared! 
+Most other religions are known by the name of their main propagator, but India's 
+ancient religion had no single propagator or prophet. This religion consisted of 
+knowledge that revealed itself to spiritual masters of many generations. So there was 
+no name for this religion and the word “Hindu” coined by western invaders was 
+accepted by the world. However, as already stressed, this word finds no place in 
+Sanskrit literature. Some people do not like using a non-Sanskrit word to describe 
+
+=== PAGE 17 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+5 
+ 
+ 
+ 
+India's astrology, considering that most of India's classical literature in astrology 
+appeared in Sanskrit. 
+ 
+Later day authors came up with the name – “Vedic astrology". The word “Vedic” 
+means “pertaining to Vedas". Vedas are the sacred scriptures of, what is known 
+today as, Hinduism and they are supposed to contain knowledge of all subjects. 
+Moreover, astrology in particular is supposed to be a “Vedaanga” (which means a 
+limb of Vedas). In particular, it is said to be the eye of the Vedas. So the name 
+“Vedic astrology” is becoming popular these days. This author also suggests using 
+“Vedic astrology” or “Jyotish” (meaning “science of light"). Jyotishi is a practitioner 
+of Jyotish, i.e. a Vedic astrologer. 
+ 
+1.3 
+Basics 
+1.3.1 
+Grahas (planets) 
+ 
+The words “planet” and “star” are used in a slightly different sense in astrology than 
+in astronomy. For example, Sun (a star) and Moon (a satellite of earth) are called 
+planets in astrology, along with Mars etc. Basically, a graha or a planet is a body that 
+has considerable influence on the living beings on earth. Distant stars have negligible 
+influence on us, but Sun, Moon and planets in the solar system have a great influence 
+on our activities. So the word graha (or planet) is used to describe them. 
+ 
+Seven planets are considered in Indian astrology. They are – Sun, Moon, Mars, 
+Mercury, Jupiter, Venus and Saturn. In addition, two “chaayaa grahas” (shadow 
+planets) are considered in Indian astrology – Rahu and Ketu. These are also called 
+“the north node” and “the south node” respectively (or the head and tail of dragon). 
+Rahu and Ketu are not real planets; they are just some mathematical points. 
+ 
+Apart from these 9 planets, there are 11 moving mathematical points known as 
+Upagrahas (sub-planets or satellites). We also have lagna (ascendant), which is the 
+point that rises on the eastern horizon as the earth rotates around itself. In addition, 
+we have some mathematical points known as “special ascendants". 
+ 
+1.3.2 
+Rasis (signs) 
+ 
+
+=== PAGE 18 ===
+ 
+ 
+ 
+ 6 
+Vedic Astrology: An Integrated Approach
+The positions of all these planets, upagrahas, lagna and special lagnas in the zodiac 
+are measured in degrees, minutes and seconds from the start of the zodiac (which is a 
+fixed point in the sky). These positions are measured as seen from earth and they are 
+called “geocentric positions". For the positions (calculated in degrees, minutes and 
+seconds) of planets, lagna, special lagnas and upagrahas, we also use the words 
+longitude and sphuta. When watched from earth, the longitude of any planet in the 
+skies can be from 0°0'0'' (0 degrees 0 minutes 0 seconds) to 359°59'59''. It should be 
+noted that 0°0'0'' corresponds to the beginning of the zodiac. Many western 
+astrologers consider Sayana or tropical (moving) zodiac, whereas Nirayana or 
+sidereal (fixed) zodiac is considered in Vedic astrology. 
+ 
+The zodiac (sky) lasts 360° as mentioned above and it is divided into 12 equal parts. 
+They are called “rasis” (signs). English names, Sanskrit names, two-letter symbols 
+and values of the start longitude and the end longitude (in degrees, minutes and 
+seconds) of all twelve rasis are given in Table 1. 
+ 
+Table 1: Definition of Rasis 
+Rasi name 
+Sanskrit name 
+Symbol 
+Start 
+End 
+Aries 
+Mesha 
+Ar 
+0°0'0'' 
+29°59'59'' 
+Taurus 
+Vrishabha/Vrisha 
+Ta 
+30°0'0'' 
+59°59'59'' 
+Gemini 
+Mithuna 
+Ge 
+60°0'0'' 
+89°59'59'' 
+Cancer 
+Karkataka/Karka 
+Cn 
+90°0'0'' 
+119°59'59'' 
+Leo 
+Simha 
+Le 
+120°0'0'' 
+149°59'59'' 
+Virgo 
+Kanya 
+Vi 
+150°0'0'' 
+179°59'59'' 
+Libra 
+Thula 
+Li 
+180°0'0'' 
+209°59'59'' 
+Scorpio 
+Vrischika 
+Sc 
+210°0'0'' 
+239°59'59'' 
+Sagittarius 
+Dhanus 
+Sg 
+240°0'0'' 
+269°59'59'' 
+Capricorn 
+Makara 
+Cp 
+270°0'0'' 
+299°59'59'' 
+Aquarius 
+Kumbha 
+Aq 
+300°0'0'' 
+329°59'59'' 
+Pisces 
+Meena 
+Pi 
+330°0'0'' 
+359°59'59'' 
+ 
+Notation: If a planet is at 221°37', then you can find from Table 1 that it is between 
+210°0'0'' and 239°59'59''. So, that planet is in Scorpio (or Vrischika). Its 
+advancement from the start of the rasi occupied by is 11°37'. Its position in the 
+zodiac (221°37') is shown by some people by the notation 11°37' in Sc or simply 11 
+Sc 37. This means “advanced by 11°37' from the start of Sc (Scorpio)". Some people 
+
+=== PAGE 19 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+7 
+ 
+ 
+ 
+show it as 7s 11° 37'. This means “after completing 7 signs, advanced by 11°37' in 
+the 8th sign (which is Scorpio)". 
+ 
+Exercise 1: 
+Jupiter is at 94°19'. Mercury is at 5s 17° 45'. Venus is at 25 Li 31. For each of these 
+planets, find (a) the rasi occupied and (b) the advancement from the start of the rasi 
+occupied. 
+ 
+Each rasi again has many kinds of divisions and they are called “vargas". They will 
+be defined in detail later. 
+ 
+1.3.3 
+Bhavas (houses) 
+ 
+Another important concept is “house” (Sanskrit name: bhava). In each chart, houses 
+can be found with respect to several reference points and the reference points most 
+commonly employed are lagna and special lagnas. Starting from the rasi occupied by 
+the selected reference point and proceeding in the regular order across the zodiac, we 
+associate each rasi with a house (first, second etc). Always the rasi containing the 
+reference point chosen is the 1st house. Next rasi is the 2nd house. The rasi after that 
+is the 3rd house. We proceed until the 12th house like that. Just remember that when 
+we encounter Pisces, we go to Aries after it. If no reference point is specified when 
+houses are mentioned, it means that lagna is used as the reference. 
+ 
+If, for example, horalagna is in Cn, first house with respect to horalagna is in Cn. 
+Second house is in Le (see Table 1). Third house is in Vi. Ninth house is in Pi. Tenth 
+house is in Ar. Eleventh house is in Ta. Twelfth house is in Ge. 
+ 
+Exercise 2: 
+ 
+(1) Lagna is in Cn, Sun is in Ar, Moon is in Ta and Mars is in Cp. Find the houses 
+occupied by Sun, Moon and Mars. 
+(2) Repeat the exercise, taking Moon as the reference point when finding houses. 
+ 
+Different houses stand for different matters. Looking at the rasis and houses 
+occupied by various planets, we can say a lot of things about the person. How 
+exactly this is done will become clear in coming chapters. 
+
+=== PAGE 20 ===
+ 
+ 
+ 
+ 8 
+Vedic Astrology: An Integrated Approach
+ 
+1.3.4 
+Chakras (charts) 
+ 
+A “chart” (Sanskrit name: chakra) is prepared with the information of rasis 
+occupied by all planets. For preparing any chart, we need to first determine the rasis 
+occupied by all planets, upagrahas, lagna and special lagnas. In the visual 
+representation of a chart, there are 12 boxes (are some other visual areas) with each 
+representing a rasi. All planets, upagrahas and lagnas are written in the boxes 
+corresponding to the rasis they occupy. 
+ 
+There are 3 popular ways of drawing charts in India: (1) South Indian style chart 
+ruled by Jupiter, (2) North Indian style diamond chart ruled by Venus and (3) East 
+Indian style Sun chart ruled by Sun. In this book, all the charts will be given in 
+formats (1) and (2). 
+ 
+Out of the three chart formats, (1) and (3) are rasi-based and (2) is bhava-based. In 
+rasi-based chart drawing formats, a rasi is always at a fixed position. Ar is always in 
+one particular position and Ta is in another position and so on. Planets, lagna etc are 
+placed in the box (or the visual area) representing the rasi occupied by it. In bhava-
+based chart drawing formats, a bhava (house) is always at a fixed position. Lagna 
+(denoted by “Asc” for ascendant) is always in a particular visual area of the chart and 
+the 2nd, 3rd etc houses are in fixed positions. 
+ 
+Example 1: Let us take Lord Sree Rama’s rasi chart. The rasis occupied by planets 
+and lagna are given below. 
+ 
+Ar – Sun; Ta – Mercury; Ge – Ketu; Cn – Ascendant (lagna), Moon & Jupiter; Li – 
+Saturn; Sg – Rahu; Cp – Mars; Pi – Venus. 
+ 
+
+=== PAGE 21 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+9 
+ 
+ 
+ 
+Figure 1: Indian Chart Styles 
+ 
+ 
+Rasi chart for the above data is drawn in South Indian, North Indian and East Indian 
+formats in Figure 1. In the south Indian chart, notice the boxes containing Ar, Ta, Ge 
+etc. In this format, these rasis will always be in the same positions. The same holds 
+for the east Indian format. The north Indian format is different. Note the box 
+containing “Asc” (ascendant – lagna). The same box will show the house containing 
+
+=== PAGE 22 ===
+ 
+ 
+ 
+ 10 
+Vedic Astrology: An Integrated Approach
+lagna in all north Indian format charts. It may be Ar in one chart, Ta in another and 
+Ge in yet another. The number corresponding to the rasi (1 for Ar, 2 for Ta, 3 for Ge 
+and so on) is shown in the box. For example, the box with “Asc” has 4 in it and it 
+shows Cn. So the 1st house is in Cn. Please note the order in which houses are 
+visually arranged in this chart. The same pattern will be used in all charts. 
+ 
+NOTE: Some people draw the east Indian format charts with an enclosing rectangle. 
+ 
+1.3.5 
+Varga chakras (divisional charts) 
+ 
+We saw that charts can be drawn with the information of which planet occupies 
+which rasi. Based on the longitude of a planet, we can find the rasi occupied by it 
+and mark its position in rasi chart. 
+ 
+In addition, we have what are known as “divisional charts” (Sanskrit name: varga 
+chakras). These are based on dividing rasis into 2 parts, 3 parts, 4 parts and so on. 
+We divide each rasi into n parts and map each part to a rasi again. Based on the rasis 
+occupied by planets in these divisional mappings, we draw divisional charts (or 
+harmonic charts). Each divisional chart throws light on a specific area of one’s life. 
+In each divisional chart, we find houses and analyze the chart as if it were an 
+independent chart. The science of Vedic astrology stands on the basis of 4 pillars – 
+(1) grahas or planets, (2) rasis or signs, (3) bhavas or houses, and, (4) varga chakras 
+or divisional charts. 
+ 
+1.3.6 
+Nakshatras (constellations) 
+ 
+In Vedic astrology, the zodiac is divided into 27 nakshatras. Each nakshatra has a 
+length of 360º/27 = 13º 20'. The first nakshatra, for example, stretches from the 
+beginning of Aries to 13º 20' in Aries. The second nakshatra stretches from there to 
+26º 40' in Aries. The third nakshatra stretches from there to 10º in Taurus. The list of 
+nakshatras with the respective starting and ending points is given in Table 2. The 
+table also gives the “Vimsottari lords” of all nakshatras. This will be used later. 
+ 
+Each nakshatra is again divided into 4 quarters. They are called padas (legs/feet). 
+The length of a nakshatra pada is 3º 20'. 
+ 
+
+=== PAGE 23 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+11 
+ 
+ 
+ 
+Table 2: Nakshatras 
+Name of 
+Nakshatra 
+Starts at 
+Ends at 
+Vimsottari 
+Lord 
+Ruling Deity 
+Aswini 
+00 Ar 00 
+13 Ar 20 
+Ketu 
+Aswini Kumara 
+Bharani 
+13 Ar 20 
+26 Ar 40 
+Venus 
+Yama 
+Krittika 
+26 Ar 40 
+10 Ta 00 
+Sun 
+Agni 
+Rohini 
+10 Ta 00 
+23 Ta 20 
+Moon 
+Bramha 
+Mrigasira 
+23 Ta 20 
+6 Ge 40 
+Mars 
+Moon 
+Aardra 
+6 Ge 40 
+20 Ge 00 
+Rahu 
+Shiva 
+Punarvasu 
+20 Ge 00 
+03 Cn 20 
+Jupiter 
+Aditi 
+Pushyami 
+03 Cn 20 
+16 Cn 40 
+Saturn 
+Jupiter 
+Aasresha 
+16 Cn 40 
+30 Cn 00 
+Mercury 
+Rahu 
+Makha 
+00 Le 00 
+13 Le 20 
+Ketu 
+Sun 
+Poorva Phalguni 
+13 Le 20 
+26 Le 40 
+Venus 
+Aryaman 
+Uttara Phalguni 
+26 Le 40 
+10 Vi 00 
+Sun 
+Sun 
+Hasta 
+10 Vi 00 
+23 Vi 20 
+Moon 
+Viswakarma 
+Chitra 
+23 Vi 20 
+6 Li 40 
+Mars 
+Vaayu 
+Swaati 
+6 Li 40 
+20 Li 00 
+Rahu 
+Indra 
+Visaakha 
+20 Li 00 
+03 Sc 20 
+Jupiter 
+Mitra 
+Anooraadha 
+03 Sc 20 
+16 Sc 40 
+Saturn 
+Indra 
+Jyeshtha 
+16 Sc 40 
+30 Sc 00 
+Mercury 
+Nirriti 
+Moola 
+00 Sg 00 
+13 Sg 20 
+Ketu 
+Varuna 
+Poorvaashaadha 
+13 Sg 20 
+26 Sg 40 
+Venus 
+Viswadeva 
+Uttaraashaadha 
+26 Sg 40 
+10 Cp 00 
+Sun 
+Brahma 
+Sravanam 
+10 Cp 00 
+23 Cp 20 
+Moon 
+Vishnu 
+Dhanishtha 
+23 Cp 20 
+6 Aq 40 
+Mars 
+Vasu 
+Satabhishak 
+6 Aq 40 
+20 Aq 00 
+Rahu 
+Varuna 
+Poorvaabhaadra 
+20 Aq 00 
+03 Pi 20 
+Jupiter 
+Ajacharana 
+Uttaraabhaadra 
+03 Pi 20 
+16 Pi 40 
+Saturn 
+Ahirbudhanya 
+Revati 
+16 Pi 40 
+30 Pi 00 
+Mercury 
+Pooshan 
+ 
+For the purpose of some special charts like Kota Chakra and Sarvatobhadra Chakra, 
+we consider 28 nakshatras. The last quarter of Uttarashadha is known as “Abhijit”. 
+However, we consider 27 nakshatras for all other purposes. 
+ 
+1.3.7 
+Solar Calendar 
+
+=== PAGE 24 ===
+ 
+ 
+ 
+ 12 
+Vedic Astrology: An Integrated Approach
+ 
+In solar calendar, one year is the time in which Sun moves by 360° and one month is 
+the time in which Sun moves by 30°. These are called “solar year” and “solar month” 
+respectively. Each solar month has 30 days, where one day stands for exactly 1° 
+motion of Sun). This calendar will be used in dasas and in Tajaka analysis. 
+ 
+1.3.8 
+Tithis and Lunar Calendar 
+1.3.8.1 
+Tithis 
+ 
+In lunar calendar, one day stands for one tithi. Tithi or lunar day is a period in which 
+the difference between the longitudes of Moon and Sun changes by exactly 12°. 
+Table 3: Names of Tithis 
+Sukla/Suddha 
+Paksha 
+(brighter 
+fortnight) 
+Krishna/Bahula 
+Paksha (darker 
+fortnight) 
+Name of tithi 
+Planet 
+(Lord) 
+1st 
+16th 
+Pratipat/Pratipada/Padyami 
+Sun 
+2nd 
+17th 
+Dwitiya/Vidiya 
+Moon 
+3rd 
+18th 
+Tritiya/Tadiya 
+Mars 
+4th 
+19th 
+Chaturthi/Chaviti/Chauth 
+Mercury 
+5th 
+20th 
+Panchami 
+Jupiter 
+6th 
+21st 
+Shashti 
+Venus 
+7th 
+22nd 
+Saptami 
+Saturn 
+8th 
+23rd 
+Ashtami 
+Rahu 
+9th 
+24th 
+Navami 
+Sun 
+10th 
+25th 
+Dasami 
+Moon 
+11th 
+26th 
+Ekadasi 
+Mars 
+12th 
+27th 
+Dwadasi 
+Mercury 
+13th 
+28th 
+Trayodasi 
+Jupiter 
+14th 
+29th 
+Chaturdasi 
+Venus 
+15th 
+— 
+Paurnami/Paurnimasya/ 
+Poornima (Full Moon) 
+Saturn 
+— 
+30th 
+Amavasya (New Moon) 
+Rahu 
+ 
+
+=== PAGE 25 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+13 
+ 
+ 
+ 
+When Sun and Moon are at the same longitude, a new lunar month of 30 tithis starts. 
+As time progresses, Moon will go ahead of Sun. When Moon’s longitude is exactly 
+12° greater than Sun’s longitude, the first tithi or lunar day finishes and the second 
+tithi starts. When Moon’s longitude is exactly 24° greater than Sun’s longitude, the 
+second tithi finishes and the third tithi starts. When Moon’s longitude is exactly 36° 
+greater than Sun’s longitude, the third tithi finishes and the fourth tithi starts. And so 
+on. You can see that Sun-Moon longitude differential will be (12 x n)° after exactly n 
+tithis. 
+ 
+A lunar month consists of 30 tithis. Each month is divided into two fortnights 
+(pakshas). During Sukla/Suddha paksha or the brighter fortnight, Moon is waxing. 
+During this paksha, Moon is ahead of Sun by an amount that is between 0º and 180º. 
+During Krishna/Bahula paksha or the darker fortnight, Moon is waning. During this 
+paksha, Moon is ahead of Sun by an amount that is between 180º and 360º. 
+ 
+At the end of a month, Sun-Moon longitude differential will be (12 x 30)°, i.e., 360°. 
+That means that Moon will finish one cycle around the zodiac and catch up with Sun 
+again. So Sun and Moon will be at the same longitude again. Then a new month 
+starts. 
+ 
+We can find the tithi running on a day from the longitudes of Sun and Moon using 
+the following procedure. 
+ 
+(1) Find the difference: (Moon’s longitude – Sun’s longitude). Add 360° if the result 
+is negative. The result will be between 0° and 360° and will show how advanced 
+Moon is with respect to Sun. 
+(2) Divide this result by 12°. Ignore the remainder and take the quotient. 
+(3) Add 1 to the quotient. You get a number from 1 to 30. That will give the index of 
+the tithi running. 
+(4) Refer to Table 3 and find the name of the tithi. There are 15 tithis and the same 
+tithis repeat in the brigher and darker fortnights. For example, it can be seen from 
+the table that the 22th tithi out of the 30 tithis is in Krishna paksha and it is 
+Saptami. So the 22nd tithi is “Krishna Saptami”. We write the classification of 
+fortnight (Sukla or Krishna) first and then write tithi name. “Sukla Saptami” 
+stands for “Saptami” in the brighter fortnight (sukla paksha), i.e. the 7th tithi. 
+“Krishna Saptami” stands for “Saptami” in the darker fortnight (krishna paksha), 
+i.e. the 22nd tithi. 
+
+=== PAGE 26 ===
+ 
+ 
+ 
+ 14 
+Vedic Astrology: An Integrated Approach
+ 
+Example 2: 
+Let us say that Moon is at 24°12' in Gemini. This is (2 x 30°) + 24° 12' = 84° 12' 
+from the beginning of the zodiac. 
+ 
+Let us say that Sun is at 17°46' in Scorpio. This is (7 x 30°) + 17° 46' = 227° 46' 
+from the beginning of the zodiac. 
+ 
+Moon – Sun = 84° 12' – 227° 46' = –(143° 34'). It is negative because Sun is at a 
+higher longitude. We have to add 360° to it to make it positive. It becomes 216° 26'. 
+So this is the advancement of Moon with respect to Sun. 
+ 
+Converting this to a decimal number, we get 216.43°. We have to divide it by 12°. 
+We find 216.43 ÷ 12 and the quotient is 18. So 18 tithis are over. Adding 1 to it, we 
+get 19 and so the 19th tithi is running. Referring to Table 3, we see that this is 
+“Chaturthi” tithi of Krishna paksha (darker fortnight). So it is “Krishna Chaturthi”. 
+ 
+Exercise 3: Moon is at 14°43' in Leo. Sun is at 28°13' in Capricorn. Find the running 
+tithi. 
+ 
+1.3.8.2 
+Lunar Months 
+ 
+We said that a new lunar month starts whenever Sun and Moon are at the same 
+longitude. Then Moon will go ahead of Sun and, after about 29-30 days, he will 
+catch up with Sun again. A new lunar month will start again. 
+ 
+These lunar months go by special names. The name of a lunar month is decided by 
+the rasi in which Sun-Moon conjunction2 takes place. If Sun-Moon conjoin in Pisces, 
+for example, it starts Chaitra maasa. These names come from the constellation that 
+Moon is most likely to occupy on the full Moon day. In the month that starts when 
+Sun and Moon conjoin in Pisces, Moon is likely to be in Chitra constellation (23°20' 
+                                                 
+2 Two planets are said to be in “conjunction” if they are exactly at the same longitude. 
+NOTE: However, we sometimes use this term approximately. If two planets are in the same sign, but 
+not exactly at the same longitude, we still say that they are in conjunction. 
+
+=== PAGE 27 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+15 
+ 
+ 
+ 
+in Virgo to 6°40' in Libra) on the full Moon day (15th tithi – Pournimasya). So the 
+month is called Chaitra. 
+Table 4: Lunar Months 
+Rasi of Sun-Moon 
+conjunction that 
+starts the month 
+Name of the 
+month 
+Most likely constellation 
+of Full Moon 
+Approx 
+when? 
+Pisces 
+Chaitra 
+Chitra 
+Mar/Apr 
+Aries 
+Vaisaakha 
+Visaakha 
+Apr/May 
+Taurus 
+Jyeshtha 
+Jyeshtha 
+May/June 
+Gemini 
+Aashaadha 
+Poorva/Uttara Aashaadha 
+June/July 
+Cancer 
+Sraavana 
+Sravana 
+July/Aug 
+Leo 
+Bhaadrapada 
+Poorva/Uttara Bhadrapada
+Aug/Sept 
+Virgo 
+Aaswayuja 
+Aswini 
+Sept/Oct 
+Libra 
+Kaarteeka 
+Krittika 
+Oct/Nov 
+Scorpio 
+Maargasira 
+Mrigasira 
+Nov/Dec 
+Sagittarius 
+Pushya 
+Pushyami 
+Dec/Jan 
+Capricorn 
+Maagha 
+Makha 
+Jan/Feb 
+Aquarius 
+Phaalguna 
+Poorva/Uttara Phalguni 
+Feb/Mar 
+ 
+A solar year has about 365.2425 days, but a lunar year only has about 355 days. 
+Once in every 3 years, this difference accumulates to one month and an extra lunar 
+month comes. This results in Sun-Moon conjunction coming twice in the same rasi. 
+For example, Sun-Moon conjunction took place at 0°23' in Taurus on May 15, 1999 
+at 5:35:32 pm (IST) and again at 28°29' in Taurus on June 14, 1999 at 12:33:27 am 
+(IST). Sun-Moon conjunction in Taurus starts Jyeshtha maasa (maasa = month) as 
+per Table 4. So 1999 had 2 Jyeshtha maasas. One is called “Nija” Jeshtha maasa and 
+the other is called “Adhika” Jyeshtha maasa. Nija means real and adhika means 
+extra. An adhika maasa (extra month) comes once in every 3 years and that 
+synchronizes the lunar years with solar years. This calendar has been in use in India 
+for millennia. 
+ 
+1.3.9 
+Yogas 
+ 
+Add the longitudes of Sun and Moon. Remove 360º from the sum if it is greater than 
+360º. Divide the sum by the length of one nakshatra (13°20' or 800'). Ignore fractions 
+
+=== PAGE 28 ===
+ 
+ 
+ 
+ 16 
+Vedic Astrology: An Integrated Approach
+and take the integer part. Add 1 to it and the result is the index of the yoga running. 
+Refer to Table 5 and find the yoga corresponding to the index. 
+ 
+Table 5: Sun-Moon Yogas 
+Index 
+Yoga 
+Meaning 
+1 
+Vishkambha 
+Door bolt/supporting pillar 
+2 
+Preeti 
+Love/affection 
+3 
+Aayushmaan 
+Long-lived 
+4 
+Saubhaagya 
+Long life of spouse (good fortune) 
+5 
+Sobhana 
+Splendid, bright 
+6 
+Atiganda 
+Great danger 
+7 
+Sukarman 
+One with good deeds 
+8 
+Dhriti 
+Firmness 
+9 
+Shoola 
+Shiva’s weapon of destruction (pain) 
+10 
+Ganda 
+Danger 
+11 
+Vriddhi 
+Growth 
+12 
+Dhruva 
+Fixed, constant 
+13 
+Vyaaghaata 
+Great blow 
+14 
+Harshana 
+Cheerful 
+15 
+Vajra 
+Diamond (strong) 
+16 
+Siddhi 
+Accomplishment 
+17 
+Vyatipaata 
+Great fall 
+18 
+Variyan 
+Chief/best 
+19 
+Parigha 
+Obstacle/hindrance 
+20 
+Shiva 
+Lord Shiva (purity) 
+21 
+Siddha 
+Accomplished/ready 
+22 
+Saadhya 
+Possible 
+23 
+Subha 
+Auspicious 
+24 
+Sukla 
+White, bright 
+25 
+Brahma 
+Creator (good knowledge and purity) 
+26 
+Indra 
+Ruler of gods 
+27 
+Vaidhriti 
+A class of gods 
+ 
+Example 3: Suppose Sun is at 23°50' in Cp and Moon is at 17°20' in Li. Then Sun’s 
+longitude is 23°50' + 9 x 30° = 293°50' and Moon’s longitude is 17°20' + 6x 30° = 
+197°20'. The sum is 293°50' + 197°20' = 491°10'. By subtracting 360º, we get 
+
+=== PAGE 29 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+17 
+ 
+ 
+ 
+131°10'. This is equivalent to 131 x 60 + 10 =  7870'. By dividing this with 800', we 
+get 9.8375. Ignoring the fraction, we get 9. Adding 1 to it, we get 10. From Table 5, 
+we see that the 10th yoga is “Ganda yoga”. 
+ 
+Exercise 4: Moon is at 14°43' in Leo. Sun is at 28°13' in Capricorn. Find the running 
+Sun-Moon yoga. 
+ 
+1.3.10 
+Karanas 
+ 
+Each tithi is divided into 2 karanas. There are 11 karanas: (1) Bava, (2) Balava, (3) 
+Kaulava, (4) Taitula, (5) Garija, (6) Vanija, (7) Vishti, (8) Sakuna, (9) Chatushpada, 
+(10) Naga, and, (11) Kimstughna. The first 7 karanas repeat 8 times starting from the 
+2nd half of the first lunar day of a month. The last 4 karanas come just once in a 
+month, starting from the 2nd half of the 29th lunar day and ending at the 1st half of the 
+first lunar day. 
+ 
+1.3.11 
+Hora 
+ 
+Each day starts at sunrise and ends at next day’s sunrise. This period is divided into 
+24 equal parts and they are called horas. A hora is almost equal to an hour. These 
+horas are ruled by different planets. The lords of hora come in the order of 
+decreasing speed with respect to earth: Saturn, Jupiter, Mars, Sun, Venus, Mercury 
+and Moon. After Moon, we go back to Saturn and repeat the 7 planets. 
+ 
+The first hora of any day (i.e. a period of one hour following sunrise) is ruled by the 
+lord of the weekday (Sun for Sunday, Moon for Monday, Mars for Tuesday, 
+Mercury for Wednesday, Jupiter for Thursday, Venus for Friday and Saturn for 
+Saturday). After that, we list planets in the order mentioned above. 
+ 
+For example, let us take 9:40 pm on a Wednesday on which sunrise was at 6:10 am. 
+The time elapsed since sunrise is 21:40 – 6:10 = 15:30. So the 16th hour since sunrise 
+was running then. This is ruled by the 16th planet from Mercury. After subtracting 
+multiples of 7 from 16, we get 2. So the hora (hour) is ruled by the 2nd planet from 
+Mercury. From the list given above, we see that the 2nd planet from Mercury is 
+Moon. So Moon’s hora runs at 9:40 pm. 
+ 
+
+=== PAGE 30 ===
+ 
+ 
+ 
+ 18 
+Vedic Astrology: An Integrated Approach
+1.3.12 
+Panchaanga 
+ 
+Panchaanga means “one with 5 limbs”. Almanacs published in India with planetary 
+positions are traditionally called panchaangas. Along with the planetary positions, 
+they give the start and end times of tithi, vaara (week day – Sunday, Monday etc), 
+nakshatra, yoga and karana running on each day. These five are the limbs of 
+panchaanga. 
+ 
+When we choose a muhurta (an auspicious time for starting a venture), we should 
+choose an auspicious tithi, vaara, nakshatra, yoga and karana. 
+ 
+1.3.13 
+Ayanamsa 
+ 
+Because of the movement in earth’s precession, the starting point of the tropical 
+zodiac changes slowly (with respect to fixed stars). Tropical (sayana) zodiac is 
+analogous to measuring the positions of trees and buildings sitting in a slowly 
+moving bus. Sidereal (nirayana) zodiac, on the other hand, considers a fixed zodiac. 
+It considers the motion of the tropical zodiac (bus in our analogy) and makes an 
+adjustment accordingly. We use the sidereal zodiac in Vedic astrology. The 
+difference between the tropical zodiac and the sidereal zodiac is of great importance. 
+What modern ephemeris gives us is the tropical positions of planets. To convert 
+these positions, we have to subtract the difference between the two zodiacs. This 
+difference varies with time. As earth’s precession changes every year, the difference 
+between the tropical zodiac and the sidereal zodiac changes. This difference is called 
+“ayanamsa” (sidereal difference). There are many opinions on the correct value of 
+ayanamsa, because nobody knows exactly which star is supposed to be the starting 
+point of the real zodiac. We will use Chitrapaksha/Lahiri ayanamsa in this book, 
+which is accepted by most Vedic astrologers of India. 
+ 
+1.4 
+Dasa Systems 
+ 
+Dasa systems are a hallmark of Vedic astrology. Vedic astrology has hundreds of 
+dasa system. Each dasa system divides one’s life into periods, sub-periods, sub-sub-
+periods and so on. All the periods are ruled by different planets or rasis. Some dasa 
+systems are planet-based and some are rasi-based. Each dasa system is good at 
+showing events of a specific nature. For each dasa system, we have some standard 
+
+=== PAGE 31 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+19 
+ 
+ 
+ 
+rules, based on which we analyze the natal chart and attribute different results to 
+different periods and sub-periods. Each dasa system comes with rules for dividing 
+one’s life into periods and sub-periods and rules for attributing different results to 
+different periods, based on the planetary positions in the natal chart. These periods 
+are called “dasas” or “mahadasas” (MD). Sub-periods are called “antardasas” (AD). 
+Sub-sub-periods are called “pratyantardasas” (PD). 
+ 
+Some dasas are good at showing matters related to longevity and death. They are 
+called “ayur dasas” (dasas of longevity). Some dasas are good at showing general 
+results. They are called “phalita dasas” (dasas of general results). 
+ 
+Mind is a very important part of our existence and Moon governs it. Some dasas are 
+computed based on the nakshatra occupied by Moon and they are called “nakshatra 
+dasas”. Some dasas are based on the rasis occupied by planets and they are called 
+“rasi dasas”. 
+ 
+We will learn 10 different dasa systems in this book. Readers should not look at 
+these 10 dasas as ten different alternatives to look at the same life event. They should 
+instead be looked at as ways to look at 10 different aspects of the same life event. In 
+fact, some of the dasas taught in this book are limited to specific matters. For 
+example, we should look at Drigdasa for spiritual progress and we should look at 
+Sudasa for money and wealth. Like that, some dasas are limited to specific matters. 
+ 
+1.5 
+Conclusion 
+ 
+The content of this chapter may be too rudimentary for most readers. However, for 
+beginners, it may be confusing.  
+ 
+The content of the first several chapters of this book may seem to be disjoint, but 
+things will fall in place as we go on. Readers should patiently go through the 
+material in the order presented. One has to work hard on the basics. Once the basics 
+are clear, Vedic astrology is a very systematic subject. 
+ 
+Some Western astrologers mix Western astrology with Vedic astrology and bring in 
+progressions, extra-Saturnine planets etc into Vedic astrology. It is silly to suggest 
+that the Sages who taught such brilliant and superfine techniques did not consider 
+some planets because they did not know about them. Vedic astrology is a very 
+
+=== PAGE 32 ===
+ 
+ 
+ 
+ 20 
+Vedic Astrology: An Integrated Approach
+logical and systematic subject and there is no need to corrupt it. There are some 
+techniques of western astrology that are not used by most contemporary Vedic 
+astrologers but were taught by seers. We can accept those techniques. An example is 
+progressions. They were not taught by Parasara, but they were taught by Manu. So 
+we can accept them. But the use of Uranus, Neptune and Pluto were not taught by 
+any seers of Vedic astrology. We should first strive to clearly understand the 
+teachings of maharshis. There is a lot of width and depth in the knowledge taught by 
+maharshis. Our focus should be on understanding their teachings correctly and not on 
+adding new things to the knowledge that we only superficially understand. 
+ 
+Western astrologers reading this book may have to unlearn some things they learnt 
+before, as they read this book. 
+ 
+1.6 
+Answers to Exercises 
+ 
+Exercise 1: Jupiter: (a) Cancer and (b) 4°19'. Mercury: (a) Virgo and (b) 17°45'. 
+Venus: (a) Libra and (b) 25°31'. 
+Exercise 2:  (1) No reference is mentioned. So reference is lagna (Cn). Sun in Ar: 
+10th house. Moon in Ta: 11th house. Mars in Cp: 7th house. 
+(2) Sun: 12th house. Moon: 1st house. Mars: 9th house. 
+Exercise 3: Krishna Dwitiya (17th tithi or the 2nd tithi in the darker fortnight). 
+Exercise 4: Atiganda yoga. 
+
+=== PAGE 33 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+21 
+ 
+ 
+ 
+2.  Rasis 
+ 
+2.1 
+Introduction 
+ 
+We learnt that the zodiac of 360º is divided into 12 equal parts of 30º. We learnt 
+these are called rasis (signs). We learnt the definition of rasis in Table 1. Different 
+rasis have different properties and they stand for different things. We will learn them 
+in this small chapter. 
+ 
+2.2 
+Characteristics of Rasis 
+ 
+2.2.1 
+Limbs of Vishnu 
+ 
+The whole zodiac is nothing but a manifestation of Lord Vishnu’s body. Aries is the 
+head. Taurus is the face. Gemini is the arms. Cancer is the heart. Leo is the stomach. 
+Virgo is the hip. Libra is the space below navel. Scorpio is the private parts. 
+Sagittarius is the thighs. Capricorn is the knees. Aquarius is the ankles. Pisces is the 
+feet. 
+ 
+These are the limbs that rasis in the natural zodiac stand for. Because we are all part 
+of the Supreme energy governing this world, the above mapping applies to us too. 
+For example, we should pay attention to Leo for analyzing stomach problems and to 
+Pisces for analyzing problems related to feet and so on. 
+ 
+2.2.2 
+Odd and Even 
+ 
+(1) Ar, Ge, Le, Li, Sg and Aq are called odd rasis or vishama rasis or oja rasis. They 
+are also known as male rasis. 
+(2) Ta, Cn, Vi, Sc, Cp and Pi are called even rasis or sama rasis or yugma rasis. They 
+are also known as female rasis. 
+ 
+This division is used in some dasas and in the determination of the sex of children. 
+
+=== PAGE 34 ===
+ 
+ 
+ 
+ 22 
+Vedic Astrology: An Integrated Approach
+ 
+2.2.3 
+Odd-footed and Even-footed 
+ 
+(1) Ar, Ta, Ge, Li, Sc and Sg are called odd-footed rasis or vishamapada rasis or 
+ojapada rasis. 
+(2) Cn, Le, Vi, Cp, Aq and Pi are called even-footed rasis or samapada rasis or or 
+yugmapada rasis. 
+ 
+This division is used in some dasas. 
+ 
+2.2.4 
+Movable, Fixed and Dual 
+ 
+(1) Ar, Cn, Li and Cp are known as chara rasis or movable rasis. They are ruled by 
+Brahma, the Creator. Their nature is to move and to be dynamic. 
+(2) Ta, Le, Sc and Aq are known as sthira rasis or fixed rasis. They are ruled by 
+Shiva, the Destroyer. Their nature is to be stable and constant. 
+(3) Ge, Vi, Sg and Pi are known as dwiswabhava rasis or dual rasis. They are ruled 
+by Vishnu, the Sustainer.3 They are stable sometimes and dynamic sometimes. 
+ 
+2.2.5 
+Rasis & Five Elements 
+ 
+According to Hindu philosophy, this world is made up of 5 elements – fire, water, 
+air, earth and ether. Water is a substance with a flexible state. Air is a substance with 
+a varying state. Earth is a substance with a constant and solid state. Fire is a 
+substance that transforms the state of things. Ether is something that is present 
+everywhere. 
+ 
+For example, suppose one has a good memory and remembers something he learnt 
+10 years back. It involves a skill of earthy nature. Suppose a poet’s imagination 
+creates a nice poem that appeals to one’s aesthetic sense. This involves watery skills. 
+Suppose one is in a bad mood and his mind is wandering aimlessly. This shows airy 
+state of the mind. These 5 elements are behind every material substance, every 
+action, every thought, every emotion and every happening in this universe. 
+                                                 
+3 Brahma, Vishnu and Shiva together form the Trinity of Hindu Gods. Brahma creates the world. 
+Vishnu sustains it. Shiva destroys it. 
+
+=== PAGE 35 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+23 
+ 
+ 
+ 
+ 
+(1) Ar, Le and Sg are called agni rasis or fiery rasis. 
+(2) Ta, Vi and Cp are called bhoo rasis or earthy rasis. 
+(3) Ge, Li and Aq are called vaayu rasis or airy rasis. 
+(4) Cn, Sc and Pi are called jala rasis or watery rasis. 
+(5) The 5th element of aakaasa or ether is present in every rasi. 
+ 
+Let us see how these may be used. For example, the 5th house in one’s chart shows 
+one’s emotional nature. The 5th house in a fiery sign may show a normally angry, 
+aggressive or determined person. The 5th house in an earthy sign may show a 
+balanced, logical and stable person. The 5th house in an airy sign may show someone 
+with unstable and wandering emotions. The 5th house in a watery sign may show one 
+with an imaginative and creative mind. 
+ 
+2.2.6 
+Pitta, Vaata and Kapha 
+ 
+Ayurveda is India’s Vedic medical system that recognizes human body and 
+everything else in the universe as having 3 natures that are formed with the above 5 
+elements: 
+ 
+Pitta or bilious nature is a combination of the elements of fire and water. It shows 
+things that result in tranformation in a system. In a human body, for example, it may 
+show digestion etc. 
+ 
+Vaata or windy nature is a combination of the elements of air and ether. It shows 
+things that move in and out of a system. In a human body, for example, it may show 
+breathing etc. 
+ 
+Kapha or phlegmatic nature is a combination of the elements of earth and water. It 
+shows things that bind a system together. In a human body, for example, it may show 
+bones, muscles, fat etc. It shows things that give a structure to a system. 
+ 
+Ar, Le and Sg are of pitta nature. Ta, Vi and Cp are of vaata nature. Cn, Sc and Pi are 
+of kapha nature. Ge, Li and Aq are of a mixed nature. 
+ 
+
+=== PAGE 36 ===
+ 
+ 
+ 
+ 24 
+Vedic Astrology: An Integrated Approach
+2.2.7 
+Sattwa, Rajas and Tamas 
+ 
+In Hindu philosophy, everything in this universe has one of 3 gunas (qualities). They 
+are called trigunas. Sattwa (purity) is a quality that gives truthfulness and purity. 
+Rajas or rajo guna (energy) is a quality that makes one energetic and passionate. 
+Tamas or tamo guna (darkness) is a quality that makes one depraved. 
+ 
+As an example, let us say a saint is living in a small hermitage. Let us say a man 
+living in a local forest comes, makes fun of the saint and abuses him for no reason. 
+Let us say a king fights with that man after finding out about this. Let us say that the 
+saint tells him to leave the man and yet the king punishes him. 
+ 
+The saint shows sattva guna and he is not bothered by petty things. He ignores the 
+abuse. He is a pure person. The man abusing the saint for no reason shows tamo 
+guna, as he is in the dark. Abusing a saattwik person for no reason is a pathetic thing 
+to do and only a depraved person in darkness can do it. The king acts appropriatesly 
+and shows his energy by defeating the man. So far it is sattwa guna (the state of 
+being true). But the king punishes the man ignoring the advice of the saint to forgive 
+him. His passionate response makes him a person with rajo guna. 
+ 
+(1) Saattwik signs, i.e. signs with sattwa guna, are – Cn, Le, Sg, Pi. 
+(2) Raajasik signs, i.e. signs with rajo guna, are – Ar, Ta, Li, Sc. 
+(3) Taamasik signs, i.e. signs with tamo guna, are – Ge, Vi, Cp, Aq. 
+ 
+2.2.8 
+Rasis and Directions 
+ 
+(1) Ar, Le and Sg show east. 
+(2) Ta, Vi and Cp show south. 
+(3) Ge, Li and Aq show west. 
+(4) Cn, Sc and Pi show north. 
+ 
+2.2.9 
+Rasis and Colors 
+ 
+Ar shows blood-red color. Ta shows white. Ge shows grass green. Cn shows pale 
+red. Le shows white. Virgo is variegated. Libra shows black. Scorpio shows reddish 
+
+=== PAGE 37 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+25 
+ 
+ 
+ 
+brown. Sagittarius shows the color of the husk of grass. Capricorn is variegated. 
+Aquarius shows brown color (that of a mongoose). Pisces shows cream color or the 
+the color of fish. 
+ 
+2.2.10 
+Day and Night 
+ 
+(1) Ar, Ta, Ge, Cn, Sg and Cp are night time rasis – they are strong during the night 
+time. They are nishaa rasis. 
+(2) Le, Vi, Li, Sc, Aq and Pi are daytime rasis – they are strong during the daytime. 
+They are divaa rasis. 
+ 
+Out of the two rasis owned by a planet, one is a day sign and one is a night sign. 
+Moon governs all the nishaa rasis and Sun governs all the divaa rasis. 
+ 
+2.2.11 
+Rising of rasis 
+ 
+Some rasis rise with their head. They are called “Seershodaya rasis”. Some rasis rise 
+with their feet4. They are called “Prishthodaya rasis”. 
+ 
+(1) Ge, Le, Vi, Li, Sc, Aq are Seershodaya rasis. 
+(2) Ar, Ta, Cn, Sg, Cp are Prishthodaya rasis. 
+(3) Pi rises with both its head and feet. 
+ 
+It is said that planets in Seershodaya rasis give their results in the first half of their 
+dasas and planets in Prishthodaya rasis give their results in the second half of their 
+dasas. 
+ 
+2.2.12 
+Varna or Class 
+ 
+In Hinduism, people are divided into 4 varnas or classes – (1) Brahmanas, (2) 
+Kshatriyas, (3) Vaisyas and (4) Sudras. Brahmanas pursue knowledge and work as 
+priests or ministers. Kshatriyas are valiant and they become kings, army chiefs and 
+                                                 
+4 Many scholars have interpreted “prishthodaya” as “rising with the feet”. So we will use the same 
+interpretation. However, strictly speaking, one should note that “prishtha” means “back”. 
+
+=== PAGE 38 ===
+ 
+ 
+ 
+ 26 
+Vedic Astrology: An Integrated Approach
+soldiers. Vaisyas are the traders and suppliers of various services. Sudras execute 
+various menial tasks. 
+ 
+(1) Brahmanas (scholars) are represented by watery signs – Cn, Sc, Pi. 
+(2) Kshatriyas (warriors) are represented by by fiery signs – Ar, Le, Sg. 
+(3) Vaisyas (traders) are represented by by earthy signs – Ta, Vi, Cp. 
+(4) Sudras (workers) are represented by by airy signs – Ge, Li, Aq. 
+ 
+2.3 
+Indications of Rasis 
+ 
+Aries: Dynamic, enterprising, valiant, ruddy, head, forests, large forehead, hasty, 
+impulsive, restless, thick eyebrows, leadership, overbearing, dry, lean, tall. 
+ 
+Taurus: Beautiful, face, stable, sluggish, loyal, meadows, plains, luxury halls, 
+dining halls, eating places, fine teeth, large eyes, luxurious, faithful, thick hair, stout. 
+ 
+Gemini: Chest, garden, communication, journalism, schools, colleges, study rooms, 
+cables, telephone, newspapers, tall, well-built, prominent cheeks, thick hair, broad 
+chest, curious, learned, jovial. 
+ 
+Cancer: Heart, breast, watery fields, rivers, canals, kitchen, food, attractive, small 
+build, emotional, deeply attached, mother-like, sensitive. 
+ 
+Leo: Stomach, digestion, navel, mountains, forests, caves, deserts, palaces, parks, 
+forts, boilers, steel factories, thin, dry, hot, royal, self-pride, insolent, domineering. 
+ 
+Virgo: Hip, appendix, lush gardens, fields, orchards, libraries, bookstores, farms, 
+intelligent, sharp, orator, nervous, physically weak, discretion, tactfulness. 
+ 
+Libra: Groins, Businessmen, markets, trade centers, banks, hotels, amusement 
+parks, entertainment, toilets, cosmetics, balanced, wise, good talker. 
+ 
+Scorpio: Private parts, holes, deep caves, mines, garrages, small build, dusky 
+complexion, bright eyes, secretive, scheming, occult, best friend or a worst enemy, 
+peevish, sensitive. 
+ 
+
+=== PAGE 39 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+27 
+ 
+ 
+ 
+Sagittarius: Thighs, royal, attorneys, government offices, aircraft, falling, sparse 
+hair, muscular, deep eyes, uproght, honest, genial, gambler. 
+ 
+Capricorn: Knees, marsh lands, watery places, alligators, beasts, bushes, slender 
+buils, long neck, prominent teeth, witty, perfectionist, patient, organizer, cautious, 
+secretive, pragmatic. 
+ 
+Aquarius: Ankles, charity, philosophy, tall, bony, small eyes, mountain spring, 
+places with water, ill-formed teeth,  coarse hair, hard-working, stoic, honest. 
+ 
+Pisces: Feet, oceans, seas, prisons, hospitals, hermitages, short, plump, large eyes, 
+large eyebrows, lazy, emotional, timid, honest, irresolute, talkative, intuitive. 
+
+=== PAGE 40 ===
+ 
+ 
+ 
+ 28 
+Vedic Astrology: An Integrated Approach
+3.  Planets 
+ 
+3.1 
+Introduction 
+ 
+There are 7 grahas (planets) in Vedic astrology: Sun, Moon, Mars, Mercury, Jupiter, 
+Venus and Saturn. There are two more chaayaa grahas (shadow planets): Rahu and 
+Ketu. Rahu and Ketu are mathematical points. They are also called the north and 
+south nodes or the head and tail of dragon. They are based on the points at which the 
+orbit of Moon around earth cuts the orbit of earth around Sun. 
+ 
+Rasis represent situations that develop in one’s life and influences that enter one’s 
+life. Planets in a chart represent human beings that play a role in one’s life. 
+ 
+Just as the whole zodiac represents Lord Vishnu and rasis represent His limbs, 
+planets represent Vishnu’s avataras (incarnations). 
+ 
+3.2 
+Characteristics of Planets 
+ 
+3.2.1 
+Vishnu’s Avataras 
+ 
+This world contains two essences – jeevaamsa (living essence) and paramaatmaamsa 
+(absolute and supreme essence). Planets are the manifestations of different aspects of 
+these essences. Vishnu’s incarnations happened with these essences taken from 
+various planets. 
+ 
+Meena/Matsya avatara (fish) came from Ketu. Koorma avatara (tortoise) came from 
+Saturn. Varaaha/sookara avatara (boar) came from Rahu. Narasimha/Nrisimha 
+avatara (half-man, half-lion) came from Mars. Vaamana avatara (learned dwarf) 
+came from Jupiter. Parasu Rama/Bhaargava Rama came from Venus. Rama came 
+from Sun. Krishna came from Moon. Buddha came from Mercury. 
+ 
+
+=== PAGE 41 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+29 
+ 
+ 
+ 
+All these incarnations came into being with a significant percentage of 
+paramaatmaamsa (supreme essence) than jeevaatmaamsa (living essence). Rama, 
+Krishna, Narasimha and Varaha avataras had only paramaatmaamsa. 
+ 
+Other living beings are born with a significant percentage of jeevaamsa and a little of 
+paramaatmaamsa from the planets. 
+ 
+3.2.2 
+Benefics and Malefics 
+ 
+(1) Jupiter and Venus are natural benefics (saumya grahas or subha grahas). 
+Mercury becomes a natural benefic when he is alone or with more natural 
+benefics. Waxing Moon of Sukla paksha is a natural benefic. 
+(2) Sun, Mars, Rahu and Ketu are natural malefics (kroora grahas or paapa grahas). 
+Mercury becomes a natural malefic when he is joined by more natural malefics. 
+Waning Moon of Krishna paksha is a natural malefic. 
+ 
+This information is important because the results given by planets are based on their 
+inherent nature. 
+ 
+3.2.3 
+Main Governance 
+ 
+Sun governs soul. Moon governs mind. Mars governs strength. Mercury governs 
+speech. Jupiter governs knowledge and happiness. Venus governs potency. Saturn 
+governs grief. 
+ 
+3.2.4 
+Planets and Colors 
+ 
+Sun shows blood-red color. Moon shows tawny color. Mars shows blood-red color. 
+Mercury shows grass green color. Jupiter shows tawny color. Venus is variegated. 
+Saturn shows black color. 
+ 
+These colors can be useful, for example, when predicting the color of one’s car. For 
+now, readers should just memorize these characteristics. 
+ 
+3.2.5 
+Planetary Cabinet 
+ 
+
+=== PAGE 42 ===
+ 
+ 
+ 
+ 30 
+Vedic Astrology: An Integrated Approach
+Sun and Moon are kings. Mars is the leader (army chief). Mercury is the prince. 
+Jupiter and Venus are the ministers. Saturn is the servant. Rahu and Ketu form the 
+army. 
+ 
+3.2.6 
+Planetary Deities 
+ 
+Ruling deities of various planets are as given below: Agni (fire god) for Sun, Varuna 
+(rain god) for Moon, Subrahmanya (army chief of gods) for Mars,  Maha Vishnu 
+(supreme sustaining force) for Mercury, Indra (ruler of gods) for Jupiter, Sachi Devi 
+(Indra’s wife) for Venus, Brahma (Creator) for Saturn. 
+ 
+3.2.7 
+Sex of Planets 
+ 
+Sun, Mars and Jupiter are male. Moon and Venus are female. Saturn and Mercury 
+are female. 
+ 
+This information can be used for predicting the sex of children based on one’s chart. 
+For example, if the house ruling the first child is influenced by Jupiter, Mars and 
+Mercury, we may predict a son. If it is influenced by Moon and Mercury, we may 
+predict a daughter. 
+ 
+3.2.8 
+Planets & Five Elements 
+ 
+(1) Agni tattva (fiery element) is ruled by Mars. Sun also has the same nature. 
+(2) Bhoo tattva (earthy element) is ruled by Mercury. 
+(3) Vaayu tattva (airy element) is ruled by Saturn. 
+(4) Aakaasa tattva (ethery element) is ruled by Jupiter. 
+(5) Jala tattva (watery element) is ruled by Venus. Moon also has the same nature. 
+ 
+These rulerships throw light on the basic nature of planets. Being a fiery planet, Mars 
+governs leadership, enterprise etc. Being an earthy planet, Mercury governs memory, 
+logical abilities etc. Being an airy planet, Saturn governs wandering and free spirit. 
+Being a watery planet, Venus governs imaginative and creative work. Being an 
+ethery planet, Jupiter governs wisdom, intelligence and perceiving knowledge. 
+ 
+3.2.9 
+Planets & Varnas 
+ 
+
+=== PAGE 43 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+31 
+ 
+ 
+ 
+Jupiter and Venus are Brahmanas (learned). Sun and Mars are Kshatriyas (warriors). 
+Moon and Mercury are Vaisyas (traders). Saturn is a Sudra (worker). 
+ 
+Learning and intelligence is the forte of the learned class. Bravery is the forte of the 
+warrior class. Getting along with others well is the forte of the trader class. Hard 
+work is the forte of the working class. In this manner, we should understand varnas 
+to show one’s basic nature rather than the caste of one’s family. 
+ 
+It should be noted that Moon, who was earlier classified in the planetary cabinet as a 
+king, is said here to be of Vaisya varna. Sun is a king who is also a warrior. He is a 
+brave king, who asserts himself. But Moon is a king who gets along well with 
+everyone. 
+ 
+3.2.10 
+Planets & Gunas 
+ 
+Sun, Moon and Jupiter are saattwik planets. Mercury and Venus are raajasik planets. 
+Mars and Saturn are taamasik planets. 
+ 
+NOTE: There is a misconception today that sattwa guna means patience and not 
+hurting others. An aggressive response to an offender is often thought to be raajasik. 
+However, sattwa simply means “the state of being true”. Pleasing others with 
+artificial goodness is not sattwa guna. Punishing a person for his mistakes is not 
+necessarily rajo guna. If there is some passion and impurity in one’s energetic 
+response, then it shows rajo guna. But, if a warrior fights a sinning person with no 
+passion or ego, it can still be a saattvic act. Lord Sri Rama and Sun are examples for 
+this. Sun is a king of the warrior class and yet he is saattwik. Lord Rama, who was 
+born with his amsa, is a saattwik person despite killing Ravana and other demons. 
+ 
+Sattva guna simply means purity and truthfulness in one’s thoughts and action. Rajo 
+guna shows some passion, energy and impurity in thoughts and actions. Tamo guna 
+shows a dark, mean and depraved spirit in thoughts and actions. 
+ 
+3.2.11 
+Planetary Abodes 
+ 
+Sun lives in a temple. Moon lives in a watery place. Mercury lives in a sports 
+ground. Jupiter lives in a treasure house. Venus lives in the bedroom. Saturn lives in 
+a filthy area. 
+
+=== PAGE 44 ===
+ 
+ 
+ 
+ 32 
+Vedic Astrology: An Integrated Approach
+ 
+This description should give one an idea of the nature of planets. 
+ 
+3.2.12 
+Seven Dhaatus 
+ 
+Sapta dhaatus or 7 matters make up human body. The planetary rulerships are as 
+follows: Sun rules bones. Moon rules blood. Mars rules marrow. Mercury rules skin. 
+Jupiter rules fat. Venus rules semen (materials related to the reproductive system). 
+Saturn rules muscles. 
+ 
+If Sun is afflicted, it can show some problems related to bones. Weakness of Moon 
+may give blood related problems. And so on. 
+ 
+3.2.13 
+Planets & Time Periods 
+ 
+Sun rules an ayana5. Moon rules a minute. Mars rules a week. Mercury rules a ritu6. 
+Jupiter rules a month. Venus rules a fortnight. Saturn rules a year. 
+ 
+These periods are very useful in prasna or horary astrology. 
+ 
+3.2.14 
+Planets & Tastes 
+ 
+Sun governs the pungent taste (e.g. onion, ginger, pepper). Moon governs the saline 
+taste (e.g. sea salt, rock salt). Mars governs the bitter taste (e.g. karela/bitter melon, 
+dandelion root, rhubarb root, neem leaves). Mercury governs a mixed taste. Jupiter 
+governs sweetness (e.g. sugar, dates). Venus governs the sour taste (e.g. lemon, 
+tamarind). Saturn governs the astringent taste (e.g. plantain, pomegranate). 
+ 
+The 2nd house shows one’s preference in food. The planets influencing it may decide 
+one’s favorite taste. In addition, one should avoid the tastes of the planets who are 
+likely bring disease. Suppose one is running a dasa or antardasa of a sign containing 
+Moon as per Shoola dasa (a dasa that shows suffering). Then some suffering related 
+to Moon is possible. Moon can give problems related to blood pressure as he governs 
+                                                 
+5 There are 2 ayanas in a year. During Sun’s transit from Cp to Ge, we have Uttara (north) ayana. 
+During Sun’s transit from Cn to Sg, we have Dakshina (south) ayana. 
+6 Ritu roughly means a “season”. There are 6 ritus in a year. They are – vasanta (spring), greeshma 
+(summer), varsha (rain), hemanta (dew), seeta (winter), sisira (fall). Each ritu consists of 2 months. 
+
+=== PAGE 45 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+33 
+ 
+ 
+ 
+blood. So eating too much salty food during such a period may result in high blood 
+pressure. Similarly, one should cut down on sweets during a period in which Jupiter 
+related troubles are indicated. Or, one may develop too much fat (Jupiter) or get 
+other Jupiter related diseases. 
+ 
+3.2.15 
+Planetary Strengths 
+ 
+Mercury and Jupiter are strong in the eastern direction (lagna). Sun and Mars are 
+strong in the southern direction (meridian – 10th house). Moon and Venus are strong 
+in the northern direction (nadir – 4th house). Saturn is strong in the west (7th house). 
+These are the digbalas (strengths associated with direction) of planets. These show 
+the direction taken by one in one’s life, as we will see later. 
+ 
+Moon, Mars and Saturn are strong in the night time. Sun, Jupiter and Venus are 
+strong in the daytime. Mercury is always strong. 
+ 
+Natural malefics are strong in Krishna paksha. Natural benefics are strong in Sukla 
+paksha. 
+ 
+Natural malefics are strong in Dakshina ayana7. Natural benefics are strong in Uttara 
+ayana. 
+ 
+3.2.16 
+Planets & Ritus 
+ 
+Planetary rulerships over ritus (seasons) are as follows: Venus governs vasanta ritu 
+(spring). Mars governs greeshma ritu (summer). Moon governs varsha ritu (rainy 
+season). Mercury governs hemanta ritu (season of dew). Jupiter governs seeta ritu 
+(winter). Saturn governs sisira ritu (fall). 
+ 
+3.2.17 
+Dhatu, Moola and Jeeva 
+ 
+(1) Rahu, Mars, Saturn and Moon rule over dhaatus (metals and materials). 
+(2) Sun and Venus rule over moolas (roots and vegetables). 
+(3) Mercury, Jupiter and Ketu rule over jeevas (living beings). 
+                                                 
+7 For the meaning of ayanas, see footnote 5. 
+
+=== PAGE 46 ===
+ 
+ 
+ 
+ 34 
+Vedic Astrology: An Integrated Approach
+ 
+3.3 
+Planetary Dignities 
+ 
+Each planet has a sign where it is exalted (uchcha), a sign where it is debilitated 
+(neecha), a sign that is called its moolatrikona and one or two rasis that are owned by 
+it. A planet is said to be strong in its own rasi or exaltation rasi or moolatrikona. 
+ 
+Table 6 shows own rasis, exaltation rasis, the degree of deep exaltation, debilitation 
+rasi, the degree of deep debilitation and the moolatrikona of each planet. 
+ 
+Table 6: Dignities of Planets 
+Planet 
+Own 
+rasis 
+Exaltation rasi 
+(deep exaltation 
+point) 
+Debilitation rasi 
+(deep debilitation 
+point) 
+Moolatrikona 
+Sun 
+Le 
+Ar (10º) 
+Li (10º) 
+Le 
+Moon 
+Cn 
+Ta (3º) 
+Sc (3º) 
+Ta 
+Mars 
+Ar & Sc 
+Cp (28º) 
+Cn (28º) 
+Ar 
+Mercury 
+Ge & Vi 
+Vi (15º) 
+Pi (15º) 
+Vi 
+Jupiter 
+Sg & Pi 
+Cn (5º) 
+Cp (5º) 
+Sg 
+Venus 
+Ta & Li 
+Pi (27º) 
+Vi (27º) 
+Li 
+Saturn 
+Cp & Aq 
+Li (20º) 
+Ar (20º) 
+Aq 
+Rahu 
+Aq 
+Ge 
+Sg 
+Vi 
+Ketu 
+Sc 
+Sg 
+Ge 
+Pi 
+ 
+Some special points regarding the results given by planets: 
+ 
+(1) Sun gives the results of being in moolatrikona in the first 20º of Le and the 
+results of being in own rasi in the remaining 10º. 
+(2) Moon gives the results of being in exaltation rasi in the first 3º of Ta and the 
+results of being in moolatrikona in the remaining 27º. 
+(3) Mars gives the results of being in moolatrikona in the first 12º of Le and the 
+results of being in own rasi in the remaining 18º. 
+(4) Mercury gives the results of being in exaltation rasi in the first 15º of Vi, the 
+results of being in moolatrikona in the next 5º and the results of being in own rasi 
+in the remaining 10º. 
+
+=== PAGE 47 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+35 
+ 
+ 
+ 
+(5) Jupiter gives the results of being in moolatrikona in the first 10º of Sg and the 
+results of being in own rasi in the remaining 20º. 
+(6) Venus gives the results of being in moolatrikona in the first half of Li and the 
+results of being in own rasi in the second half of Li. 
+(7) Saturn gives the results of being in moolatrikona in the first 20º of Aq and the 
+results of being in own rasi in the remaining 10º. 
+ 
+An analogy may help one understand the subtle difference between own rasi, 
+exaltation rasi and moolatrikona. 
+ 
+Own rasi of a planet (e.g. Pisces of Jupiter) is like one’s home. One is most natural 
+and comfortable at home. That is exactly what a planet in own rasi is. Moolatrikona 
+of a planet (e.g. Sagittarius of Jupiter) is like one’s office. One executes one’s formal 
+job and performs one’s duty at office. One is powerful and duty-minded at office. 
+Exaltation sign of a planet (e.g. Cancer of Jupiter) is like a favorite party/picnic. One 
+is excited to be at one’s favorite party/picnic. So an exalted planet is like an excited 
+person at his favorite picnic spot. Debilitation sign of a planet (e.g. Capricorn of 
+Jupiter) is like one’s worst party. A debilitated planet is like an unhappy person stuck 
+at a place he hates. 
+ 
+Jupiter is a saattwik and dharmik Brahmin. Ethery Jupiter, planet of perception, 
+intelligence and wisdom, is most comfortable in saattwik Pisces, which is the 12th 
+house of the natural zodiac. That is his home. However, he also has to uphold 
+dharma. Upholding dharma is his duty. Whether he likes it or not, he has to do it. So 
+fiery Sagittarius, 9th house in the natural zodiac, is his moolatrikona. Jupiter is like a 
+"raaja purohit" (chief priest of a king) in Sagittarius. He has to sometimes take strong 
+decisions to uphold dharma (like sentencing someone to death). In Pisces, he is like a 
+peaceful Brahmin doing pooja at his home. In watery Cancer, the 4th house of the 
+natural zodiac, Jupiter is excited to do some imaginative (watery) learning (4th house 
+matter). In taamasik and earthy Capricorn, the 10th house of the natural zodiac, 
+Jupiter hates doing tamasik and well-defined karma (action, 10th house matter). It is 
+against his nature. Executing well-defined taamasik karma may be fine with 
+taamasik planets Mars and Saturn, but Jupiter is unhappy with it. So Jupiter is 
+debilitated in Cp. 
+ 
+
+=== PAGE 48 ===
+ 
+ 
+ 
+ 36 
+Vedic Astrology: An Integrated Approach
+Take Mercury as another example. He is an intellectual planet and significator of 
+communications. “Intelligent communication” is the most comfortable activity for 
+him. So his home is intellectual Gemini, the 3rd house (communications) of the 
+natural zodiac. However, intelligent debates and arguments are the formal job 
+assigned to him. Virgo is the 6th house (arguments) of the natural zodiac and it is 
+Mercury’s moolatrikona! 
+ 
+While saattwik and ethery Jupiter doesn't quite love the job of fiercely and fierily 
+upholding dharma (by punishing demon king Bali in Vaamana avatara, for example), 
+he does it with a sense of duty. But Mercury loves his official job! He loves engaging 
+in intellectual debates. So Virgo (6th house of the natural zodiac) is not only his 
+moolatrikona (office), but also his exaltation sign (favorite picnic spot). Still, 
+"intelligent communications" (Gemini) is what he is most comfortable with (home). 
+ 
+Let us take one final example – Ketu. Ketu is most comfortable with occult activity, 
+which are shown by the 8th house. So he owns the 8th house of the natural zodiac, i.e. 
+Scorpio. His official duty, however, is giving upaasana (meditation) and moksha 
+(liberation), which are shown by the 12th house. So his moolatrikona is in the 12th 
+house of the natural zodiac, i.e. Pisces. 
+ 
+One should remember the above and understand the mood of a planet based on 
+whether it is in own rasi or exaltation rasi or moolatrikona. Though all the three are 
+good placements, there is a subtle difference in the mood of the planet and the results 
+given by it. 
+ 
+3.4 
+Planetary Relationships 
+ 
+3.4.1 
+Natural Relationships 
+ 
+For each planet, its friends and enemies are found as follows: Take the moolatrikona 
+of the planet. Lord of the rasi where it is exalted is its friend. Lords of 2nd, 4th, 5th, 8th, 
+9th and 12th rasis from it are also its natural friends. Lords of other rasis are its natural 
+enemies. If a planet becomes a friend and an enemy on account of owning two rasis, 
+then it is a neutral planet. The list of friends, neutral planets and enemies of all 
+planets is listed in Table 7. 
+
+=== PAGE 49 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+37 
+ 
+ 
+ 
+Table 7: Natural relationships 
+Planet 
+Friends (mitra) 
+Nuetral (sama) 
+Enemies (satru) 
+Sun 
+Moon, Mars, Jupiter 
+Mercury 
+Venus, Saturn 
+Moon 
+Sun, Mercury 
+Mars, Jupiter, Venus, 
+Saturn 
+— 
+Mars 
+Sun, Moon, Jupiter 
+Venus, Saturn 
+Mercury 
+Mercury 
+Sun, Venus 
+Mars, Jupiter, Saturn 
+Moon 
+Jupiter 
+Sun, Moon, Mars 
+Saturn 
+Mercury, Venus 
+Venus 
+Mercury, Saturn 
+Mars, Jupiter 
+Sun, Moon 
+Saturn 
+Mercury, Venus 
+Jupiter 
+Sun, Moon, Mars 
+ 
+3.4.2 
+Temporary Relationships 
+ 
+In addition to the permanent relationship, we have temporary relationships based on 
+the planetary position in a chart. These temporary (tatkaala) relationships are 
+specific to a chart. 
+ 
+Planets occupying the 2nd, 3rd, 4th, 10th, 11th and 12th rasis counted from the rasi 
+occupied by a planet are its temporary friends. Planet occupying other rasis are its 
+temporary enemies. 
+ 
+Example 4: Let us consider Lord Sree Rama’s chart given in Figure 1 and find the 
+temporary friends and temporary enemies of Sun and Moon. 
+ 
+Sun: Sun is in Ar. The 2nd, 3rd, 4th, 10th, 11th and 12th rasis counted from Ar are Ta, 
+Ge, Cn, Cp, Aq and Pi. Planets in those rasis are Mercury, Moon, Jupiter, Mars and 
+Venus. They are temporary friends of Sun in this chart. Saturn is the only temporary 
+enemy. 
+ 
+Moon: Moon is in Cn. The 2nd, 3rd, 4th, 10th, 11th and 12th rasis counted from Cn are 
+Le, Vi, Li, Ar, Ta and Ge. Planets in those rasis are Saturn, Sun and Mercury. They 
+are temporary friends of Moon in this chart. Temporary enemies are Mars, Jupiter, 
+Venus. 
+ 
+
+=== PAGE 50 ===
+ 
+ 
+ 
+ 38 
+Vedic Astrology: An Integrated Approach
+Exercise 5: Consider Lord Sree Rama’s chart given in Figure 1 and find the 
+temporary friends and temporary enemies of Jupiter and Venus. 
+ 
+Note that Moon and Jupiter have the same temporary friends and temporary enemies. 
+That is because they occupy the same rasi and temporary relationships are based on 
+the rasis occupied by planets. 
+ 
+3.4.3 
+Compound Relationships 
+ 
+We get the compound relationships between planets by combining permanent and 
+temporary relationships as shown in Table 8.  
+ 
+Table 8: Compound Relationships 
+ 
+Temporary friend 
+Temporary enemy 
+Natural friend 
+Adhimitra (good friend) 
+Sama (neutral) 
+Natural neutral 
+Mitra (friend) 
+Satru (enemy) 
+Natural enemy 
+Sama (neutral) 
+Adhisatru (bad enemy) 
+ 
+Example 5: Let us continue from Example 4 and find the friends and enemies of Sun 
+and Moon in Lord Sree Rama’s chart given in Figure 1. 
+ 
+Sun: We found in Example 4 that Sun’s temporary friends are Mercury, Moon, 
+Jupiter, Mars and Venus. Of these, Moon, Mars and Jupiter are natural friends and 
+they become adhimitras (good friends). Mercury is a neutral planet in natural 
+relationship and he becomes a mitra (friend) in compound relationship. Venus is a 
+natural enemy. Being a temporary friend, Venus becomes a sama (neutral) planet in 
+compound relationship. 
+ 
+Saturn is the only temporary enemy of Sun. Being a natural enemy too, he becomes 
+an adhisatru (bad enemy) of Sun. 
+ 
+Moon: We found in Example 4 that Moon’s temporary friends are Sun, Mercury and 
+Saturn. Of these, Sun and Mercury are natural friends and they become adhimitras 
+(good friends). Saturn is a neutral in natural relationship and he becomes a mitra 
+(friend) in compound relationship. 
+ 
+
+=== PAGE 51 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+39 
+ 
+ 
+ 
+Moon’s temporary enemies are Mars, Jupiter and Venus. They are all natural 
+neutrals and they become satru (enemies) in compound relationship. 
+ 
+Exercise 6: Continue from Exercise 5 and find the friends and enemies of Jupiter 
+and Venus in Lord Sree Rama’s chart given in Figure 1. 
+ 
+Whenever we refer to a planet being in a friendly house or an inimical house in the 
+rest of this book, we mean the compound relationships. A planet occupying a rasi 
+owned by a mitra or adhimitra is in a friendly house. A planet occupying a rasi 
+owned by a satru or adhisatru is in an inimical house. 
+ 
+3.5 
+Answers to Exercises 
+ 
+Exercise 5: 
+ 
+Jupiter: Jupiter is in Cn. The 2nd, 3rd, 4th, 10th, 11th and 12th rasis counted from Cn are 
+Le, Vi, Li, Ar, Ta and Ge. Planets in those rasis are Saturn, Sun and Mercury. They 
+are temporary friends of Jupiter in this chart. Temporary enemies are Moon, Mars, 
+Venus. 
+ 
+Venus: Venus is in Pi. The 2nd, 3rd, 4th, 10th, 11th and 12th rasis counted from Pi are 
+Ar, Ta, Ge, Sg, Cp and Aq. Planets in those rasis are Sun, Mercury and Mars. They 
+are temporary friends of Venus in this chart. Temporary enemies are Moon, Jupiter, 
+Saturn. 
+ 
+Exercise 6: 
+ 
+Jupiter: We found in Exercise 5 that the temporary friends of Jupiter are Sun, 
+Mercury and Saturn. Being a natural friend, Sun becomes an adhimitra (good friend). 
+Being a natural neutral, Saturn becomes a mitra (friend). Being a natural enemy, 
+Mercury becomes a neutral planet in compound relationship. 
+ 
+Temporary enemies of Jupiter are Moon, Mars and Venus. Being natural friends of 
+Jupiter, Moon and Mars become sama (neutral) planets in compound relationship. 
+Being a neutral planet in natural relationship, Venus becomes an enemy in 
+compound relationship. 
+
+=== PAGE 52 ===
+ 
+ 
+ 
+ 40 
+Vedic Astrology: An Integrated Approach
+ 
+Venus: We found in Exercise 5 that the temporary friends of Venus are Sun, Mars 
+and Mercury. Being a natural friend, Mercury becomes an adhimitra (good friend). 
+Being a neutral planet in natural relationship, Mars becomes a mitra (friend). Being 
+an enemy in natural relationship, Sun becomes a sama (neutral) in compound 
+relationship. 
+ 
+Temporary enemies of Venus are Moon, Jupiter, Saturn. Of these, Saturn is a natural 
+friend and he becomes a sama (neutral) in compound relationship. Jupiter is a natural 
+neutral and he becomes a satru (enemy) of Venus in compound relationship. Moon is 
+a natural enemy of Venus and he becomes an adhisatru (bad enemy) in compound 
+relationship. 
+ 
+
+=== PAGE 53 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+41 
+ 
+ 
+ 
+4.  Upagrahas 
+ 
+4.1 
+Introduction 
+ 
+There are 11 upagrahas (sub-planets or satellites) defined by Sage Parasara. They do 
+not appear to correspond to any physical bodies (planets, stars etc). From Sage 
+Parasara's definition, they appear to be some significant mathematical points. They 
+will be defined in two groups. 
+ 
+4.2 
+Sun-based Upagrahas 
+ 
+Five upagrahas called Dhuma, Vyatipaata, Parivesha, Indrachaapa and Upaketu 
+are defined based on Sun's longitude. The exact formulas are given in Table 9. All 
+these upagrahas are very malefic in nature. Any houses occupied by them in rasi 
+chart or divisional charts are spoiled by them. 
+ 
+Table 9: Sun-based Upagrahas 
+Upagraha 
+Longitude Formula 
+Dhuma 
+Sun's longitude + 133°20' 
+Vyatipaata 
+360º – Dhuma’s longitude 
+Parivesha 
+Vyatipata's longitude + 180° 
+Indrachaapa 
+360º – Parivesha’s longitude 
+Upaketu 
+Indrachaapa’s longitude + 16°40' 
+= Sun's longitude – 30° 
+ 
+It may be noted that Dhuma and Indrachaapa are apart by 180° and Vyatipaata and 
+Parivesha are apart by 180°. 
+ 
+Example 6: 
+Let us say Sun is at 9Sg36. Sg is the 9th rasi and so Sun's longitude can be expressed 
+as 8s 9°36' (based on the notation introduced in 1.3.2). The length of each of the 8 
+
+=== PAGE 54 ===
+ 
+ 
+ 
+ 42 
+Vedic Astrology: An Integrated Approach
+rasis before Sg is 30°. So we can find the longitude of Sun (i.e., distance traversed by 
+Sun from the beginning of the zodiac) as 8x30°+9°36' = 249°36'. 
+ 
+Adding 133°20' to it, we get 382°56'. This can be rewritten8 as 22°56'. That is the 
+longitude of Dhuma. So Dhuma is at 22°56' in Ar. Because Dhuma and Indrachaapa 
+are 180° apart, you can say without further computation that Indrachapa is in the 7th 
+sign from Ar, which is Li. His advancement from the start of Li is also 22°56'. 
+ 
+NOTE: You can verify that Aries and Libra, Taurus and Scorpio, Gemini and 
+Sagittarius, Cancer and Capricorn, Leo and Aquarius, Virgo and Pisces are the signs 
+that are 180° apart. So, if Dhuma is at 11°36' from the start of Aquarius, Indrachapa 
+will be at 11°36' from the start of Leo. 
+ 
+Vyatipata is obtained by subtracting Dhuma from 360º. We see that 360º – 22°56' = 
+337°4'. So Vyatipata is at 337°4', i.e. at 7°4' from the start of Pi. Since Parivesha is at 
+180º from Vyatipata, he is at 7°4' in Vi. 
+ 
+Exercise 7: If Sun is at 13°19' from the start of Ta, find the positions of all the five 
+upagrahas defined so far. 
+ 
+4.3 
+Other Upagrahas 
+ 
+Six upagrahas called Kaala, Mrityu, Arthaprahaara, Yamaghantaka, Gulika and 
+Maandi are more difficult to compute. Kaala is a malefic upagraha similar to Sun. 
+Mrityu is a malefic upagraha similar to Mars. Arthaprahaara is similar to Mercury. 
+Yamaghantaka is similar to Jupiter. Gulika and Maandi are similar to Saturn. 
+ 
+A day starts at the time of sunrise and ends at the time of sunset. A night starts at the 
+time of sunset and ends at the time of next day’s sunrise. Depending on whether one 
+is born during the day or the night, we divide the length of the day/night into 8 equal 
+parts. 
+                                                 
+8 When adding or subtracting longitudes, we should subtract 360° if we get more than 360° and we 
+should add 360° if we get less than 0°. Adding or subtracting 360° means going around the zodiac 
+once and coming to the same position. We should finally reduce all longitudes to a value between 0° 
+and 360°, by adding or subtracting 360° as many times as needed. 
+
+=== PAGE 55 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+43 
+ 
+ 
+ 
+ 
+Daytime births: The first part is ruled by the lord of weekday and then we cover 
+planets in the order of weekdays. The part after the one ruled by Saturn is lord-less. 
+After that, Sun’s part comes. For example, the first 1/8th of the daytime on a 
+Thursday is ruled by Jupiter. Next part is ruled by Venus. The 3rd part is ruled by 
+Saturn. The 4th part is lord-less. The 5th part is ruled by Sun. The 6th part is ruled by 
+Moon. The 7th planet is ruled by Mars. The 8th part is ruled by Mercury. 
+Table 10: Ruling planets 
+Rulers of the 8 parts of the DAY 
+Weekday
+1st 
+2nd 
+3rd 
+4th 
+5th 
+6th 
+7th 
+8th 
+Sun 
+Sun 
+Moon
+Mars 
+Merc 
+Jup 
+Ven 
+Sat 
+— 
+Mon 
+Moon
+Mars 
+Merc 
+Jup 
+Ven 
+Sat 
+— 
+Sun 
+Tue 
+Mars 
+Merc 
+Jup 
+Ven 
+Sat 
+— 
+Sun 
+Moon
+Wed 
+Merc 
+Jup 
+Ven 
+Sat 
+— 
+Sun 
+Moon
+Mars 
+Thu 
+Jup 
+Ven 
+Sat 
+— 
+Sun 
+Moon 
+Mars 
+Merc 
+Fri 
+Ven 
+Sat 
+— 
+Sun 
+Moon
+Mars 
+Merc 
+Jup 
+Sat 
+Sat 
+— 
+Sun 
+Moon
+Mars 
+Merc 
+Jup 
+Ven 
+Rulers of the 8 parts of the NIGHT 
+Weekday
+1st 
+2nd 
+3rd 
+4th 
+5th 
+6th 
+7th 
+8th 
+Sun 
+Jup 
+Ven 
+Sat 
+— 
+Sun 
+Moon 
+Mars 
+Merc 
+Mon 
+Ven 
+Sat 
+— 
+Sun 
+Moon
+Mars 
+Merc 
+Jup 
+Tue 
+Sat 
+— 
+Sun 
+Moon
+Mars 
+Merc 
+Jup 
+Ven 
+Wed 
+Sun 
+Moon
+Mars 
+Merc 
+Jup 
+Ven 
+Sat 
+— 
+Thu 
+Moon
+Mars 
+Merc 
+Jup 
+Ven 
+Sat 
+— 
+Sun 
+Fri 
+Mars 
+Merc 
+Jup 
+Ven 
+Sat 
+— 
+Sun 
+Moon
+Sat 
+Merc 
+Jup 
+Ven 
+Sat 
+— 
+Sun 
+Moon
+Mars 
+ 
+Night time births: The first part is ruled by the 5th planet from the lord of weekday 
+and then we cover planets in the order of weekdays. For example, the first 1/8th of a 
+Thursday night is ruled by the 5th planet from Jupiter, i.e. Moon (Jupiter, Venus, 
+Saturn, Sun, Moon – that’s the 5th one). Next part is ruled by Mars. The 3rd part is 
+ruled by Mercury. The 4th part is ruled by Jupiter. The 5th part is ruled by Venus. The 
+6th part is ruled by Saturn. The 7th planet is lord-less. The 8th part is ruled by Sun. 
+ 
+Table 10 gives the list of the ruling planets of all the eight parts of the daytime and 
+night time on all weekdays. 
+
+=== PAGE 56 ===
+ 
+ 
+ 
+ 44 
+Vedic Astrology: An Integrated Approach
+ 
+Once we divide the day/night of birth into 8 equal parts and identify the ruling 
+planets of the 8 parts, we can find the longitudes of Kaala etc upagrahas using the 
+following procedure: 
+ 
+(1) Kaala rises at the middle of Sun’s part9. In other words, we find the time at the 
+middle of Sun’s part and find lagna rising then. That gives Kaala’s longitude. 
+(2) Mrityu rises at the middle of Mars’s part. 
+(3) Artha Praharaka rises at the middle of Mercury’s part. 
+(4) Yama Ghantaka rises at the middle of Jupiter’s part. 
+(5) Gulika rises at the middle of Saturn’s part. 
+(6) Maandi rises at the beginning of Saturn’s part. 
+ 
+Suppose one is born on Thursday night and we want Yamaghantaka’s longitude in 
+his chart. Suppose night starts at 6 pm and ends at 6 am on the next day. We see from 
+the table that Jupiter rules the 4th part of a Thursday night. Each part is 12/8 = 1.5 
+hours. The 4th part starts 4.5 hours after sunset, i.e. at 10:30 pm, and ends 1.5 hours 
+later. So Jupiter’s part extends from 10:30 pm to midnight. The middle point of this 
+part is at 11:15 pm. We find lagna rising at 11:15 pm and that will be Yama 
+Ghantaka’s longitude. 
+ 
+4.4 
+Answer to Exercise 
+ 
+Exercise 7: 
+ 
+Dhuma: 
+At 26°39' from the start of Vi 
+Vyatipaata: 
+At 3°21' from the start of Li 
+Parivesha: 
+At 3°21' from the start of Ar 
+Indrachaapa: 
+At 26°39' from the start of Pi 
+Upaketu: 
+At 19°1' from the start of Sc` 
+                                                 
+9 Some scholars suggest that Kaala rises at the beginning of Sun’s part. The same thing applies to 
+others. 
+
+=== PAGE 57 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+45 
+ 
+ 
+ 
+5.  Special Lagnas 
+ 
+5.1 
+Introduction 
+ 
+There are some special lagnas defined by Parasara. In this book, we will widely use 
+Hora lagna and Ghati lagna and it is time to define them and other special lagnas. 
+ 
+5.2 
+Bhaava Lagna 
+ 
+Bhaava lagna is at the position of Sun at the time of sunrise. It moves at the rate of 
+one rasi per 2 hours. In the rest of this book, bhava lagna will be denoted by BL.10 
+ 
+If sunrise takes place at 6:00 am and Sun is at 6s 4°47' then, horalagna is at 6s 4°47' 
+at 6:00 am, at 6s 19°47' at 7:00 am, at 7s 4°47' at 8:00 am, 8s 4°47' at 10:00 am and 
+so on. Bhavalagna moves at the rate of 1° per 4 minutes (i.e., 15° per hour). 
+ 
+The following method may be used for computing bhavalagna. 
+ 
+(1) Find the time of sunrise and sun's longitude at sunrise. 
+(2) Find the difference between the birthtime (or the event time) and the sunrise time 
+found in (1) above. Convert the difference into minutes. The result is the 
+advancement of bhavalagna since sunrise, in degrees. 
+(3) Add Sun's longitude at sunrise (in degrees) to the above number. Expunge 
+multiples of 360° and reduce the number to the range 0°–360°. 
+(4) This is the longitude of bhavalagna (BL). 
+ 
+Example 7: 
+A gentleman was born at 7:23 pm. Sunrise at his birthplace was at 6:37 am on his 
+birthday. At 6:37 am, Sun was at 24°17' in Capricorn. Let us find BL. 
+ 
+(1) 19:23–6:37=12 hr 46 min=12x60 + 46 min = 766 min 
+                                                 
+10 BL is defined only for the sake of completeness. We will not use it in this book. 
+
+=== PAGE 58 ===
+ 
+ 
+ 
+ 46 
+Vedic Astrology: An Integrated Approach
+(2) Sun's longitude at sunrise is 270°+24°17'=294°17'. Add 766° to it. The result is 
+1060°17'. Subtracting 360° twice, we get 340°17'. So BL is at 10°17' in Pisces. 
+ 
+5.3 
+Hora Lagna 
+ 
+Hora lagna is at the position of Sun at the time of sunrise. It moves at the rate of one 
+rasi per hora (hour). In the rest of this book, horalagna will be denoted by HL.  
+ 
+If sunrise takes place at 6:00 am and Sun is at 6s 4°47' then, horalagna is at 6s 4°47' 
+at 6:00 am, at 6s 19°47' at 6:30 am, at 7s 4°47' at 7:00 am, 8s 4°47' at 8:00 am and so 
+on. Horalagna moves at the rate of 1/2° per minute (i.e., 30° per hour). 
+ 
+The following method may be used for computing horalagna. 
+ 
+(1) Find the time of sunrise and sun's longitude at sunrise. 
+(2) Find the difference between the birthtime (or the event time) and the sunrise time 
+found in (1) above. Convert the difference into minutes. 
+(3) Divide the number by 2. The result is the advancement of horalagna since 
+sunrise, in degrees. 
+(4) Add Sun's longitude at sunrise (in degrees) to the above number. Expunge 
+multiples of 360° and reduce the number to the range 0°–360°. 
+(5) This is the longitude of horalagna (HL). 
+ 
+Example 8: 
+A gentleman was born at 7:23 pm. Sunrise at his birthplace was at 6:37 am on his 
+birthday. At 6:37 am, Sun was at 24°17' in Capricorn. Let us find HL. 
+ 
+(1) 19:23–6:37=12 hr 46 min=12x60 + 46 min = 766 min 
+(2) 766/2=383 
+(3) Sun's longitude at sunrise is 270°+24°17'=294°17'. Add 383° to it. The result is 
+677°17'. Subtracting 360°, we get 317°17'. So HL is at 17°17' in Aquarius. 
+ 
+5.4 
+Ghati Lagna 
+ 
+
+=== PAGE 59 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+47 
+ 
+ 
+ 
+Ghati lagna is at the position of Sun at the time of sunrise. It moves at the rate of one 
+rasi per ghati (ghati=1/60th of a day, i.e., 24 minutes). In the rest of this book, 
+ghatilagna will be denoted by GL. Ghati lagna is also called “ghatika lagna”. 
+ 
+If sunrise takes place at 6:00 am and Sun is at 6s 4°47' then, ghatilagna is at 6s 4°47' 
+at 6:00 am, at 6s 19°47' at 6:12 am, at 7s 4°47' at 6:24 am, 8s 4°47' at 6:48 am and so 
+on. Ghatilagna moves at the rate of 1°15' per minute (i.e., 30° per 24 minutes). 
+ 
+The following method may be used for computing ghatilagna. 
+ 
+(1) Find the time of sunrise and sun's longitude at sunrise. 
+(2) Find the difference between the birthtime (or the event time) and the sunrise time 
+found in (1) above. Convert the difference into minutes. 
+(3) Multiply the number by 5. Divide the result by 4. The result is the advancement 
+of ghatilagna since sunrise, in degrees. 
+(4) Add Sun's longitude at sunrise (in degrees) to the above number. Expunge 
+multiples of 360° and reduce the number to the range 0°–360°. 
+(5) This is the longitude of ghatilagna (GL). 
+ 
+Example 9: 
+Let us find GL for the data in Example 8. 
+ 
+(1) 19:23–6:37=12 hr 46 min=766 min 
+(2) 766x5/4=957.5 
+(3) Sun's longitude at sunrise is 294°17'. Add 957°30' to it. The result is 1251°47'. 
+Subtracting 360° three times, we get 171°47'. So GL is at 21°47' in Virgo. 
+ 
+Exercise 8: 
+A lady was born at 3:11:48 am (hr, min, sec) in the early hours of May 28, 1961. Sun 
+was at 13°1' in Taurus then. Sunrise was at 6:19:18 am on May 27, 1961 at her 
+birthplace. At that time, Sun was at 12°11' in Taurus. Find the longitudes of HL and 
+GL in her chart. 
+ 
+5.5 
+Comments 
+ 
+
+=== PAGE 60 ===
+ 
+ 
+ 
+ 48 
+Vedic Astrology: An Integrated Approach
+(1) If the birthtime changes by one minute, GL will change by 1.25° (i.e., 1°15'). 
+This is quite large and it can cause some error in the position of GL in some 
+divisional charts. So, ghati lagna is more sensitive to birthtime errors than 
+normal lagna. When using GL in divisional charts, we should keep this in mind 
+and try to correct the birthtime based on known events first. Wrong data 
+produces wrong results. Our analysis can only be as good as our data! 
+ 
+(2) Some astrologers don't like dealing with it, but birthtime errors are a fact of life 
+and we have to live with them. If we prefer to choose methods that work in spite 
+of deviation in birthtime by a few minutes, we are ignoring a key fact – there are 
+many people in this world who are born a few minutes apart in nearby places and 
+yet lead significantly different lives. Still some people hide from this fact and 
+stick to methods that give the same results to everyone born in a 15-minute or 
+one-hour or two-hour period, because they don't have to deal with the 
+complicated issue of birthtime errors then! But that's not the right approach – we 
+should give importance to finer techniques. After all, Sage Parasara must have 
+written about all these fine techniques only because he thought they were useful. 
+ 
+(3) Some people define sunrise as the time when the center of the visual disk 
+representing Sun rises on the eastern horizon, i.e., the time when lagna and Sun 
+are exactly at the same longitude. Some other people consider sunrise as the time 
+when the upper tip of the visual disk representing Sun appears to be rising on 
+the eastern horizon, i.e., the time when the first ray of Sun is seen. The latter 
+approach is recommended. 
+ 
+Exercise 9: 
+Suppose (just suppose) that a key event from the known past of the lady of Exercise 
+8 makes us think that her GL has to be between 16°15' and 17°30' in Virgo. Correct 
+the given birthtime accordingly. 
+ 
+5.6 
+Use of Special Lagnas 
+ 
+Use of special lagnas will become clearer in future chapters. For now, it will suffice 
+to say that hora lagna shows money and ghati lagna shows power. 
+ 
+
+=== PAGE 61 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+49 
+ 
+ 
+ 
+In any chart, normal lagna shows self. Hora lagna shows self, from the point of view 
+of money, wealth and prosperity. Ghati lagna shows self, from the point of view of 
+fame, power and authority. For example, when we time good and bad periods for a 
+businessman, hora lagna may be very important. When we time good and bad 
+periods for a politician, ghati lagna may be very important. 
+ 
+5.7 
+Sree Lagna 
+ 
+In Sanskrit, the word “Sree” means wealth. It also means Lakshmi, wife of Lord 
+Narayana and goddess of wealth. Sree Lagna will be denoted by SL in the rest of this 
+book. Sree Lagna is important for prosperity. Its use will be shown in the chapter on 
+Sudasa. Computation of Sree Lagna will be explained for now. 
+ 
+(1) Find the constellation occupied by Moon. 
+ 
+(2) Find the fraction of the constellation traversed by Moon. 
+ 
+(3) Find the same fraction of the zodiac (360°). 
+ 
+(4) Add this amount to the longitude of lagna. Subtract multiples of 360° if 
+necessary. The resulting amount is the longitude of Sree Lagna (SL). 
+ 
+Example 10: 
+Let us take a native with Moon at 13 Li 06 and lagna at 25 Vi 05. Moon’s longitude 
+is 180° + 13°6' = 193°6'. Lagna’s longitude 150°+25°5' is 175°5'. 
+ 
+(1) Moon is in Swathi constellation, which runs from 6°40' to 20°0' in Libra. 
+ 
+(2) Moon’s advancement in his constellation is 13°6' – 6°40' = 6°26'. As fraction of 
+the whole constellation, this is (6°26')/(13°20') = 386'/800' = 0.4825. 
+ 
+(3) The same fraction of the zodiac is 0.4825 x 360° = 173.7° = 173°42'. 
+ 
+(4) Adding this amount to the longitude of lagna, we get 175°5' + 173°42' = 348°47. 
+This is the longitude of SL. So SL is in Pisces at 18°47'. 
+ 
+
+=== PAGE 62 ===
+ 
+ 
+ 
+ 50 
+Vedic Astrology: An Integrated Approach
+Exercise 10: 
+Suppose someone has Moon at 15 Le 29 and lagna at 14 Sc 19. Find the longitude of 
+SL (Sree Lagna). 
+ 
+Warning: There are some more special lagnas defined by Parasara, but they are 
+beyond the scope of this book. We will restrict ourselves to the ones defined in this 
+book. 
+ 
+5.8 
+Answers to Exercises 
+ 
+Exercise 8: 
+ 
+HL: 8°26' in Aquarius. 
+GL: 17°48.5' in Virgo. 
+ 
+Exercise 9: 
+ 
+Birthtime has to be between 3:10:33 – 3:11:33 am. 
+ 
+[HINT: GL with given birthtime (3:11:48 am) is at 17°48.5' in Virgo. The error is 
+between 18.5' and 1°33.5', i.e., 0.3083° and 1.5583°. Find the corresponding error in 
+birthtime in minutes and convert it to seconds. Then subtract the error from 
+birthtime.] 
+ 
+Exercise 10: 
+ 
+SL is at 12°22' in Capricorn. 
+ 
+
+=== PAGE 63 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+51 
+ 
+ 
+ 
+6.  Divisional Charts 
+ 
+6.1 
+Divisions of A Rasi 
+ 
+Each rasi has many divisions. Divisions of rasis are again mapped to rasis. For 
+example, a rasi may be divided into 4 parts and each part may be mapped to a 
+different rasi. Ar may be divided into 4 parts and the 4 parts may be mapped to Ar, 
+Cn, Li and Cp. Then the 4 parts of Ta may be mapped to Ta, Le, Sc and Aq. And so 
+on. Like this, we may divide all rasis into 4 parts and map the 4 parts to different 
+rasis. We may also divide rasis to 9 parts and map each part into a rasi. We can have 
+many different divisions.  
+ 
+Sage Parasara  defined 16 different divisions of rasis. Jaimini and Tajaka writers 
+mentioned 4 more divisions. It is possible that Parasara also dealt with these 4 
+special divisions in sections that are perhaps missing today. In addition, there are 
+more higher and finer divisions that are normally not used. 
+ 
+Based on the rasis occupied by planets in various divisions, “divisional charts” are 
+drawn.  As we have seen before, we need to know the rasis occupied by planets, 
+upagrahas, lagna and special lagnas to draw any chart. In every division, we divide 
+the rasi into different parts, find the part containing each planet and see the rasi to 
+which that part is mapped. Then we place the planet in that rasi in the chart 
+corresponding to that division. We can draw a chart for each division. A planet can 
+occupy different rasis in different divisions. 
+ 
+Chart of each division is called a divisional chart. Each divisional chart can be 
+treated as a different chart and interpreted differently. Different aspects of life are 
+seen in different divisional charts. Rasi chart is simply a special case of divisional 
+charts. If we divide each rasi into just one part (i.e. in effect, no division), we get rasi 
+chart. 
+ 
+In the rest of this book, everything we describe will be applicable to all divisional 
+charts, unless we explicitly state a chart. We can apply all the principles to all the 
+divisional charts, but we should see only specific matters in a divisional chart. The 
+
+=== PAGE 64 ===
+ 
+ 
+ 
+ 52 
+Vedic Astrology: An Integrated Approach
+list of matters to be seen in each divisional chart will be given after the details of 
+computation are presented. 
+ 
+In this book, D-n will denote the divisional chart based on the nth division of rasis, 
+i.e. based on dividing rasis into n parts. 
+ 
+6.2 
+Computing Divisional Charts 
+ 
+We will explain the computation of 20 divisional charts in this section. Higher 
+divisional charts like D-108 and D-150 and variations in charts like D-2, D-3, D-8 
+and D-11 will not be covered in this book. 
+ 
+6.2.1 
+Rasi Chart (D-1) 
+ 
+A simple example of divisions is rasi chart itself. It is also called “kshetra chakra". 
+It is denoted by D-1. Longitudes in the range 0°-30° are mapped to Aries, 30°-60° to 
+Taurus and so on, as mentioned earlier. Using Table 1, we can find the rasi occupied 
+by a body based on its longitude. By “body” here, we mean planets, upagrahas, lagna 
+or special lagnas – basically a physical or a mathematical point in the zodiac that has 
+a longitude associated with it. 
+ 
+6.2.2 
+Hora Chart (D-2) 
+ 
+Each rasi is divided into 2 equal parts of 15° each. Bodies in the first 15° of odd rasis 
+are in Sun’s hora. Bodies in the second 15° of odd rasis are in Moon’s hora. Bodies 
+in the first 15° of even rasis are in Moon’s hora. Bodies in the second 15° of even 
+rasis are in Sun’s hora. 
+ 
+NOTE: Though absolutely correct, the above is not quite complete. Proper use of hora 
+chart  is beyond the scope of this book. So we will ignore and not use hora chart in 
+this book. 
+ 
+6.2.3 
+Drekkana Chart (D-3) 
+ 
+
+=== PAGE 65 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+53 
+ 
+ 
+ 
+Each rasi is divided into 3 equal parts of 10° each. Bodies in the first 10° of a rasi are 
+placed in drekkana chart in the same rasi. Bodies in the middle 10° of a rasi are 
+placed in drekkana chart in the 5th from the rasi.  Bodies in the last 10° of a rasi are 
+placed in drekkana chart in the 9th from the rasi. 
+ 
+Example 11: Let us say Mercury, Jupiter and Venus are together in Gemini in rasi 
+chart. Mercury is at 3°. Jupiter is at 19°. Venus is at 21°. 
+ 
+Then Mercury is in the first 10° (0°-10°), Jupiter is in the middle 10° (10°-20°) and 
+Venus is in the last 10° (20°-30°). So Mercury is placed in Gemini itself in drekkana 
+chart; Jupiter is placed in Libra (5th from Gemini) in drekkana chart; and, Venus is 
+placed in Aquarius (9th from Gemini) in drekkana chart. 
+ 
+6.2.4 
+Chaturthamsa Chart (D-4) 
+ 
+Each rasi is divided into 4 equal parts of 7.5° each. Bodies in the first, second, third 
+and fourth 7.5° arc of a rasi are in the 1st, 4th, 7th and 10th from that rasi (respectively) 
+in chaturthamsa. In other words, planets in 0°-7.5° in a rasi go into 1st from that rasi; 
+planets in 7.5°-15° go into 4th from that rasi; planets in 15°-22.5° go into the 7th from 
+that rasi; and, planets in the 22.5°-30° go into the 10th from that rasi. 
+ 
+This chart is also known as Chaturamsa or Turyamsa. 
+ 
+Example 12: Let us say Mercury, Jupiter and Venus are together in Taurus. Mercury 
+is at 3°, Jupiter is at 14° and Venus is at 23°. 
+ 
+Mercury is in 0°-7.5° arc, i.e. the first 7.5° arc, of Ta. So he is in Ta (1st from Ta) in 
+D-4. 
+Jupiter is in 7.5°-15° arc, i.e. the second 7.5° arc, of Ta. So he is in Le (4th from Ta) 
+in D-4. 
+Venus is in 22.5°-30° arc, i.e. the fourth 7.5° arc, of Ta. So he is in Aq (10th from Ta) 
+in D-4. 
+ 
+6.2.5 
+Panchamsa Chart (D-5) 
+
+=== PAGE 66 ===
+ 
+ 
+ 
+ 54 
+Vedic Astrology: An Integrated Approach
+ 
+Each rasi is divided into 5 equal parts of 6° each. Bodies in the 5 parts of an odd rasi 
+go into Ar, Aq, Sg, Ge and Li (respectively). Bodies in the 5 parts of an even rasi go 
+into Ta, Vi, Pi, Cp and Sc (respectively). 
+ 
+6.2.6 
+Shashthamsa Chart (D-6) 
+ 
+Each rasi is divided into 6 equal parts of 5° each. Bodies in the 6 parts of a rasi go 
+into the 6 rasis starting from Ar or Li, based on whether the rasi is odd or even. 
+ 
+Example 13: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 3rd part of the rasi and 19° is in the 4th part of the rasi. Ge is an odd 
+rasi and counting starts from Ar. The 3rd from Ar is Ge. So the 3rd part in Ge goes 
+into Ge in D-6. On the other hand, Sc is an even rasi and counting starts from Li. The 
+4th from Li is Cp. So the 4th part of Sc goes into Cp in D-6. So Mercury is in Ge and 
+Jupiter is in Cp in D-6 for this example. 
+ 
+6.2.7 
+Saptamsa Chart (D-7) 
+ 
+Each rasi is divided into 7 equal parts of 4° 17' 8.57''. Bodies in the 1st, 2nd, 3rd, 4th, 
+5th, 6th and 7th parts of a rasi go into the 7 rasis starting from the rasi itself, if it is an 
+odd rasi, or starting from the 7th sign from it, if it is an even rasi. 
+ 
+Example 14: Let us say Mercury is at 10° in Ge and Jupiter is at 19° in Vi. We see 
+that 10° is in the 3rd part of the rasi and 19° is in the 5th part of the rasi. Because Ge is 
+an odd rasi, the 3rd part in Ge goes into the 3rd from Ge, i.e. Le. On the other hand, Vi 
+is an even sign and counting starts from the 7th from it, i.e. Pi. The 5th from Pi is Cn. 
+So the 5th part of Vi goes into Cn. So Mercury is in Le and Jupiter is in Cn in D-7 for 
+this example. 
+ 
+6.2.8 
+Ashtamsa Chart (D-8) 
+ 
+Each rasi is divided into 8 equal parts of 3° 45' each. Bodies in the eight parts of a 
+rasi go into the 8 rasis starting from Ar, Sg or Le, based on whether the rasi is a 
+movable, fixed or dual sign. 
+ 
+
+=== PAGE 67 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+55 
+ 
+ 
+ 
+Example 15: Let us say Mercury is at 10° in Ge and Jupiter is at 19° in Sc. We see 
+that 10° is in the 3rd part of the rasi and 19° is in the 6th part of the rasi. Because Ge is 
+a dual rasi, counting starts from Le. The 3rd from Le is Li. So the 3rd part in Ge goes 
+into Li in D-8. On the other hand, Sc is a fixed sign and counting starts from Sg. The 
+6th from Sg is Ta. So the 6th part of Sc goes into Ta in D-8. So Mercury is in Le and 
+Jupiter is in Ta in D-8 for this example. 
+ 
+6.2.9 
+Navamsa Chart (D-9) 
+ 
+Each rasi is divided into 9 equal parts of 3° 20' each. Bodies in the 9 parts of a rasi 
+go into the 9 rasis starting from Ar, Cp, Li or Cn, based on whether the rasi is a fiery, 
+earthy, airy or watery sign. 
+ 
+This chart is also known as Dharmamsa. It is the most popular chart after rasi chart 
+and some astrologers simply refer to it as “Amsa” (division). 
+ 
+Example 16: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 4th part of the rasi and 19° is in the 6th part of the rasi. Because Ge is 
+an airy rasi, counting starts from Li. The 4th from Li is Cp. So the 4th part in Ge goes 
+into Cp in D-9. On the other hand, Sc is a watery sign and counting starts from Cn. 
+The 6th from Cn is Sg. So the 6th part of Sc goes into Sg in D-9. So Mercury is in Cp 
+and Jupiter is in Sg in D-9 for this example. 
+ 
+6.2.10 
+Dasamsa Chart (D-10) 
+ 
+Each rasi is divided into 10 equal parts of 3° each. Bodies in the 10 parts of a rasi go 
+into the 10 rasis starting from the rasi itself or the 9th from it, based on whether the 
+rasi is an odd or even sign. 
+ 
+This chart is also known as Dasamaamsa or Karmamsa or Swargamsa. 
+ 
+Example 17: Let us say Mercury is at 10° in Ge and Jupiter is at 19° in Sc. We see 
+that 10° is in the 4th part of the rasi and 19° is in the 7th part of the rasi. Because Ge is 
+an odd rasi, counting starts from Ge itself. The 4th from Ge is Vi. So the 4th part in 
+Ge goes into Vi in D-10. On the other hand, Sc is an even sign and counting starts 
+
+=== PAGE 68 ===
+ 
+ 
+ 
+ 56 
+Vedic Astrology: An Integrated Approach
+from the 9th from it, i.e. Cn. The 7th from Cn is Cp. So the 7th part of Sc goes into Cp 
+in D-10. So Mercury is in Vi and Jupiter is in Cp in D-10 for this example. 
+ 
+6.2.11 
+Rudramsa Chart (D-11) 
+ 
+Each rasi is divided into 11 equal parts of 2° 43' 38'' each. Count rasis from Ar to the 
+rasi being divided, in the zodiacal order. Count the same number of rasis anti-
+zodiacally11 from Ar. Bodies in the 11 parts of the rasi go into the 11 rasis starting 
+from the rasi found thus. 
+ 
+This chart is also known as Ekadasamsa. 
+ 
+Example 18: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 5th part of the rasi and 19° is in the 7th part of the rasi. In the case of 
+Ge, it is the 3rd rasi from Ar. The 3rd rasi from Ar in the reverse order is Aq. So 
+counting starts from the Aq. The 5th from Aq is Ge. So the 5th part in Ge goes into Ge 
+in D-11. In the case of Sc, it is the 8th rasi from Ar. Counting the 8th rasi from Ar in 
+the reverse order, we get Vi. So counting starts from Vi. The 7th from Vi is Pi. So the 
+7th part of Sc goes into Pi in D-11. So Mercury is in Ge and Jupiter is in Pi in D-11 
+for this example. 
+ 
+6.2.12 
+Dwadasamsa Chart (D-12) 
+ 
+Each rasi is divided into 12 equal parts of 2° 30' each. Bodies in the 12 parts of a rasi 
+go into the 12 rasis starting from the rasi itself. 
+ 
+Example 19: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 5th part of the rasi and 19° is in the 8th part of the rasi. The 5th from 
+Ge is Li. So the 5th part in Ge goes into Li in D-12. The 8th from Sc is Ge. So the 8th 
+part of Sc goes into Ge in D-12. So Mercury is in Li and Jupiter is in Ge in D-12 for 
+this example. 
+ 
+6.2.13 
+Shodasamsa Chart (D-16) 
+                                                 
+11 The zodiacal order is: Ar, Ta, Ge, Cn, Le, … 
+The anti-zodiacal order is: Ar, Pi, Aq, Cp, Sg, … 
+
+=== PAGE 69 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+57 
+ 
+ 
+ 
+ 
+Each rasi is divided into 16 equal parts of 1° 52' 30'' each. Bodies in the 16 parts of a 
+rasi go into the 16 rasis starting from Ar, Le and Sg, based on whether the rasi is 
+movable, fixed or dual. When counting rasis from a given rasi, we go zodiacally. 
+After going over the 12 rasis from a rasi, we get the same rasi as the 13th rasi. So the 
+13th, 14th, 15th and 16th rasis from a rasi are simply the 1st, 2nd, 3rd and 4th rasis. 
+ 
+This chart is also known as Kalamsa. 
+ 
+Example 20: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 6th part of the rasi and 19° is in the 11th part of the rasi. Ge is a dual 
+rasi and we start counting from Sg. The 6th from Sg is Ta. So the 6th part in Ge goes 
+into Ta in D-16. On the other hand, Sc is a fixed sign and we start counting from Le. 
+The 11th from Le is Ge. So the 11th part of Sc goes into Ge in D-16. So Mercury is in 
+Ta and Jupiter is in Ge in D-16 for this example. 
+ 
+6.2.14 
+Vimsamsa Chart (D-20) 
+ 
+Each rasi is divided into 20 equal parts of 1° 30' each. Bodies in the 20 parts of a rasi 
+go into the 20 rasis starting from Ar, Sg and Le, based on whether the rasi is 
+movable, fixed or dual. 
+ 
+Example 21: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 8th part of the rasi and 19° is in the 13th part of the rasi. Because Ge 
+is a dual rasi, we start counting from Le. The 8th from Le is Pi. So the 8th part in Ge 
+goes into Pi in D-20. On the other hand, Sc is a fixed sign and the counting starts 
+from Sg. The 13th from Sg is Sg itself (13th = 1st, after removing 12). So the 13th part 
+of Sc goes into Sg in D-20. So Mercury is in Pi and Jupiter is in Sg in D-20 for this 
+example. 
+ 
+6.2.15 
+Chaturvimsamsa Chart (D-24) 
+ 
+Each rasi is divided into 24 equal parts of 1° 15' each. Bodies in the 24 parts of a rasi 
+go into the 24 rasis starting from Le or Cn, based on whether the rasi is odd or even. 
+ 
+This chart is also called Siddhamsa. 
+
+=== PAGE 70 ===
+ 
+ 
+ 
+ 58 
+Vedic Astrology: An Integrated Approach
+ 
+Example 22: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 9th part of the rasi and 19° is in the 16th part of the rasi. Ge is an odd 
+rasi and counting starts from Le. The 9th from Le is Ar. So the 9th part in Ge goes 
+into Ar in D-24. On the other hand, Sc is an even rasi and counting starts from Cn. 
+The 16th from Cn is Li (16th = 4th, after removing 12). So the 16th part of Sc goes into 
+Li in D-24. So Mercury is in Ar and Jupiter is in Li in D-24 for this example. 
+ 
+6.2.16 
+Nakshatramsa Chart (D-27) 
+ 
+Each rasi is divided into 27 equal parts of 1° 6' 40'' each. Bodies in the 27 parts of a 
+rasi go into the 12 rasis starting from Ar, Cn, Li and Cp based on whether the rasi is 
+a fiery, earthy, airy or watery rasi. 
+ 
+This chart is also called Saptavimsamsa or  Bhamsa. 
+ 
+Example 23: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 10th part of the rasi and 19° is in the 18th part of the rasi. Because 
+Ge is an airy rasi, counting starts from Li. The 10th from Li is Le. So the 10th part in 
+Ge goes into Le in D-27. On the other hand, Sc is a watery sign and counting starts 
+from Cp. The 18th from Cp is Ge (18th = 6th, after removing 12). So the 18th part of 
+Sc goes into Ge in D-27. So Mercury is in Le and Jupiter is in Ge in D-27 for this 
+example. 
+ 
+6.2.17 
+Trimsamsa Chart (D-30) 
+ 
+D-30 positions of planets are computed based on the following rules: 
+ 
+Odd Rasis: 
+• Bodies in 0°-5° in odd rasis are placed in Ar in D-30. 
+• Bodies in 5°-10° in odd rasis are placed in Aq in D-30. 
+• Bodies in 10°-18° in odd rasis are placed in Sg in D-30. 
+• Bodies in 18°-25° in odd rasis are placed in Ge in D-30. 
+• Bodies in 25°-30° in odd rasis are placed in Li in D-30. 
+ 
+Even Rasis: 
+
+=== PAGE 71 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+59 
+ 
+ 
+ 
+• Bodies in 0°-5° in even rasis are placed in Ta in D-30. 
+• Bodies in 5°-12° in even rasis are placed in Vi in D-30. 
+• Bodies in 12°-20° in even rasis are placed in Pi in D-30. 
+• Bodies in 20°-25° in even rasis are placed in Cp in D-30. 
+• Bodies in 25°-30° in even rasis are placed in Sc in D-30. 
+ 
+6.2.18 
+Khavedamsa Chart (D-40) 
+ 
+Each rasi is divided into 40 equal parts of 45' each. Bodies in the 40 parts of a rasi go 
+into the 40 rasis starting from Ar or Li, based on whether the rasi is odd or even. 
+ 
+This chart is also called Chatvarimsamsa. 
+ 
+Example 24: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 15th part of the rasi and 19° is in the 26th part of the rasi. Because 
+Ge is an odd rasi, counting starts from Ar. The 15th from Ar is Ge (15th = 3rd, after 
+removing 12). So the 15th part in Ge goes into Ge in D-40. On the other hand, Sc is 
+an even rasi and counting starts from Li. The 26th from Li is Sc (26th = 2nd, after 
+removing multiples of 12). So the 26th part of Sc goes into Sc in D-40. So Mercury is 
+in Ge and Jupiter is in Sc in D-40 for this example. 
+ 
+6.2.19 
+Akshavedamsa Chart (D-45) 
+ 
+Each rasi is divided into 45 equal parts of 40' each. Bodies in the 45 parts of a rasi go 
+into the 45 rasis starting from Ar, Le or Sg, based on whether the rasi is a movable, 
+fixed or dual rasi. 
+ 
+This chart is also called Pancha-chatvarimsamsa. 
+ 
+Example 25: Let us say Mercury is at 11° in Ge and Jupiter is at 19° in Sc. We see 
+that 11° is in the 17th part of the rasi and 19° is in the 29th part of the rasi. Because 
+Ge is a dual rasi, we start counting from Sg. The 17th from Sg is Ar (17th = 5th, after 
+removing 12). So the 17th part in Ge goes into Ar in D-45. On the other hand, Sc is a 
+fixed rasi and counting starts from Le. The 29th from Le is Sg. So the 29th part of Sc 
+
+=== PAGE 72 ===
+ 
+ 
+ 
+ 60 
+Vedic Astrology: An Integrated Approach
+goes into Sg in D-45. So Mercury is in Ar and Jupiter is in Sg in D-45 for this 
+example. 
+ 
+6.2.20 
+Shashtyamsa Chart (D-60) 
+ 
+Each rasi is divided into 60 equal parts of 30' each. Bodies in the 60 parts of a rasi go 
+into the 60 rasis starting the rasi itself. 
+ 
+To see the part occupied by a body, we can take its longitude from the beginning of 
+the occupied rasi, multiply it by 2, take degrees and ignore minutes, add 1 to it. 
+ 
+Example 26: Let us say Jupiter is at 222° 58' , i.e. 12° 58' in Scorpio. Multiplying 
+12° 58' by 2, we get 25° 56'. Taking degrees and ignoring minutes, we get 25. 
+Adding 1, we get 26. So 12° 58' is in the 26th part of rasi (where each part is 1/60th of 
+rasi, i.e. 30'). So we have to count the 26th rasi from Sc. Removing multiples of 12 
+from 26, we get 2. The 2nd rasi from Sc is Sg. So Jupiter is in Sg in D-60 in this 
+example. 
+ 
+6.3 
+Divisional Chart Significations 
+ 
+Each divisional chart signifies a particular area of life and throws light on it. Table 
+11 gives the list of these areas. 
+ 
+Table 11: Divisional Chart Significations 
+Divisional Chart Symbol
+Area of life to be seen from it 
+Rasi 
+D-1 
+Existence at the physical level 
+Hora 
+D-2 
+Wealth and money 
+Drekkana 
+D-3 
+Everything related to brothers and sisters 
+Chaturthamsa 
+D-4 
+Residence, houses owned, properties and fortune 
+Panchamsa 
+D-5 
+Fame, authority and power 
+Shashthamsa 
+D-6 
+Health troubles 
+Saptamsa 
+D-7 
+Everything related to children (and grand-children)
+Ashtamsa 
+D-8 
+Sudden and unexpected troubles, litigation etc 
+Navamsa 
+D-9 
+Marriage and everything related to spouse(s), 
+
+=== PAGE 73 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+61 
+ 
+ 
+ 
+dharma (duty and righteousness), interaction with 
+other people, basic skills, inner self 
+Dasamsa 
+D-10 
+Career, activities and achievements in society 
+Rudramsa 
+D-11 
+Death and destruction 
+Dwadasamsa 
+D-12 
+Everything related to parents (also uncles, aunts 
+and grand-parents, i.e. blood-relatives of parents) 
+Shodasamsa 
+D-16 
+Vehicles, pleasures, comforts and discomforts 
+Vimsamsa 
+D-20 
+Religious activities and spiritual matters 
+Chaturvimsamsa 
+D-24 
+Learning, knowledge and education 
+Nakshatramsa 
+D-27 
+Strengths and weaknesses, inherent nature 
+Trimsamsa 
+D-30 
+Evils and punishment, sub-conscious self, some 
+diseases 
+Khavedamsa 
+D-40 
+Auspicious and inauspicious events 
+Akshavedamsa 
+D-45 
+All matters 
+Shashtyamsa 
+D-60 
+Karma of past life, all matters 
+ 
+6.4 
+Insights on Divisional Charts 
+ 
+Divisional charts based on divisions between 1 and 12 operate in the physical plane. 
+They show physical matters. Body, wealth, residence, wife, children, parents – these 
+are all matters relating to the physical self. 
+ 
+Divisional charts based on divisions between 13 and 24 (i.e. D-16, D-20 and D-24) 
+operate in the mental plane. They show matters that exist at the mental plane. Sense 
+of pleasure and unhappiness, religiousness, learning and knowledge – these are all 
+matters relating to the mind and intellect. 
+ 
+Divisional charts based on divisions between 25 and 36 (i.e. D-27 and D-30) operate 
+in the plane of sub-consciousness. One’s strengths, weaknesses, inherent nature, 
+evils, certain psychological imbalances – these are all matters relating to the sub-
+conscious self. 
+ 
+Divisional charts based on divisions above 36 (i.e. D-40, D-45 and D-60) operate in 
+a kaarmic plane of existence that is above physical self, mind and sub-conscious 
+self. Based on the karma from previous lives, we all have an existence at a level that 
+goes beyond the levels of body, mind and sub-consciousness. Existence at that level 
+
+=== PAGE 74 ===
+ 
+ 
+ 
+ 62 
+Vedic Astrology: An Integrated Approach
+has a considerable role in deciding the pattern of one’s life, along with existence at 
+the physical, mental and sub-conscious levels. Higher divisional charts like D-40, D-
+45 and D-60 throw light on this subtle aspect of chart analysis.12 
+ 
+6.5 
+Using Divisional Charts 
+ 
+It is very important to memorize Table 11. We should choose the divisional chart to 
+analyze, based on the matter we are interested in. If we want to know something 
+about one’s career, for example, we should analyze one’s dasamsa chart (D-10). If 
+we want to know something about one’s luxuries and pleasures, we should analyze 
+one’s shodasamsa (D-16). Based on the matter of interest, we decide which area of 
+life is relevant and analyze the corresponding divisional chart. 
+ 
+We should remember which planets, rasis and houses show a particular matter and 
+find links between them in the divisional chart of interest. 
+ 
+Suppose we want to see when one would go abroad. It is related to residence and 
+fortune and we should analyze one’s chaturthamsa (D-4). The 9th and 12th houses 
+show foreign residence. Rahu signifies foreign residence. We should now look for 
+links. If 12th lord is with Rahu in the 9th house in D-4, it can suggest that one would 
+live abroad, probably during the periods of Rahu or 12th lord or 9th house. 
+ 
+Suppose we want to see when one would get a promotion at the office. Because D-10 
+shows one’s career and achievements, we should analyze D-10. Because GL (ghati 
+lagna) shows power and authority, planets or rasis giving a promotion are usually 
+connected with GL. They are in GL or aspect GL. Because AL shows status, planets 
+associating with AL or the5th or the 10th from it are favorable. If the lord of AL is in 
+the 10th from it and aspects GL, probably his period will give a promotion. 
+ 
+In this manner, we should analyze the divisional chart that signifies the sphere of life 
+that we are interested in and analyze the houses that show the matter of interest. This 
+is the key to correct chart analysis. We will see many examples of this in coming 
+chapters. 
+                                                 
+12 The content of this paragraph has philosophical undercurrents that may be difficult to understand 
+for students without a good background in Hindu philosophy. This knowledge should be learnt 
+directly from a competent guru. Readers are advised to leave these higher charts until they find one. 
+
+=== PAGE 75 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+63 
+ 
+ 
+ 
+ 
+6.6 
+Varga Grouping and Amsabala 
+ 
+We have several varga groups, i.e. groups of divisional charts. 
+ 
+If a planet is in its moolatrikona or an own rasi or its rasi of exaltation in a chart, it 
+makes the planet very strong in that chart. In each group of divisional charts, we can 
+count the divisional charts in which a planet occupies its moolatrikona or an own rasi 
+or its rasi of exaltation. Based on the count of such good divisional charts for the 
+planet, we say that the planet is in a particular amsa (the higher this number is, the 
+stronger the planet is). 
+ 
+6.6.1 
+Shadvarga 
+ 
+“Shadvarga” literally means “six divisions”. Shadvarga is a group of the following 
+divisional charts: (1) Rasi chart, (2) D-2, (3) D-3, (4) D-9, (5) D-12, and, (6) D-30. 
+ 
+The amsa said to be occupied by a planet and the corresponding count of divisional 
+charts – from the above list – in which it occupies its moolatrikona, rasi of exaltation 
+or an own rasi is listed below: 
+ 
+Kimsukaamsa – 2, Vyanjanaamsa – 3, Chaamaraamsa – 4, Chatraamsa – 5, 
+Kundalaamsa – 6. 
+ 
+6.6.2 
+Sapta varga 
+ 
+“Sapta varga” literally means “seven divisions”. Sapta varga is a group of the 
+following divisional charts: (1) Rasi chart, (2) D-2, (3) D-3, (4) D-7, (5) D-9, (6) D-
+12, and, (7) D-30. 
+ 
+The amsa said to be occupied by a planet and the corresponding count of divisional 
+charts – from the above list – in which it occupies its moolatrikona, rasi of exaltation 
+or an own rasi is listed below: 
+ 
+Kimsukaamsa – 2, Vyanjanaamsa – 3, Chaamaraamsa – 4, Chatraamsa – 5, 
+Kundalaamsa – 6, Mukutaamsa – 7. 
+
+=== PAGE 76 ===
+ 
+ 
+ 
+ 64 
+Vedic Astrology: An Integrated Approach
+ 
+6.6.3 
+Dasa varga 
+ 
+“Dasa varga” literally means “ten divisions”. Dasa varga is a group of the following 
+divisional charts: (1) Rasi chart, (2) D-2, (3) D-3, (4) D-7, (5) D-9, (6) D-10, (7) D-
+12, (8) D-16, (9) D-30, and, (10) D-60. 
+ 
+The amsa said to be occupied by a planet and the corresponding count of divisional 
+charts – from the above list – in which it occupies its moolatrikona, rasi of exaltation 
+or an own rasi is listed below: 
+ 
+Paarijaataamsa – 2, Uttamaamsa – 3, Gopuraamsa– 4, Simhaasanaamsa – 5, 
+Paaraavataamsa – 6, Devalokaamsa – 7, Brahmalokamsa – 8, Airaavataamsa – 9, 
+Sreedhaamaamsa – 10. 
+ 
+NOTE: This group is very important and some yogas – special combinations – make 
+use of these amsas. For example, lagna lord or ghati lagna lord in Simhaasanaamsa 
+would make one very famous. A quadrant lord with good amsabala in dasavarga 
+makes one very successful. Readers should memorize the above amsas. 
+ 
+6.6.4 
+Shodasa varga 
+ 
+“Shodasa varga” literally means “sixteen divisions”. Shodasa varga is a group of the 
+following divisional charts: (1) Rasi chart, (2) D-2, (3) D-3, (4) D-4, (5) D-7, (6) D-
+9, (7) D-10, (8) D-12, (9) D-16, (10) D-20, (11) D-24, (12) D-27, (13) D-30, (14) D-
+40, (15) D-45, and, (16) D-60. 
+ 
+The amsa said to be occupied by a planet and the corresponding count of divisional 
+charts – from the above list – in which it occupies its moolatrikona, rasi of exaltation 
+or an own rasi is listed below: 
+ 
+Bhedakaamsa – 2, Kusumaamsa – 3, Nagapurushaamsa – 4, Kandukaamsa – 5, 
+Keralaamsa – 6, Kalpavrikshaamsa – 7, Chandanavanaamsa – 8, Poornachandraamsa 
+– 9, Uchchaisravaamsa – 10, Dhanvantaryamsa – 11, Sooryakaantaamsa – 12, 
+Vidrumaamsa – 13, Indraasanaamsa – 14, Golokaamsa – 15, Sree Vallabhaamsa – 
+16. 
+ 
+
+=== PAGE 77 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+65 
+ 
+ 
+ 
+Example 27: Let us look at the chart of Bill Cosby. He is a famous TV and film 
+actor in USA. He is one of the greatest theatrical personalities of the world and a 
+natural actor. He is known as a charitable person who donated huge amounts of 
+money for the education of African American kids. His birthdata is: 12th July 1937, 
+12:30 am (Time Zone: 5:00 west of GMT), 75 W 10, 39 N 57. 
+ 
+The 9th house shows charitable nature and the 12th house shows expenditure. Jupiter 
+owns the 9th and 12th houses and occupies the 9th house here. This may be the reason 
+for Mr. Cosby’s charitable nature. Let us see the amsabala of Jupiter. Jupiter is at 29° 
+49' in Sg. The signs occupied by him in various charts are shown below: 
+ 
+Rasi: Sg, D-2: Cn, D-3: Li, D-4: Vi, D-7: Ge, D-9: Sg, D-10: Vi, D-12: Sc, D-16: 
+Pi, D-20: Pi, D-24: Cn, D-27: Ge, D-30: Li, D-40: Cn, D-45: Le, D-60: Sc. 
+ 
+Jupiter owns Sg and Pi. His moolatrikona is Sg. He is exalted in Cn. So we have to 
+count the charts in which he is in Cn, Sg or Pi. 
+ 
+(1) Out of the 6 divisional charts of shadvarga, Jupiter is in Cn, Sg or Pi in 3 charts –
+Rasi, D-2 and D-9. So Jupiter is in Vyanjanaamsa. 
+(2) Out of the 7 divisional charts of sapta varga, Jupiter is in Cn, Sg or Pi in 3 charts 
+–Rasi, D-2 and D-9. So Jupiter is in Vyanjanaamsa. 
+(3) Out of the 10 divisional charts of dasa varga, Jupiter is in Cn, Sg or Pi in 4 charts 
+–Rasi, D-2,  D-9 and D-16. So Jupiter is in Gopuraamsa. 
+(4) Out of the 16 divisional charts of shodasa varga, Jupiter is in Cn, Sg or Pi in 7 
+charts –Rasi, D-2, D-9, D-16, D-20, D-24 and D-40. So Jupiter is in 
+Kalpavrikshaamsa. 
+ 
+Being in Gopuramsa and Kalpavrikshamsa makes Jupiter very strong. 
+ 
+6.7 
+Conclusion 
+ 
+The science of Vedic astrology stands on the basis of 4 pillars – grahas (planets), 
+rasis (signs), vargas (divisional charts) and bhavas (houses). This chapter covered the 
+third pillar – divisional charts. If readers have an accurate software program that 
+
+=== PAGE 78 ===
+ 
+ 
+ 
+ 66 
+Vedic Astrology: An Integrated Approach
+gives all the divisional charts for any chart, it may be acceptable to ignore the details 
+of computation. However, it is good to be aware of the details. 
+ 
+For D-8 and D-11, there are different versions. For D-2 and D-3 also, there are 
+variations. Different variations of divisional charts show different spheres of 
+activities. However, we will ignore the variations in this book. 
+ 
+Twenty divisional charts are covered here. Each divisional chart throws light on a 
+specific sphere of activity. For example, D-10 shows career, D-9 shows marital life 
+and D-7 shows the fortune of children. Choosing the correct divisional chart for 
+analyzing the matter of interest is the key to correct analysis. 
+
+=== PAGE 79 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+67 
+ 
+ 
+ 
+7.  Houses 
+ 
+7.1 
+Introduction 
+ 
+The zodiac consists of 12 rasis. Each rasi is said to form a house. When we talk 
+about houses, we always have a point of reference. The rasi containing the point of 
+reference is the 1st house. The next rasi is the 2nd house. The rasi after that is the 3rd 
+house. Suppose Moon is in Aquarius and suppose we want houses with respect to 
+Moon. Then Aquarius is the 1st house, Pisces is the 2nd house, Aries is the 3rd house, 
+Taurus is the 4th house and so on. As we go around the zodiac, we reach Capricorn 
+when we find the 12th house. 
+ 
+In the same chart, Sun may be in Taurus. When we find houses with respect to Sun, 
+Taurus contains the 1st house, Gemini contains the 2nd house, Cancer contains the 3rd 
+house and so on. If Ghati Lagna is in Virgo in the same chart, then the 1st, 2nd and 3rd 
+houses with respect to Ghati Lagna are in Virgo, Libra and Scorpio respectively. 
+ 
+Thus we can find houses with respect to different references. The same sign may 
+contain the 2nd house with respect to one reference and the 6th house with respect to 
+another reference. If we mention houses without clearly specifying the reference 
+used, it means that the reference used is lagna (ascendant). Lagna is the default 
+reference when finding houses. 
+ 
+Different houses stand for different matters. The matters signified by a house also 
+depend on the reference used. Each reference throws light on matters of a specific 
+nature and that colors the meaning of a house. For example, the 11th house from 
+lagna may stand for something and the 11th house from arudha lagna may stand for 
+something else. It depends on the kind of matters shown by the two references – 
+lagna and arudha lagna. 
+ 
+In addition, the matters signified by a house depend on the divisional chart in which 
+we are finding houses. Each divisional chart throws light on matters of a specific 
+nature. Again, that colors the meaning of a house. The 4th house from lagna in D-16 
+may mean something and the 4th house from lagna in D-24 may mean something 
+
+=== PAGE 80 ===
+ 
+ 
+ 
+ 68 
+Vedic Astrology: An Integrated Approach
+else. We have already listed the areas of life seen from various divisional charts in 
+the chapter on “Divisional Charts”. 
+ 
+7.2 
+Significations of Houses 
+ 
+The matters signified by various houses are listed below. For further discussion on 
+the results of various houses, readers may refer either to the ancient classics or to the 
+modern classic – “How to Judge a Horoscope” (Vols I & II) by Dr. B.V. Raman. 
+ 
+First House: Physical body, complexion, appearance, head, intelligence, strength, 
+energy, fame, success, nature of birth, caste. 
+Second House: Wealth, assets, family, speech, eyes, mouth, face, voice, food. 
+Third 
+House: 
+Younger 
+co-borns, 
+confidants, 
+courage, 
+mental 
+strength, 
+communication skills, creativity, throat, ears, arms, father’s death (7th from 9th), 
+expenditure on vehicles and house (12th from 4th), travels. 
+Fourth House: Mother, vehicles, house, lands, immovable property, motherland, 
+childhood, wealth from real estate, education, relatives, happiness, comforts, 
+pleasures, peace, state of mind, heart. 
+Fifth House: Children, poorvapunya (good deeds of previous lives), intelligence, 
+knowledge & scholarship, devotion, mantras (prayers), stomach, digestive system, 
+authority/power, fame, love, affection, emotions, judgment, speculation. 
+Sixth House: Enemies, service, servants, relatives, mental tension, injuries, health, 
+diseases, agriculture, accidents, mental affliction, mother’s younger brother, hips. 
+Seventh House: Marriage, marital life, life partner, sex, passion (and related 
+happiness), long journeys, partners, business, death, the portion of the body below 
+the navel. 
+Eighth House: Longevity, debts, disease, ill-fame, inheritance, loss of friends, 
+occult studies, evils, gifts, unearned wealth, windfall, disgrace, secrets, genitals. 
+Ninth House: Father, teacher, boss, fortune, religiousness, spirituality, God, higher 
+studies & high knowledge, fortune in a foreign land, foreign trips, diksha (joining a 
+
+=== PAGE 81 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+69 
+ 
+ 
+ 
+religious order), past life and the cause of birth, grandchildren, principles, dharma, 
+intuition, compassion, sympathy, leadership, charity, thighs. 
+Tenth House: Growth, profession, career, karma (action), conduct in society, fame, 
+honors, awards, self-respect, dignity, knees. 
+Eleventh House: Elder co-borns, income, gains, realization of hopes, friends, 
+ankles. 
+Twelfth House: Losses, expenditure, punishment, imprisonment, hospitalization, 
+pleasures in bed, misfortune, bad habits, sleep, meditation, donation, secret enemies, 
+heaven, left eye, feet, residence away from the place of birth, moksha 
+(emancipation/liberation). 
+ 
+We can find houses from houses and concatenate the meanings in some places. For 
+example, the 3rd house shows younger brother. The 2nd house from the 3rd house  is 
+the 4th house (count 1, 2 from 3rd and get 3rd, 4th). So the 4th house shows the wealth, 
+speech etc of younger brother. The 7th house from the 3rd house is the 9th house and it 
+can show younger sibling’s spouse. The 11th house from lagna shows friends and the 
+4th house from lagna is nothing but the 6th house from the 11th house. So the 4th house 
+stands for enemies, diseases and debts of friends. In this manner, we can deduce 
+many additional meanings of various houses. 
+ 
+7.3 
+Common References for Houses 
+ 
+It may be noted from the list above that each house shows many matters. It may be 
+confusing at first to pick the right meaning that is relevant in a particular analysis. It 
+becomes easier with experience. We have to note the area of life seen in the 
+divisional chart under examination. We have to choose the meanings of houses that 
+are relevant in that area of life. For example, the 4th house shows education, vehicle, 
+house and mother (among other things). A list of the areas of life seen in various 
+divisional charts is given in the chapter on “Divisional Charts”. We see from it that 
+learning is seen from D-24, pleasures and comforts from D-16, house and 
+immovable property from D-4 and parents from D-12. So the 4th houses in D-24, D-
+16, D-4 and D-12 show education, vehicle, house and mother (respectively). 
+ 
+
+=== PAGE 82 ===
+ 
+ 
+ 
+ 70 
+Vedic Astrology: An Integrated Approach
+We should also take cognisance of the kind of matters shown by various references 
+and interpret the meaning of a house accordingly. The 4th house from lagna, the 4th 
+house from arudha lagna and the 4th house from paaka lagna can mean different 
+things, depending on the matters shown by lagna, arudha lagna and paaka lagna. 
+Now we will learn about the most common references used in finding houses and the 
+matters shown by them. 
+ 
+Depending on the matter we are analyzing, we should look at the correct divisional 
+chart, the correct reference and the correct house. Then only good results can be 
+obtained. All this complexity may be perplexing to new students. However, there is 
+something we should realize. Human existence is a very complicated thing and it is 
+silly and unscientific to expect a simplistic model for the complicated human life. 
+Though Vedic astrology has too many parameters used in chart analysis, they are all 
+important as they give us the degrees of freedom necessary for modeling something 
+as complicated as human life. However, if we do not understand what each 
+parameter means and end up using them in a mixed-up way, we will get nowhere. So 
+readers should strive to understand these basics very clearly. 
+ 
+7.3.1 
+Lagna 
+ 
+Lagna is the most commonly used reference when finding houses. If no reference is 
+mentioned when houses are listed, it means that lagna – the default reference – was 
+used. Lagna shows true self. If we are trying to understand someone’s status in 
+society, lagna may not be the correct reference. Status does not relate to “true self”. 
+It is a part of the illusion of this world. However, if we are trying to understand 
+someone’s intentions in doing something or someone’s knowledge or someone’s 
+persistence, it relates to “true self”. So they are seen from the houses counted from 
+lagna. Lagna shows true self. It shows the overall spirit of “I” (self). 
+ 
+7.3.2 
+Chandra Lagna (Moon lagna) 
+ 
+Chandra lagna means Moon taken as a reference. We can find houses from Moon. 
+Because Moon is the significator of mind, these houses show things from the 
+perspective of mind. For example, someone may be working in a routine job, but he 
+may have an active and enterprising mind and he may be using it in his career. In 
+that case, the 10th house (career) from lagna may have the influence of Saturn 
+
+=== PAGE 83 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+71 
+ 
+ 
+ 
+(routine job) and the 10th house from Moon may have the influence of Mars (active 
+and enterprising). 
+ 
+Houses counted from Moon are useful in looking at things from the point of view of 
+mind. When we judge how happy one is, how ambitious one is and how one views 
+one’s career, the role of mind is paramount. So Chandra lagna should not be ignored. 
+ 
+7.3.3 
+Ravi Lagna (Sun lagna) 
+ 
+Ravi lagna means Sun taken as a reference. We can find houses from Sun. Because 
+Sun is the significator of soul, these houses show things from the perspective of soul. 
+For things related to physical vitality also, Sun is an important reference. 
+ 
+7.3.4 
+Arudha Lagna 
+ 
+Computation of arudha lagna (AL) will be explained in the chapter on “Arudha 
+Padas”. For now, the readers should remember that arudha lagna shows how a native 
+is perceived in the world. It also shows the status of a native. 
+ 
+A planet in the 10th house from lagna may give some important developments in 
+one’s profession. A planet in the 10th house from Chandra lagna may give some 
+important mental activity in one’s profession. A planet in the 10th house from arudha 
+lagna may give some important developments in one’s professional status. 
+ 
+7.3.5 
+Paaka Lagna 
+ 
+Paaka lagna is important when analyzing the natal chart, dasas and transits. Paaka 
+lagna is nothing but lagna lord taken as a reference. If someone with Pisces lagna has 
+Jupiter in Cancer, then Cancer becomes paaka lagna. If someone with Leo lagna has 
+Sun in Virgo, Virgo becomes paaka lagna. 
+ 
+Rasis represent situations and forces influencing the course of a native’s life and 
+planets represent individual beings. Lagna lord represents the physical self of a 
+native. So that is what paaka lagna shows. Houses counted from paaka lagna throw 
+light on matters related to the physical self of a native. 
+ 
+
+=== PAGE 84 ===
+ 
+ 
+ 
+ 72 
+Vedic Astrology: An Integrated Approach
+Lagna shows the concept of self and it deals with one’s true personality. The 
+physical existence of the person is different from this conceptual self. This applies to 
+all divisional charts. Let us take an example. The 5th house shows scholarship, 
+memory and success in competition. All these are related to learning and they are 
+seen in D-24, the chart of learning. But they are better seen from different references. 
+Let us find the best reference for each. 
+ 
+Success in competition is related to the illusions and perceptions of the world and so 
+the most appropriate reference is arudha lagna. The 5th house from arudha lagna 
+shows success in competition. Scholarship is not a measurable attribute of the 
+physical existence. It is a property of one’s true personality and one’s conceptual 
+self. So the 5th from lagna shows scholarship. If we take the self that exists 
+physically and take its part as applicable to the area of life shown by D-24 (i.e. 
+learning), memory is a direct attribute of that self. Memory is a property of one’s self 
+that physically exists. So the 5th house from paaka lagna shows memory the best. 
+ 
+Saturn’s transit13 over the rasi containing one’s lagna may throw obstructions and 
+hamper one’s activities. Saturn’s transit over the rasi containing one’s Chandra lagna 
+may create frustration and mental depression. Saturn’s transit over the rasi 
+containing one’s paaka lagna may leave one feeling sick all the time and attack the 
+physical vitality. 
+ 
+7.3.6 
+Karakamsa Lagna 
+ 
+Atma karaka stands for the soul of the person. Atma karaka is an important reference 
+point in a chart. Because the soul is an important factor in deciding the nature of 
+inner self than the physical existence, atma karaka is an important reference point in 
+navamsa chart. Navamsa chart throws light on the inner self and the rasi occupied by 
+atma karaka in it is called “Karakamsa”. We can analyze navamsa chart with respect 
+to Karakamsa. The 12th house from Karakamsa shows the liberation of the soul and 
+the situation of Ketu there is conducive to moksha. Propitiation of the deities 
+corresponding to the strongest planet in the 12th house in navamsa from Karakamsa 
+lagna can take one’s soul towards moksha. 
+                                                 
+13 If a planet occupies, on a given day, a particular rasi, then it is said to “transit” in that sign on that 
+day. Transit positions refer to the positions of planets on a given day and natal positions refer to the 
+positions of planets at the time of one’s birth. This will be dealt with in detail in the part “Transit 
+Analysis”. 
+
+=== PAGE 85 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+73 
+ 
+ 
+ 
+ 
+7.3.7 
+Ghati Lagna 
+ 
+Ghati lagna (GL) shows self, from the point of view of power, authority and fame. 
+When we analyze promotions in career or political power of politicians, this 
+reference is very important. 
+ 
+7.3.8 
+Hora Lagna 
+ 
+Hora lagna (HL) shows self, from the point of view of wealth. This reference is 
+important when analyzing one’s wealth. 
+ 
+7.3.9 
+Graha Lagnas 
+ 
+Apart from the above references, we use several “graha lagnas” or planetary 
+references. For each house, a planet works as the natural significator. To see matters 
+signified by a house, we can take the relevant planet as the reference. The list of 
+houses that can be seen from each planet is given in Table 12. 
+ 
+Table 12: Houses signified by planets 
+Planet 
+Houses 
+Sun 
+9th, 10th, 11th 
+Moon 
+4th, 1st, 2nd, 11th, 9th 
+Mars 
+3rd 
+Mercury 
+6th 
+Jupiter 
+5th 
+Venus 
+7th 
+Saturn 
+8th, 12th 
+ 
+When we analyze courage or persistence or weapons or younger brothers or the 
+expenditure on house or the expenditure on car, we have to analyze the 3rd house in 
+the relevant divisional chart. In all those cases, we can see the 3rd house from lagna 
+and the 3rd house from Mars and draw conclusions based on the strength of both. If 
+
+=== PAGE 86 ===
+ 
+ 
+ 
+ 74 
+Vedic Astrology: An Integrated Approach
+Mars is stronger than lagna, then the 3rd house from Mars may be more important 
+than the 3rd house from lagna. Similarly, we see the 4th from lagna and the 4th from 
+Moon for mother. We see the 9th from Sun and the 9th from lagna for father. We see 
+the 12th from lagna and the 12th from Saturn for losses. We see the 5th from lagna and 
+the 5th from Jupiter for progeny. We see the 7th from lagna and the 7th from Venus 
+for marriage. 
+ 
+In addition to the above list, we can find a house with respect to the naisargika 
+karaka (natural significator) who signifies the matter shown by a house. For 
+example, Venus signifies vehicles. D-16 is the chart that shows vehicles and 
+pleasures. So the 4th from Venus in D-16 can show one’s happiness from vehicles 
+and other luxuries. As Mercury is the natural significator of speech, the 2nd house 
+from lagna and the 2nd house from Mercury show speech (in rasi, D-9 and D-2714). A 
+complete list of naisargika karakas of different matters can be found in the chapter 
+on “Karakas”. 
+ 
+7.4 
+Special Categories 
+ 
+There are some special categories of houses: 
+ 
+(1) The 1st, 5th and 9th houses form a triangle and they are known as “konas” or 
+“trikonas” or “trines”. 
+(2) The 1st, 4th, 7th and 10th houses are called “kendras” or “quadrants” or “angles”. 
+(3) The 2nd, 5th, 8th and 11th houses are called “panapharas” or “succedants”. These 
+are basically the quadrants from the 2nd house. 
+(4) The 3rd, 6th, 9th and 12th houses are called “apoklimas” or “precedants”. These 
+are basically the quadrants from the 3rd house. 
+(5) The 3rd, 6th, 10th and 11th houses are called “upachayas”. 
+                                                 
+14 Rasi chart shows the overall picture and the manifestation at the physical level. Navamsa shows 
+basic skills and the way one interacts with others. D-27 shows one’s strengths and weaknesses. All the 
+three charts are important. One may have strong benefics in the 2nd from lagna in rasi and navamsa 
+charts, but malefics in the 2nd from Mercury in D-27. In such a case, one will be a skilled speaker, but 
+harsh speech may be his weakness. D-27 throws light on the sub-conscious self and shows one’s 
+inherent strengths and weaknesses. 
+
+=== PAGE 87 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+75 
+ 
+ 
+ 
+(6) The 6th, 8th and 12th houses are called “trik sthanas” or “dusthanas” (bad/evil 
+houses). 
+(7) The 4th and 8th houses are called “chaturasras”. 
+ 
+We can find trines, quadrants etc from lagna or other references or even from houses. 
+We can find houses with respect to a reference and then find trines, quadrants etc 
+with respect to those houses. For example, let us take the 3rd house from lagna. 
+Trines from it are the 1st, 5th and 9th houses from it. The 5th house from the 3rd house 
+is the 7th house (count 1, 2, 3, 4, and 5 starting from the 3rd house. We get 3rd, 4th, 5th, 
+6th and 7th. So the 5th from 3rd is 7th). The 9th house from the 3rd house is the 11th 
+house. So 3rd, 7th and 11th houses are the trines from the 3rd house. Similarly, the 3rd, 
+6th, 9th and 12th houses are the quadrants from the 3rd house. And the 5th, 8th, 12th and 
+1st houses are the upachayas from the 3rd house. The 8th, 10th and 2nd houses are the 
+dusthanas from the 3rd house. Thus we can find trines, quadrants etc from any house. 
+ 
+7.4.1 
+Trines 
+ 
+Trines are the abode of Goddess Lakshmi, who rules prosperity. Trines from any 
+reference are houses that are beneficial to the reference. They bring prosperity and 
+well-being to the reference. For example, trines from lagna shows prosperity of self. 
+ 
+In Hinduism, there are 4 purushaarthas (purposes/goals of man) – (1) Dharma: 
+righteousness and adherence to one’s duty, (2) Artha: money and career, (3) Kaama: 
+desiring things and getting them, and, (4) Moksha: final liberation of soul. 
+ 
+Dharma is shown by the trines from the 1st house – 1st, 5th and 9th – and they show 
+prosperity of self, intelligence and dharma15. They are called “dharma trikonas” 
+(trines of duty). The character of a person, his intelligence and his righteousness 
+decide how one follows dharma – the first purpose of human existence. 
+ 
+Trines from the 2nd house are called “artha trikonas” (trines of money) and they show 
+money related activities. The 2nd house shows wealth. The 6th house shows service. 
+The 10th house shows career and activities in society. These three houses show 
+money related activities and how one follows artha – the second purpose of human 
+existence. 
+                                                 
+15 Dharma literally means duty. However, it has come to mean righteousness. 
+
+=== PAGE 88 ===
+ 
+ 
+ 
+ 76 
+Vedic Astrology: An Integrated Approach
+ 
+Trines from the 3rd house are called “kaama trikonas” (trines of desire) and they 
+show one’s desires and how one gets them. The 3rd house shows one’s persistence. 
+The 7th house shows relations and sex. The 11th house shows gains. These three 
+houses show how one follows kaama – the third purpose of human existence. 
+ 
+Trines from the 4th house (4th – harmony, 8th – occult studies and spiritual awakening 
+and 12th – moksha) are called “moksha trikonas” (trines of liberation) and they show 
+how one follows moksha – the fourth purpose of human existence. 
+ 
+Digbala of planets who attain full digbala in various of these trines shows the 
+strength of different purushaarthas in one’s life. Dasas like “Trikona Dasa” which are 
+based on trines show how one follows the four purushaarthas in life. 
+ 
+Planets in mutual trines16 make each other prosper. 
+ 
+7.4.2 
+Quadrants 
+ 
+Quadrants are the abode of Sri Maha Vishnu, the Supreme Lord who sustains this 
+universe as per Hinduism. Quadrants from any reference show its sustenance. The 1st 
+house (self), 4th house (comforts), 7th house (marriage and relations with others) and 
+the 10th house (profession) sustain each other. 
+ 
+Planets in mutual quadrants17 have a sustaining effect on each other. 
+ 
+7.4.3 
+Upachayas 
+ 
+Upachayas from a reference show forces causing gains and growth to the matters 
+signified by the reference. For example, arudha lagna shows one’s status and the 
+upachayas from arudha lagna show improvement of status. 
+ 
+7.4.4 
+Dusthanas 
+ 
+                                                 
+16 We say that two planets are in “mutual trines”, if one planet is in a trine from the other. 
+17 We say that two planets are in “mutual quadrants”, if one planet is in a quadrant from the other. 
+
+=== PAGE 89 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+77 
+ 
+ 
+ 
+Dusthanas from a reference show forces causing setbacks to the matters signified by 
+it. If a dusthana is fortified or afflicted by malefics, it may show serious obstacles. If 
+a dusthana is weak, it shows that obstacles will be easily overcome. For example, 
+exalted 8th lord may show a lot of troubles and debilitated 8th lord may show easy 
+sailing. 
+ 
+7.4.5 
+Visible Half and Invisible Half 
+ 
+The zodiac is divided into two halves in every chart: The 7th, 8th, 9th, 10th, 11th and 
+12th houses form the “visible half” of the zodiac. The 1st, 2nd, 3rd, 4th, 5th and 6th 
+houses form the “invisible half” of the zodiac. The houses in the visible half of the 
+zodiac with respect to a reference give results that can be seen in the material world 
+and the houses in the invisible half of the zodiac give results that cannot be easily 
+seen. It is for this reason that the bases of dharma trikona (1st house) and moksha 
+trikona (4th house) are in the invisible half and the bases of artha trikona (10th house) 
+and kaama trikona (7th house) are in the visible half. 
+ 
+7.4.6 
+Quick Summary 
+ 
+Trines:  
+ 
+Prosperity and flourishing 
+Quadrants: 
+ 
+Sustenance and vital activity 
+Upachayas: 
+ 
+Gains and growth 
+Dusthanas: 
+ 
+Setbacks and obstacles 
+Argala sthanas18: 
+Decisive influences 
+ 
+7.5 
+A Controversy 
+ 
+Houses are found with respect to lagna, special lagnas and some planets. Houses are 
+found in rasi chart and in all the divisional charts. Some scholars ignore all these and 
+take houses only with respect to lagna and only in rasi chart. They prepare something 
+called “bhaava chakra” or “chalit chakra”, in which houses can start in one rasi and 
+end in another. They take lagna’s longitude to be the mid-point of the first house and 
+construct all the houses accordingly. In the “equal house method”, they take a 30º arc 
+with center at lagna as the 1st house. The next 30º arc is taken as the 2nd house and so 
+                                                 
+18 This will be covered in the chapter on “Aspects and Argalas”. 
+
+=== PAGE 90 ===
+ 
+ 
+ 
+ 78 
+Vedic Astrology: An Integrated Approach
+on. This method is popular among Indian astrologers. Another method taught by 
+Sripathi is more complicated and it is also popular. However, this author 
+recommends neither. Each rasi is a house. The rasi containing the reference point 
+chosen is the 1st house and the next rasi is the 2nd house. 
+ 
+Though there are some indirect references in BPHS19 suggesting that Parasara 
+supported house divisions placing houses in 2 rasis, there are quite a few direct 
+references making it amply clear that each house falls in one rasi. Parasara taught us 
+to find houses by counting rasis from the reference chosen. Moreover, only this 
+approach is logical as we go to divisional charts. Parasara’s treatment does not 
+differentiate between rasi and divisional charts, as far as the basic techniques go. 
+ 
+So readers are advised to ignore all the discussions found in other textbooks on 
+house division methods, “bhaava chakra” and “chalit chakra”. It may do good to 
+follow the instructions in this chapter. 
+ 
+                                                 
+19 “Brihat Paaraasara Hora Saastram” is a classic by Sage Parasara. It is the most authentic and final 
+treatise on Vedic astrology. It was written more than 5,000 years ago. 
+
+=== PAGE 91 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+79 
+ 
+ 
+ 
+8.  Karakas 
+ 
+8.1 
+Introduction 
+ 
+The word karaka 20 means “one who causes”. Karaka of a matter is the significator of 
+the matter. He is the one who causes events related to that matter. 
+ 
+There are 3 kinds of karakas: 
+ 
+(1) Naisargika karakas (natural significators, 9 in number). 
+(2) Chara karakas (variable significators, 8 in number), and, 
+(3) Sthira karakas (fixed significators, 7 in number), 
+ 
+One should not use the three types of karakas in a mixed-up way. Karakas of each 
+type have a specific purpose. One should understand the distinction between chara, 
+sthira and naisargika karakas clearly and use them accordingly. 
+ 
+Naisargika karakas shows everything that exists in the creation. They include Rahu, 
+Ketu and the seven planets. They are presided by Brahma. Naisargika karakas show 
+not only human beings, but they show various impersonal things and matters. They 
+show everything that exists in Brahma’s creation and affects a person. Naisargika 
+karakas are very useful in phalita Jyotish, i.e. analysis of general results. 
+ 
+Chara karakas include Rahu and the seven planets. They do not include Ketu, as 
+Ketu stands for moksha (emancipation) and does not stand for any person who 
+affects one’s sustenance. Chara karakas are presided by Vishnu and they show 
+people who play a role in one’s life. As Vishnu presides over activities related to 
+sustenance, achievements and spiritual progress, chara karakas show these aspects of 
+one’s life. Chara karakas show people who play an important role in one’s 
+sustenance and achievements. Examples are – mother, father, wife, advisors etc. 
+Chara karakas are very useful in Raja Yogas and in spiritual progress. They also 
+show how our karma (cumulative sum of actions) is carried from one life to another. 
+ 
+                                                 
+20 This is pronounced as “kaaraka”. 
+
+=== PAGE 92 ===
+ 
+ 
+ 
+ 80 
+Vedic Astrology: An Integrated Approach
+Sthira karakas include only 7 planets because only they have physical bodies. They 
+are presided by Shiva. As Shiva presides over death21, they show the destruction of 
+body. Sthira karakas are useful in timing the death of various near relatives. 
+ 
+8.2 
+Chara Karakas 
+ 
+We use the following procedure to find chara karakas: 
+ 
+(1) Take the eight planets – Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn and 
+Rahu. For each planet, find its advancement from the beginning of the rasi 
+occupied by it. For Rahu, measure the advancement from the end of his rasi. 
+(2) Arrange them in the decreasing order of advancement. 
+(3) The planet with the highest advancement is Atma Karaka (significator of self). 
+We will denote him by AK. Find other chara karakas using Table 13. 
+Table 13: Chara karakas 
+Advancement 
+Order
+Karaka 
+Symbol 
+Persons shown22 
+1 
+Atma Karaka 
+AK 
+Self 
+2 
+Amatya Karaka 
+AmK 
+Ministers23 
+3 
+Bhratri Karaka 
+BK 
+Siblings 
+Highest 
+4 
+Matri Karaka 
+MK 
+Mother 
+5 
+Pitri Karaka 
+PiK 
+Father 
+6 
+Putra Karaka 
+PK 
+Children 
+7 
+Jnaati24 Karaka 
+GK (JK) 
+Rivals25 
+Lowest 
+8 
+Dara karaka 
+DK 
+Spouse 
+ 
+If two planets have the same degrees, we should compare minutes. If minutes are 
+same, we should compare the seconds. If two planets are exactly at the same 
+longitude, then they will hold a karakatwa (signification) together and the next 
+                                                 
+21 In Indian philosophy, death is nothing but praana (life) becoming sthira (fixed). 
+22 PK can also show subordinates and followers. PiK can show a boss. 
+23 In practical terms, this means people who give advice (advisors and counsellors). 
+24 In the symbol “jn” here, ‘j’ is the voiced palatal consonant and ‘n’ is the palatal nasal. This is a 
+tough sound to pronounce correctly. Some people approximate it as as “gnaati” or “gyaati”. 
+25 This karaka is commonly used for enemies or rivals. However, the literal meaning of “jnaati” is 
+“paternal cousin”. 
+
+=== PAGE 93 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+81 
+ 
+ 
+ 
+karakatwa will have no ruler. We should use the corresponding sthira karaka in that 
+case. However, this rarely becomes necessary, as two planets are rarely at exactly the 
+same longitude. 
+ 
+Example 28: Consider the following planetary position – Sun: 12Ge47, Moon: 
+20Ar28, Mars: 13Ge51, Mercury: 25Ge18, Jupiter: 5Ta40, Venus: 17Ge21, Saturn: 
+2Ta28, Rahu: 1Cn43. Advancements of planets in respective rasis are found and 
+arranged in the decreasing order in Table 14. Based on it, chara karakas are listed. 
+ 
+Table 14: Chara karakas in Example 28 
+Planet 
+Advancement in rasi 
+Order 
+Chara karaka 
+Rahu 
+30° – 1°43' = 28°17' 
+1 
+AK 
+Mercury 
+25°18' 
+2 
+AmK 
+Moon 
+20°28' 
+3 
+BK 
+Venus 
+17°21' 
+4 
+MK 
+Mars 
+13°51' 
+5 
+PiK 
+Sun 
+12°47' 
+6 
+PK 
+Jupiter 
+5°40' 
+7 
+GK (JK) 
+Venus 
+2°28' 
+8 
+DK 
+ 
+So Rahu represents the self of the native for the purpose of raja yogas, analysis of 
+sustenance, achievements and spiritual evolution. AK throws light on the inner self 
+of a native. Rahu can show a spiritually advanced person or a saint on one hand and 
+a revolutionary or an outcast on the other. Mercury represents the native’s advisors 
+and he shows intellectuals when strong and indecisive people when weak. 
+ 
+Exercise 11: Consider the following planetary position – Sun: 9Sg36, Moon: 
+15Le29, Mars: 13Ar40, Mercury: 21Sc00, Jupiter: 2Aq06, Venus: 17Sg42, Saturn: 
+9Sc41, Rahu: 14Ge30. Find chara karakas. Guess the nature of the inner self of the 
+native. 
+ 
+8.3 
+Sthira Karakas 
+ 
+The following is the list of sthira karakas: 
+
+=== PAGE 94 ===
+ 
+ 
+ 
+ 82 
+Vedic Astrology: An Integrated Approach
+ 
+Sun or Venus (stronger) 26: Father 
+Moon or Mars (stronger): Mother 
+Mars: Younger siblings, brother-in-law and sister-in-law (spouses of siblings) 
+Mercury: Maternal relatives (uncles and aunts) 
+Jupiter: Husband, sons, paternal grandparents and other paternal relatives (uncles 
+and aunts) 
+Venus: Wife, father-in-law, mother-in-law & maternal grandparents 
+Saturn: Elder siblings27 
+ 
+The use of sthira karakas has already been explained. They are presided by Shiva and 
+they are used in the timing of death of the above relatives. They should not be used 
+in general predictive astrology in the place of naisargika karakas. For example, some 
+astrologers use the 7th from Jupiter instead of the 7th from Venus to predict marriage. 
+However, Venus is the natural significator of marriage and the 7th from Venus should 
+be used for predicting marriage, both in male and female charts. When predicting the 
+death of spouse, we use Jupiter in female charts and Venus in male charts.28 
+ 
+Another difference between sthira and naisargika karakas is that sthira karakas 
+themselves represent the physical bodies of the relatives. In the case of naisargika 
+karakas, we must take the relevant house from the karaka. For example, Jupiter 
+represents the physical body of husband in a female chart, for the purpose of timing 
+death. For the purpose of timing marriage, the 7th from Venus (and not Venus 
+himself) shows husband. 
+ 
+Chara karakas are also similar to sthira karakas in this aspect. We do not take the 7th 
+from DK for spouse, but DK himself shows spouse. 
+ 
+8.4 
+Naisargika Karakas 
+ 
+                                                 
+26 For methods to compare the strengths of planets, one may refer to the chapter “Strength of Planets 
+and Rasis”. Some people opine that Sun should be taken as the fixed significator of father for daytime 
+births and Venus for nighttime births. Similarly, Moon is taken as the fixed significator of mother for 
+nighttime births and Mars for daytime births. 
+27 Some scholars give Saturn as the sthira karaka for children instead of elder siblings. 
+28 Some scholars take Jupiter as the sthira karaka of spouse in male charts also. 
+
+=== PAGE 95 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+83 
+ 
+ 
+ 
+We have seen that chara karakas are used in analyzing the influences of various 
+persons on a native, from the point of view of sustenance, achievements and spiritual 
+evolution. We have seen that sthira karakas are used in analyzing the death of 
+relatives. In addition, we have naisargika karakas, who are the natural significators of 
+various matters. These significations are used in general Phalita Jyotish. Table 15 
+gives a list of naisargika karakas. For example, the 4th house from Moon shows 
+mother. The 5th house from Jupiter shows sons. If we want to analyze the birth of 
+children or analyze some simple events from their lives, we should take the 5th from 
+Jupiter. If we want to analyze some children-related troubles that punish one’s soul 
+or if we want to analyze some achievements and happiness related to children, they 
+will be more closely related to PK (putra karaka of chara karakas). If we want to time 
+the death of a child, sthira karaka for children (Jupiter) should be used. 
+Table 15: Primary Naisargika Karakas 
+House 
+From Planet 
+Matters signified 
+1st 
+Sun 
+Self, physical constitution, soul, health 
+2nd 
+Jupiter 
+Family, wealth 
+3rd 
+Mars 
+Younger siblings, courage 
+4th 
+Moon 
+Mother 
+5th 
+Jupiter 
+Children 
+6th 
+Mars 
+Enemies 
+7th 
+Venus 
+Wife, husband, marital bliss, relationships 
+8th 
+Saturn 
+Longevity, troubles 
+9th 
+Jupiter 
+Teacher, religion, fortune 
+10th 
+Mercury 
+Work, achievements, honors 
+11th 
+Jupiter 
+Elder siblings 
+12th 
+Saturn 
+Losses 
+ 
+In addition, we have various other matters allotted to different planets in classics. 
+The list of the natural significations of various planets is listed in Table 16. For 
+example, Mercury and 5th house show memory and so the 5th house from Mercury 
+shows memory. 
+ 
+Table 16: List of Naisargika Karakatwas 
+Planet 
+Matters signified and associated houses 
+Sun 
+Self, soul, constitution, health (1st); fame, power (5th); father, boss (9th); 
+
+=== PAGE 96 ===
+ 
+ 
+ 
+ 84 
+Vedic Astrology: An Integrated Approach
+career, achievements (10th) 
+Moon 
+Mind (1st); mother, peace of mind (4th); friends (11th) 
+Mars 
+Courage, younger siblings (3rd); real estate (4th); scholarship in Nyaya 
+sastra, speculation (5th); enemies, diseases, accidents, loans (6th) 
+Mercury 
+Speech (2nd); learning (4th); memory, scholarship, students (5th); work, 
+achievements, honors (10th); credits (11th) 
+Jupiter 
+Family, wealth (2nd); traditional learning (4th); children, intelligence 
+(5th); teacher, religion, fortune (9th); elder brother, gains (11th) 
+Venus 
+Vehicles (4th); wife, husband, marital bliss (7th); bed pleasures (12th) 
+Saturn 
+Following (5th); servants (6th), Longevity, troubles (8th); losses, 
+hospitalization (12th) 
+Rahu 
+Accidents (6th); occult knowledge (8th); pilgrimages, going abroad (9th) 
+Ketu 
+Occult knowledge (8th); pilgrimages, going abroad (9th); moksha (12th) 
+ 
+8.5 
+Answer to Exercise 
+ 
+Exercise 11: 
+Table 17: Chara karakas in Example 28 
+Planet 
+Advancement in rasi 
+Order 
+Chara karaka 
+Mercury 
+21°0' 
+1 
+AK 
+Venus 
+17°42' 
+2 
+AmK 
+Rahu 
+30° – 14°30' = 15°30' 
+3 
+BK 
+Moon 
+15°29' 
+4 
+MK 
+Mars 
+13°40' 
+5 
+PiK 
+Saturn 
+9°41' 
+6 
+PK 
+Sun 
+9°36' 
+7 
+GK (JK) 
+Jupiter 
+2°6' 
+8 
+DK 
+ 
+Mercury is AK. Mercury shows intellectuals, orators, journalists, good 
+communicators, people who can move with anyone, people who are liked by 
+everyone, and, fickle-minded people. The native can be one of these types. 
+ 
+
+=== PAGE 97 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+85 
+ 
+ 
+ 
+9.  Arudha Padas 
+ 
+9.1 
+Introduction 
+ 
+Lagna shows true self. However, people’s perceptions of a person can be different 
+from reality. Usually, how one is perceived by others is more important in material 
+life than who one really is. A political leader perceived by people as a powerful and 
+influential person may in reality be a coward and a confused man always in doubt. 
+But the reality does not matter in deciding his material life. Perceptions matter more. 
+People perceive him as a strong leader and that matters the most in deciding his 
+political career. 
+ 
+A political leader generally perceived as an honest man may in reality be badly 
+corrupt. A person generally perceived as an intelligent person may in reality be of 
+average intelligence. An intelligent person may score poorly in examinations and 
+people may not know his intelligence. 
+ 
+If someone studied at IIT (a top engineering institute of India), people may think that 
+he is very knowledgable. If someone studied at an obscure university, people may 
+not get the same impression. But it is possible that people’s perceptions are wrong 
+and the person who studied at IIT is less knowledgable. If an astrologer is frequented 
+by a top politician, people may get an impression that the astrologer is good. If an 
+astrologer maintains a low profile, people may think that he is average. But the latter 
+astrologer may be more learned in reality. 
+ 
+What people perceive about a person can often be different from reality. However, 
+perceptions and reality are both important to an astrologer. For predicting some 
+matters, we need knowledge of the perceptions (e.g. success of a politician in 
+elections, success in a competitive examination, promotion at office etc). For 
+predicting some internal matters, on the other hand, true self should be clearly 
+understood. 
+ 
+So we, astrologers, should be able to separate reality from perceptions and 
+understand both correctly. We should understand the true nature of a person and also 
+
+=== PAGE 98 ===
+ 
+ 
+ 
+ 86 
+Vedic Astrology: An Integrated Approach
+how he is perceived by the world. Arudha padas are a very important concept of 
+Vedic astrology and they help us with that tough, but important, task. 
+ 
+9.2 
+Computation of Bhava Arudhas 
+ 
+Arudha padas of all the 12 houses (bhavas) in all the divisional charts are defined as 
+follows: 
+ 
+(1) Take sign containing the house of interest in the divisional chart of interest. 
+(2) Find the sign occupied by the lord of that house. 
+NOTE: Aquarius is owned by Saturn and Rahu. Scorpio is owned 
+by Mars and Ketu. Take the stronger lord in the case of houses 
+falling in these two signs. The chapter on “Strength of Planets and 
+Rasis” will explain the rules used in comparing the strengths of 
+planets. 
+(3) Count signs from the house of interest to the sign containing its lord. Counting is 
+in the zodiacal direction always. For example, if the house we are interested in is 
+in Gemini and its lord Mercury is in Aquarius, we count signs from Gemini to 
+Aquarius and get 9. 
+(4) Count the same number of signs from the sign containing the lord and find the 
+ending sign. In the above example, we count 9 signs from Aquarius and we end 
+up in Libra. 
+(5) Exception: If the sign found thus in step (4) is in the 1st or 7th from the original 
+sign in step (1), then we take the 10th sign from the sign found in step (4). 
+Otherwise we don’t make any change. 
+(6) The resulting sign contains the arudha pada of the house of interest. 
+ 
+Arudha pada of a house is simply called arudha or pada also. In this book, we will 
+denote the arudha pada on nth house with An. For example, arudha pada of 4th house 
+is A4 and arudha pada of 9th house is A9. 
+ 
+There are two special cases: Arudha pada of lagna is denoted as AL (arudha lagna) 
+and arudha pada of 12th house is denoted as UL (upapada lagna). 
+ 
+
+=== PAGE 99 ===
+ 
+ 
+ 
+Part 1: Chart Analysis 
+87 
+ 
+ 
+ 
+Example 29: Consider Chart 1 and find the arudha padas of all the 12 houses. 
+ 
+Chart 1 
+ 
+ 
+(1) 
+First house is in Vi. Lord is Mercury and he is in Pi. Counting from Vi to Pi, 
+we get a count of 7. Counting 7 signs from Pi, we get Vi. However, this is in 
+the 1st from the original sign (Vi). So we take the 10th therefrom and get Ge. 
+AL is in Ge. 
+(2) 
+Second house is in Li. Lord is Venus and he is in Pi. Counting from Li to Pi, 
+we get a count of 6. Counting 6 signs from Pi, we get Le. A2 is in Le. 
+(3) 
+Third house is in Sc. Lord is Mars – he is stronger than Ketu, being with 2 
+other planets – and he is in Ar. Counting from Sc to Ar, we get a count of 6. 
+Counting 6 signs from Ar, we get Vi. A3 is in Vi. 
+(4) 
+Fourth house is in Sg. Lord is Jupiter and he is in Ar. Counting from Sg to Ar, 
+we get a count of 5. Counting 5 signs from Ar, we get Le. A4 is in Le. 
+(5) 
+Fifth house is in Cp. Lord is Saturn and he is in Ar. Counting from Cp to Ar, 
+we get a count of 4. Counting 4 signs from Ar, we get Cn. However, this is in 
+the 7th from the original sign (Cp). So we take the 10th therefrom (from Cn) 
+and get Ar. A5 is in Ar. 
+
+=== PAGE 100 ===
+ 
+ 
+ 
+ 88 
+Vedic Astrology: An Integrated Approach
+(6) 
+Sixth house is in Aq. Lord is Saturn – he is stronger than Rahu, being with 2 
+other planets – and he is in Ar. Counting from Aq to Ar, we get a count of 3. 
+Counting 3 signs from Ar, we get Ge. A6 is in Ge. 
+(7) 
+Seventh house is in Pi. Lord is Jupiter and he is in Ar. Counting from Pi to Ar, 
+we get a count of 2. Counting 2 signs from Ar, we get Ta. A7 is in Ta. 
+(8) 
+Eighth house is in Ar. Lord is Mars and he is in Ar. Counting from Ar to Ar, 
+we get a count of 1. Counting 1 sign from Ar, we get Ar itself. However, this 
+is in the 1st from the original sign (Ar). So we take the 10th therefrom and get 
+Cp. A8 is in Cp. 
+(9) 
+Ninth house is in Ta. Lord is Venus and he is in Pi. Counting from Ta to Pi, 
+we get a count of 11. Counting 11 signs from Pi, we get Cp. A9 is in Cp. 
+(10) Tenth house is in Ge. Lord is Mercury and he is in Pi. Counting from Ge to Pi, 
+we get a count of 10. Counting 10 signs from Pi, we get Sg. However, this is 
+in the 7th from the original sign (Ge). So we take the 10th therefrom (from Sg) 
+and get Vi. A10 is in Vi. 
+(11) Eleventh house is in Cn. Lord is Moon and he is in Ge. Counting from Cn to 
+Ge, we get a count of 12. Counting 12 signs from Ge, we get Ta. A11 is in Ta. 
+(12) Twelfth house is in Le. Lord is Sun and he is in Pi. Counting from Le to Pi, 
+we get a count of 8. Counting 8 signs from Pi, we get Li. UL is in Li. 
+ 
+Some terms used specifically to describe various arudha padas are given below: 
+ 
+Table 18: Specific names of arudha padas 
+Arudha Specific names 
+A1 
+Arudha lagna, Pada lagna, Arudha, Pada 
+A2 
+Dhanarudha, Vittarudha, Dhana pada, Vitta pada 
+A3 
+Bhatrarudha, Bhratri pada, Vikramarudha, Vikrama pada 
+A4 
+Matri pada, Vahana pada, Sukha pada, Matrarudha, Vahanarudha, Sukharudha 
+A5 
+Mantra pada, Mantrarudha, Putrarudha, Putra pada, Buddhi pada 
+A6 
+Roga pada, Satru pada, Rogarudha, Satrarudha 
+A7 
+Dara pada, Dararudha 
+A8 
+Mrityu pada, Kashta pada, Kashtarudha, Randhrarudha 
+A9 
+Bhagya pada, Bhagyarudha, Pitri pada, Pitrarudha, Dharma pada, Guru pada 
+A10 
+Karma pada, Karmarudha, Swarga pada, Swargarudha, Rajya pada 
+A11 
+Labha pada, Labharudha 
+A12 
+Upapada lagna, Upapada, Gaunapada, Vyayarudha, Moksha pada 
+ 
+

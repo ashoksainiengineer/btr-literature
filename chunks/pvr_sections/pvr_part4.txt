@@ -1,0 +1,4622 @@
+=== PAGE 301 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+289 
+ 
+ 
+ 
+24.  Kalachakra Dasa 
+ 
+24.1 Introduction 
+ 
+Sage Parasara said in his classic “Brihat Parasara Hora Sastram”: 
+ 
+ 
+ 
+It means, “there is another dasa called Kalachakra dasa, which is the most 
+respectable of all dasa systems”. Kalachakra literally means “the wheel of Time”. It 
+shows how the wheel of time unfolds events in the life of an individual. Parasara said 
+that Lord Shiva explained this dasa to Goddess Parvati. 
+ 
+24.2 Computation 
+ 
+Nakshatras are divided into two groups – Savya (zodiacal) group and Apasavya 
+(anti-zodiacal group), as shown in Table 42. Note that the first 3 nakshatras belong to 
+the savya group, the next 3 constellations to the apasavya group and so on. 
+ 
+Table 42: Nakshatra Classification 
+Savya Group 
+Aswini, Bharani, Krittika 
+Punarvasu, Pushyami, Aasresha 
+Hasta, Chira, Swaati 
+Moola, Poorvaashaadha, Uttaraashaadha 
+Poorvabhaadrapada, Uttarabhaadrapada, Revati 
+Apasavya Group 
+Rohini, Mrigasira, Aardra 
+Makha, Poorva Phalguni, Uttara Phalguni 
+Visaakha, Anooraadha, Jyeshtha 
+Sravanam, Dhanishtha, Satabhisha 
+ 
+Parasara taught that we can draw Kalachakra (wheel of Time) by drawing 2 sets of 
+12 houses for savya and apasavya groups of nakshatras, then repeating them and 
+
+=== PAGE 302 ===
+ 
+ 
+ 
+ 290 
+Vedic Astrology: An Integrated Approach
+distributing them between nakshatras. Savya means “zodiacal” and apasavya means 
+“anti-zodiacal”. 
+ 
+We write the 12 rasis in one set (either zodiacally or anti-zodiacally). In the other set, 
+we write their mirror images, i.e. the other sign owned by the same planet. The 
+mirror image of Ar is Sc. The mirror image of Ta is Li. The mirror image of Cp is 
+Aq. However, the mirror image of Cn is Cn itself and that of Le is Le itself, as they 
+are the only signs owned by their lords. The main sequence and the mirrored 
+sequence together form a sequence of 24 rasis. We have two such sequences – one 
+for the savya group and the other for the apasavya group (see Table 43). We find 
+antardasas and dasas by repeating these 24-rasi sequences and going through them. 
+Table 43: Parasara's Kalachakra Basis 
+Savya Group 
+Main 
+Ar 
+Ta 
+Ge 
+Cn 
+Le 
+Vi 
+Li 
+Sc 
+Sg 
+Cp 
+Aq 
+Pi 
+Mirrored 
+Sc 
+Li 
+Vi 
+Cn 
+Le 
+Ge 
+Ta 
+Ar 
+Pi 
+Aq 
+Cp 
+Sg 
+Apasavya Group 
+Mirrored 
+Sg 
+Cp 
+Aq 
+Pi 
+Ar 
+Ta 
+Ge 
+Le 
+Cn 
+Vi 
+Li 
+Sc 
+Main 
+Pi 
+Aq 
+Cp 
+Sg 
+Sc 
+Li 
+Vi 
+Le 
+Cn 
+Ge 
+Ta 
+Ar 
+ 
+The first pada (quarter) of Aswini is associated with the first 9 rasis in the savya 
+group above (Ar, Ta, Ge, Cn, Le, Vi, Li, Sc, Sg). The dasa running at birth will be 
+one of these 9 rasis and one will run dasas of 9 rasis starting from that rasi. One born 
+with Moon at the beginning of the first pada of Aswini will run Ar dasa at birth and 
+run Ta, Ge, Cn, Le, Vi, Li, Sc and Sg dasas after it. One born with Moon in the 
+middle of the first pada of Awini may run Le dasa at birth and run Vi, Li, Sc, Sg, Cp, 
+Aq, Pi and Sc dasas after it. One born with Moon towards the end of the first pada of 
+Aswini may run Sg dasa at birth and Cp, Aq, Pi, Sc, Li, Vi, Cn and Le dasas after it. 
+Based on the elapsed fraction of the 1st pada of Aswini, we choose the initial dasa 
+from the 9 rasis associated with that nakshatra pada and then proceed along 
+Kalachakra and list 9 rasis starting from it. The second pada of Aswini is associated 
+with the next 9 rasis in the savya group above (Cp, Aq, Pi, Sc, Li, Vi, Cn, Le, Ge). 
+ 
+Like this, as we go from one nakshatra pada (constellation quarter) to the next in the 
+savya group, we move from one set of 9 rasis to the next. When we reach the end of 
+the 24 rasis, we go to the beginning. In this manner, we can find a set of 9 rasis 
+
+=== PAGE 303 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+291 
+ 
+ 
+ 
+associated with each nakshatra pada. The first of the nine rasis is called “Deha rasi” 
+(body sign) and the last one is called “Jeeva rasi” (spirit/life sign). 
+ 
+At the end of the 4th quarter of Aswini, the 1st quarter of Bharani starts and we do the 
+same thing. We go to the next 9 rasis in the set of 24 rasis. 
+ 
+We can do the same thing in the case of apasavya nakshatras and use the 24-rasi 
+sequence given for the apasavya group in Table 43. In the case of apasavya 
+nakshatras, the first rasi in the nine rasis corresponding to a nakshatra pada is called 
+“Jeeva rasi” and the last one is called “Deha rasi” (note that the definition has 
+reversed). 
+ 
+For the sake of those who do not understand the above logic well enough to list the 
+nine rasis associated with each nakshatra pada, they are explicitly given in Table 44-
+Table 47. For the purpose of these tables, we will divide savya and apasavya groups 
+of nakshatras into two sub-groups each. 
+Table 44: Savya-1 Nakshatras: Aswini, Krittika, Punarvasu, Aasresha, Hasta, 
+Swaati, Moola, Uttarashadha, Poorvabhadrapada 
+Pada 
+Sequence of Rasis 
+Deha 
+Rasi 
+Jeeva 
+Rasi 
+Paramayush 
+1st 
+Ar, Ta, Ge, Cn, Le, Vi, Li, Sc, Sg 
+Ar 
+Sg 
+100 years 
+2nd 
+Cp, Aq, Pi, Sc, Li, Vi, Cn, Le, Ge 
+Cp 
+Ge 
+85 years 
+3rd 
+Ta, Ar, Pi, Aq, Cp, Sg, Ar, Ta, Ge 
+Ta 
+Ge 
+83 years 
+4th 
+Cn, Le, Vi, Li, Sc, Sg, Cp, Aq, Pi 
+Cn 
+Pi 
+86 years 
+ 
+Table 45: Savya-2 Nakshatras: Bharani, Pushyami, Chitra, Poorvashadha, Revati 
+Pada 
+Sequence of Rasis 
+Deha 
+Rasi 
+Jeeva 
+Rasi 
+Paramayush 
+1st 
+Sc, Li, Vi, Cn, Le, Ge, Ta, Ar, Pi 
+Sc 
+Pi 
+100 years 
+2nd 
+Aq, Cp, Sg, Ar, Ta, Ge, Cn, Le, Vi 
+Aq 
+Vi 
+85 years 
+3rd 
+Li, Sc, Sg, Cp, Aq, Pi, Sc, Li, Vi 
+Li 
+Vi 
+83 years 
+4th 
+Cn, Le, Ge, Ta, Ar, Pi, Aq, Cp, Sg 
+Cn 
+Sg 
+86 years 
+ 
+Table 46: Apasavya-1 Nakshatras: Rohini, Makha, Visakha, Sravanam 
+Pada 
+Sequence of Rasis 
+Deha 
+Jeeva 
+Paramayush 
+
+=== PAGE 304 ===
+ 
+ 
+ 
+ 292 
+Vedic Astrology: An Integrated Approach
+Rasi 
+Rasi 
+1st 
+Sg, Cp, Aq, Pi, Ar, Ta, Ge, Le, Cn 
+Cn 
+Sg 
+86 years 
+2nd 
+Vi, Li, Sc, Pi, Aq, Cp, Sg, Sc, Li 
+Li 
+Vi 
+83 years 
+3rd 
+Vi, Le, Cn, Ge, Ta, Ar, Sg, Cp, Aq 
+Aq 
+Vi 
+85 years 
+4th 
+Pi, Ar, Ta, Ge, Le, Cn, Vi, Li, Sc 
+Sc 
+Pi 
+100 years 
+ 
+Table 47: Apasavya-2 Nakshatras: Mrigasira, Ardra, Poorvaphalguni, 
+Uttaraphalguni, Anuradha, Jyeshtha, Dhanishtha, Satabhisha 
+Pada
+Sequence of Rasis 
+Deha 
+Rasi 
+Jeeva 
+Rasi 
+Paramayush 
+1st 
+Pi, Aq, Cp, Sg, Sc, Li, Vi, Le, Cn 
+Cn 
+Pi 
+86 years 
+2nd 
+Ge, Ta, Ar, Sg, Cp, Aq, Pi, Ar, Ta 
+Ta 
+Ge 
+83 years 
+3rd 
+Ge, Le, Cn, Vi, Li, Sc, Pi, Aq, Cp 
+Cp 
+Ge 
+85 years 
+4th 
+Sg, Sc, Li, Vi, Le, Cn, Ge, Ta, Ar 
+Ar 
+Sg 
+100 years 
+ 
+It may be noted in the tables above that there is a column called “paramaayush”. This 
+gives the sum of the dasas of the nine rasis associated with the constellation quarter. 
+We now need to define the durations of various dasas. The duration of a dasa is 
+based in its owner, as shown in Table 48. Two rasis owned by the same planet have 
+the same duration. 
+Table 48: Dasa Years in Kalachakra Dasa 
+Rasi owner 
+Rasis 
+Dasa years 
+Sun 
+Le 
+5 
+Moon 
+Cn 
+21 
+Mars 
+Ar & Sc 
+7 
+Mercury 
+Ge & Vi 
+9 
+Jupiter 
+Sg & Pi 
+10 
+Venus 
+Ta & Li 
+16 
+Saturn 
+Cp & Aq 
+4 
+ 
+Let us go through the procedure used in finding dasas and antardasas, in case it is not 
+yet obvious to the reader: 
+ 
+(1) Find the nakshatra pada occupied by natal Moon. Identify the 9-rasi sequence 
+associated with it, using Table 44-Table 47. Also, note down the paramayush. 
+
+=== PAGE 305 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+293 
+ 
+ 
+ 
+(2) Find the fraction of the nakshatra pada that was covered by Moon at birth. 
+(3) Find the same fraction of the paramayush. That represents the portion of the 
+paramayush (dasas of the nine rasis) that was over before birth. Based on this, we 
+can find which of the nine dasas runs at birth and how much of the dasa remains 
+at birth. 
+(4) After this dasa, we go to the next rasi in the nine rasis. When we finish the nine 
+rasis of the nakshatra pada, we go to the nine rasis of the next nakshatra pada. 
+After the nine rasis of the 4th pada of a nakshatra, we go to the nine rasis 
+corresponding to the 1st pada of the next nakshatra (i.e. 1st pada of the 
+constellations belonging to the other sub-group in the same group). For example, 
+after the nine rasis of the 4th pada of Savya-1 constellations, we go to the nine 
+rasis of the 1st pada of Savya-2 constellations. After the nine rasis of the 4th pada 
+of Apasavya-2 constellations, we go to the nine rasis of the 1st pada of Apasavya-
+1 constellations. 
+(5) In each dasa, antardasas start from dasa rasi itself. After the first antardasa, we go 
+to the next rasi. After that, we go to the next rasi. And so on. We take 9 rasis 
+starting from dasa rasi and antardasas will belong to those rasis. We distribute 
+the dasa length among the 9 antardasas proportionally (in proportion to their 
+respective dasa lengths as given in Table 48). If we reach the end of the nine rasis 
+corresponding to the nakshatra pada when counting 9 rasis from dasa rasi, we 
+proceed to the next nakshatra pada as described in rule (4) above. 
+ 
+All this may seem complicated to a casual reader, but it must be obvious to anyone 
+who clearly understood Kalachakra shown in Table 43 and followed how Table 44-
+Table 47 are derived from it. A couple of examples may make this clearer. 
+ 
+Example 95: Suppose Moon is at 15Ta50 in someone’s natal chart. Let us find 
+Kalachakra dasa for him. 
+ 
+Moon is in Rohini 2nd pada, which runs from 13Ta20 to 16Ta40. From Table 46, we 
+find that the 9 rasis associated with this nakshatra pada are: Vi, Li, Sc, Pi, Aq, Cp, 
+Sg, Sc, Li. 
+ 
+Table 49: Calculation for Example 95 
+ 
+Vi 
+Li 
+Sc 
+Pi 
+Aq 
+Cp 
+Sg 
+Sc 
+Li 
+Years 
+9 
+16 
+7 
+10 
+4 
+4 
+10 
+7 
+16 
+
+=== PAGE 306 ===
+ 
+ 
+ 
+ 294 
+Vedic Astrology: An Integrated Approach
+Cumulative 
+9 
+25 
+32 
+42 
+46 
+50 
+60 
+67 
+83 
+ 
+The amount of the nakshatra pada traversed by Moon is 15º50' – 13º20' = 2º30'. The 
+fraction of the nakshatra pada63 traversed by Moon is (2º30')/(3º20') = 150'/200' = 
+0.75. The same fraction of paramayush (83 years) is 0.75 x 83 = 62.25 years. So 
+62.25 years out of the 83 years were over before birth. We see from Table 49 that 60 
+years were over by the end of Sg dasa and 2.25 years of Sc dasa added to it makes it 
+62.25 years. So Sc dasa was running at birth and 7 – 2.25 = 4.75 years of Sc dasa 
+were remaining at birth. By adding 4 years 9 months to the birthdate, we get the date 
+on which Sc dasa ends. Then Li dasa of 16 years will run till an age of 20 years 9 
+months. With Li dasa, we finish the nine rasis associated with the 2nd pada of Rohini 
+(Apasavya-1). So we go to the 3rd pada in the same table. The next 7 dasas64 will be 
+Vi, Le, Cn, Ge, Ta, Ar, Sg. Their lengths are as given in Table 48.65 
+ 
+Example 96: Suppose Moon is at 3Cn00 in someone’s natal chart. Let us find 
+Kalachakra dasa for him. 
+ 
+Moon is in Punarvasu 4th pada, which runs from 0Cn00 to 3Cn20. From Table 44, 
+we find that the 9 rasis associated with this nakshatra pada are: Cn, Le, Vi,  Li, Sc, 
+Sg, Cp, Aq, Pi. 
+ 
+Table 50: Calculation for Example 96 
+ 
+Cn 
+Le 
+Vi 
+Li 
+Sc 
+Sg 
+Cp 
+Aq 
+Pi 
+Years 
+21 
+5 
+9 
+16 
+7 
+10 
+4 
+4 
+10 
+Cumulative 
+21 
+26 
+35 
+51 
+58 
+68 
+72 
+76 
+86 
+ 
+The fraction of the pada traversed by Moon is (3º0')/( 3º20') = 180'/200' = 0.9. The 
+same fraction of paramayush (86 years) is 0.9 x 86 = 77.4 years. So 77.4 out of the 
+86 years were over before birth. We see from Table 50 that 76 years were over by 
+the end of Aq dasa and 1.4 years of Pi dasa added to it makes it 77.4 years. So Pi 
+dasa was running at birth and 10 – 1.4 = 8.6 years of Pi dasa were remaining at birth. 
+                                                 
+63 The complete length of each nakshatra pada is 3º20'. 
+64 Parasara suggested taking the dasas of nine rasis starting from the rasi whose dasa is running at 
+birth. Sc dasa was running at birth and Sc and Li dasas belong to the set of nine rasis associated with 
+Rohini 2nd pada. We already have 2 rasis. So we just need 7 rasis from the next pada. 
+65 We again have the issue of solar years vs savana years. This author prefers savana years with all 
+nakshatra dasas. Kalachakra dasa is a nakshatra dasa. 
+
+=== PAGE 307 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+295 
+ 
+ 
+ 
+By adding 8 years 7 months 6 days to the birthdate, we get the date on which Pi dasa 
+ends. With Pi dasa, we finish the nine rasis associated with the 4th pada of Punarvasu 
+(Savya-1). So we go to the 1st pada of Savya-2 nakshatras (Table 45). The next 8 
+dasas will be Sc, Li, Vi, Cn, Le, Ge, Ta, Ar. Their lengths are as given in Table 48. 
+ 
+Exercise 34: Suppose Moon is at 5Aq50 in someone’s natal chart. Let us find 
+Kalachakra dasa for him. 
+ 
+Example 97: Let us find the antardasa sequences in the 1st, 2nd, 3rd and 4th dasas in 
+Example 95. 
+ 
+The 1st dasa is Sc (from the 2nd pada of Apasavya-1 constellations). We should start 
+from Sc and find 9 rasis. After Sc, we have Li and the 9 rasis corresponding to the 
+2nd pada end there (see Table 46). So the next 7 rasis should be taken from the 9 rasis 
+corresponding to the next pada, i.e. 3rd pada. So we get antardasas in Sc dasa as Sc, 
+Li, Vi, Le, Cn, Ge, Ta, Ar, Sg.66 
+ 
+Similarly, one can see that antardasas in Li dasa (2nd dasa) go as Li, Vi, Le, Cn, Ge, 
+Ta, Ar, Sg, Cp. Antardasas in Vi dasa (3rd dasa) go as Vi, Le, Cn, Ge, Ta, Ar, Sg, Cp, 
+Aq. Antardasas in Le dasa (4th dasa) go as Le, Cn, Ge, Ta, Ar, Sg, Cp, Aq, Pi. 
+ 
+One can notice that dasa sequences and antardasa sequences all come from the two 
+24-rasi sequences given in Kalachakra (see Table 43). In the cases of dasas, the 
+starting point in the 24-rasi sequence is determined by the nakshatra pada of Moon 
+and the portion elapsed in it. In the case of antardasas, the starting point is based on 
+dasa rasi. 
+ 
+To learn how the lengths of antardasas are computed, let us take Le dasa as an 
+example. We found that antardasas in Le dasa are Le, Cn, Ge, Ta, Ar, Sg, Cp, Aq, Pi. 
+By adding the dasa lengths of these 9 rasis (see Table 48), we get 86 years. So we 
+divide Le dasa of 5 years into 86 parts and give 5 parts to Le antardasa, 21 parts to 
+Cn antardasa, 9 parts to Ge antardasa and so on. 
+ 
+                                                 
+66 However, we see from Example 95 that 2.25 years of Sc dasa were over before birth. So some of 
+these antardasas may be over before birth. 
+
+=== PAGE 308 ===
+ 
+ 
+ 
+ 296 
+Vedic Astrology: An Integrated Approach
+24.3 Interpretation 
+ 
+24.3.1 
+Basics 
+ 
+Dasa of a rasi gives the natural results of the rasi. For example, dasa of Pisces may 
+give saattwik religious activities. Dasa of Aries may give enterprise or quarrels or 
+wounds. 
+ 
+More importantly, dasa of a rasi gives the results of the house and planets in that rasi. 
+If Aries has the 5th house in D-7, its dasa may give children. If Pisces has the 8th 
+house in D-6, its dasa may give diseases. If Gemini has lagna in D-24, its dasa may 
+give all-round progress in the accumulation of knowledge. If Sc has AL in D-10 and 
+its lord Mars occupies it, its dasa may bring good developments related to career and 
+status. Dasa of a rasi containing the 8th from AL in D-10 may give a fall in status at 
+workplace. Dasa of a rasi may also give the results of its lord. If Mars is in the 5th 
+house in D-7, Aries dasa may give children. 
+ 
+Samudaaya Ashtakavarga (SAV) plays an important role in deciding the results in a 
+dasa. If a rasi has too many or too few rekhas in SAV of a particular divisional chart, 
+then its dasa may bring favorable or unfavorable results, respectively, relating to the 
+significations of that house in that divisional chart. Usually dasas of rasis with 30 or 
+more rekhas in D-10 SAV bring the best phases in one’s career and dasas of rasis 
+with 30 or more rekhas in in D-24 SAV bring the best periods for learning. One 
+should keep SAV of various divisional charts with one when interpreting Kalachakra 
+dasa. 
+ 
+24.3.2 
+Deha and Jeeva Rasis 
+ 
+In Table 44-Table 47, we listed the deha and jeeva rasis of different nakshatra padas. 
+However, these hold for one born at the beginning of the nakshatra pada. One can 
+have different deha and jeeva rasis based on the elapsed portion in the nakshatra 
+pada. 
+ 
+Deha and jeeva rasis are simply the rasis of the first and the ninth dasas in the case 
+of one born in a savya nakshatra. In the case of one born in an apasavya nakshatra, 
+deha and jeeva rasis are the rasis of the ninth and the first dasas. 
+
+=== PAGE 309 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+297 
+ 
+ 
+ 
+ 
+In Example 95, the first dasa is Sc and the ninth dasa is Sg. Since Rohini is an 
+apasavya nakshatra, Sc becomes jeeva rasi and Sg becomes deha rasi. In Example 
+96, the first dasa is Pi and the ninth dasa is Ar. Since Punarvasu is a savya nakshatra, 
+Pi becomes deha rasi and Ar becomes jeeva rasi. 
+ 
+Deha rasi shows body and jeeva rasi shows the spirit. Benefics and malefics 
+transiting in them affect them positively and negatively (respectively). If Jupiter, 
+Mercury and Venus are transiting in one’s jeeva rasi, one may exhibit a positive 
+spirit and be cheerful. If Mars, Sun, Saturn and Rahu are transiting in one’s jeeva 
+rasi, one may be without any enthusiasm. If Mars, Sun, Saturn and Rahu are 
+transiting in one’s deha rasi, one may face accidents or death. 
+ 
+24.3.3 
+Gatis (special movements) 
+ 
+We see that dasas progress in a regular fashion in Kalachakra dasa. We either go as 
+Ar, Ta, Ge etc or as Pi, Aq, Cp etc. However, some irregularities can be found. The 
+rasis whose dasas come after an irregular leap go by special names and special 
+results are attributed to those dasas in classics. 
+ 
+(1) A trinal leap (from Sg to Ar or vice versa; from Pi to Sc or vice versa) is called 
+“Simhaavalokana gati” (lion’s leap)67. 
+(2) Temporary reversal of the direction is called “Markati gati” (monkey’s leap). 
+When we go as Sc, Li, Vi, Cn, Le, Ge, Ta, Ar etc in savya nakshatras, we 
+temporarily reverse the direction when we go from Cn to Le. So Le is a markati 
+gati rasi. Similarly, when we go as Ar, Ta, Ge, Le, Cn, Vi, Li, Sc etc in apasavya 
+nakshatras, we temporarily reverse the direction when we go from Le to Cn. So 
+Cn is a markati gati rasi. 
+(3) Leaving one rasi and jumping over it is called “Mandooki gati” (frog’s leap). 
+When we go as Sc, Li, Vi, Cn, Le, Ge, Ta, Ar etc in savya nakshatras, we have 2 
+jumps – (i) from Vi to Cn and (ii) Le to Ge. So Cn and Ge are mandooki gati 
+rasis. Similarly, when we go as Ar, Ta, Ge, Le, Cn, Vi, Li, Sc etc in apasavya 
+nakshatras, we have 2 jumps – (i) from Ge to Le and (ii) Cn to Vi. So Le and Vi 
+are mandooki gati rasis. 
+                                                 
+67 Simhavalokana doesn’t really mean a lion. It strictly means a lion’s view of the jungle from an 
+elevated vantage point. 
+
+=== PAGE 310 ===
+ 
+ 
+ 
+ 298 
+Vedic Astrology: An Integrated Approach
+ 
+The results attributed to various leaps are given in Table 51. 
+Table 51: Results of gatis (leaps) 
+Leap 
+Savya nakshatras 
+Apasavya nakshatras 
+Lion 
+Fear of animals, loss of friends, 
+distress to near relations, fall in 
+dungeons, danger from poison 
+and weapons, fall from a vehicle, 
+fever, destruction of house 
+Death of father or elders, loss of 
+position 
+Monkey 
+Loss of wealth, agriculture and 
+animals, death of father or elders 
+Danger from water, distress to father, 
+loss of position, anger of rulers, 
+wandering in the forests 
+Frog 
+Distress to relatives, elders and 
+father, trouble from poison, 
+weapons, enemies, thieves. In 
+Le-to-Ge leap, death of mother 
+or, death of native, trouble from 
+rulers and diseases are possible. 
+Distress to wife, loss of children, 
+fever, sickness and loss of position 
+ 
+In addition, Parasara listed the directions to prefer and the directions avoid, while 
+travelling and relocating, during different leaps. 
+ 
+(1) In the leap from Vi to Cn, east will give great results. One can take up an 
+auspicious journey in the northern direction. 
+(2) In the leap from Le to Ge, east should be avoided. A journey to the southwest 
+will be fruitful. 
+(3) In the leap from Cn to Le, a move in the southern direction results in losses. 
+West is favorable. 
+(4) In the leap from Pi to Sc and in the normal movement from Sg to Cp, there will 
+be troubles in the northern direction. 
+(5) In the leap from Sg to Ar, journeys should be avoided, as they may result in 
+sickness, imprisonment or death. 
+(6) In the normal movement from Sg to Sc, journeys will bring comforts, wealth and 
+sexual pleasures. 
+
+=== PAGE 311 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+299 
+ 
+ 
+ 
+(7) In the leap from Le to Cn, western direction should be avoided. 
+ 
+24.4 Practical Examples 
+ 
+Example 98: The navamsa chart of a male who got married in Dec 1994 is shown in 
+Chart 46. 
+ 
+Readers can verify that the native had about 5 years of Sc dasa left at birth and the 
+next dasas are Sg, Cp, Aq, Pi, Sc, Li, Vi, Cn. At the time of wedding, the native was 
+running Pi-Pi (Pi dasa & Pi antardasa). Why did Pisces give marriage? 
+ 
+Well, it has lagna in navamsa and its lord Jupiter is in the 7th house! Naturally Pi and 
+Vi are the front-runners for giving marriage. Moreover, Pi is the 2nd from Venus. 
+Venus symbolizes domestic happiness and marital bliss. The 2nd from him in 
+navamsa can show the sense of family happiness. It can show a new person coming 
+into the family. 
+ 
+In addition, one may note that exalted Venus occupies Pi in rasi chart and he owns 
+darapada, which is in Libra. So Pisces is conducive to physical relationship and 
+marital pleasures. 
+ 
+Venus is in Aq in navamsa. While rasi shows what exists at the physical level, 
+navamsa shows the inner self and the sense of connectedness. So Aq dasa can 
+activate Venusian influence at navamsa level and give some romance. During Aq 
+dasa (1990-1994), this native had a love affair with the lady he was to marry in 
+December 1994. 
+ 
+
+=== PAGE 312 ===
+ 
+ 
+ 
+ 300 
+Vedic Astrology: An Integrated Approach
+Chart 46 
+ 
+ 
+Example 99: The D-24 shown in Chart 47 belongs to an astrologer. He learnt 
+astrology at a young age, but he has been seriously into astrology since 1993. In 
+particular, 1996-2000 was a very fruitful period. Knowledge came to him like rain 
+from monsoon clouds. He never felt as fulfilled as he did with the knowledge that 
+came to him in 1996-2000. 
+ 
+One may note that about 3 years and 2 months of Sg dasa was left at birth and Ar, 
+Ta, Ge, Cn etc dasas run after it. One may find that Gemini dasa of 9 years started in 
+1996. This dasa brought fine knowledge and intellectual satisfaction. Why? 
+ 
+Gemini contains lagna in D-24. Lagna stands for all-round progress. This is D-24 
+and lagna in it shows all-round progress related to learning and knowledge. Its lord 
+Mercury is in the 5th house of scholarship from lagna. So this dasa can increase 
+scholarship. Mercury and Venus are in trines from Ge and they contribute to the 
+prosperity of the indications of Ge. Moreover, Ge is very strong in D-24 with 34 
+rekhas in SAV. Any rasi 30 or more rekhas brings favorable results related to that 
+house in that divisional chart. 
+ 
+
+=== PAGE 313 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+301 
+ 
+ 
+ 
+Chart 47 
+ 
+ 
+The strongest houses in this D-24 SAV are Le (36 rekhas), Ge (34 rekhas) and Pi (33 
+rekhas). They are the 7th, 5th and 2nd houses from AL. As these are the houses 
+conducive to recognition and awards, this D-24 shows a person with academic 
+achievements and associated recognition. With Ge being the 5th house from AL and 
+also A5, this dasa can bring some reputation for his knowledge. So this dasa brings 
+knowledge, scholarship and also recognition for it. 
+ 
+Example 100: Let us consider the native whose D-12 is given in Chart 48. father 
+passed away in 1967. 
+ 
+We can see that about 1 year and 8 months of Pi dasa was remaining at birth and the 
+dasas coming after it are Sc, Li, Vi, Cn, Le, Ge, Ta and Ar. Cn dasa started in 
+September 1966 and Cn-Cn antardasa was running at the time of his father’s demise. 
+ 
+
+=== PAGE 314 ===
+ 
+ 
+ 
+ 302 
+Vedic Astrology: An Integrated Approach
+Chart 48 
+ 
+ 
+Lagna in D-12 is in Vi. The 9th house is in Ta. The 9th house in D-12 shows the 
+relation with father and the associated happiness. It stands for the “concept” of father 
+and paternal guidance. The “physical body” of the father is an illusion related to the 
+concept of father and A9 represents it. So we can use the 9th lord or A9 to see the 
+physical body of father. Here A9 is in Cp. Taking Cp as lagna, we see that Cn is the 
+7th house of death and its lord Moon is exalted. Moon is not only exalted, but he 
+afflicts Sun, who owns the 8th house from Cp. So Cn-Cn antardasa can result in the 
+death of father. Moreover, Cn dasa here comes after Vi and involves mandooki gati 
+(frog’s leap). We see from the previous discussions that mandooki gati in savya 
+nakshatras can bring distress to father. 
+ 
+Exercise 35: The native of Example 100 lost his mother in Li-Li antardasa. Why? 
+ 
+Example 101: Sri A.B. Vajpayee’s birthdata and D-10 chart is given in Chart 3. He 
+has been India’s Prime Minister since March 1998. 
+ 
+
+=== PAGE 315 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+303 
+ 
+ 
+ 
+About 4.5 years of Vi dasa was left at birth. The dasas to follow are Le, Cn, Ge, Ta, 
+Ar, Sg, Cp and Aq. His 4-year Cp dasa runs during 1998-2002. 
+ 
+We can see that Cp has 31 rekhas in the SAV of D-10 and 34 rekhas in the SAV of 
+rasi chart. Because Cp is strong in both charts, Cp dasa must be good. 
+ 
+The houses having 30 or more rekhas are the 1st, 3rd, 5th, 7th and 10th houses from AL. 
+Most of these houses are important for fame and recognition (and AL is the most 
+appropriate reference for judging fame and recognition). The strength of these 
+houses in D-10 SAV means that the native has a successful and famous career. Being 
+the 5th house from AL, Cp can bring reputation and power. Moreover, the lord of Cp 
+is exalted in GL. In addition, Cp contains A5 in rasi chart and D-10. A5 shows the 
+illusion associated with the 5th house matters. In D-24, A5 shows the illusion 
+associated with scholarship (5th house), i.e. one’s degrees, academic distinctions and 
+awards. In D-10, it shows the illusion associated with one’s following (5th house), i.e. 
+the positions held and the power wielded by one. For this reason, the presence of A5 
+in Cp adds to the probability of power in Cp dasa. 
+ 
+Example 102: Let us revisit Example 82. Chart 49 gives the D-20 chart of the 
+devotee whose rasi chart was considered in that example. 
+ 
+Ta dasa of about 9.5 years was left at birth. The dasas to follow are Ar, Pi, Aq, Cp, 
+Sg, Ar, Ta and Ge. Pi dasa started in July 1987 and Sg antardasa in it was running 
+when he moved to the monastery. 
+ 
+Pi and Sg are owned by Jupiter and they can give religious knowledge. Pi is the 12th 
+house in D-20 and Sg is the 9th house. The 12th house in D-20 shows spiritual 
+evolution and activities related to moksha. It has 33 rekhas in SAV and hence it is 
+strong. So its dasa can take in the direction of liberation from material bonds and 
+evolution of soul. 
+ 
+
+=== PAGE 316 ===
+ 
+ 
+ 
+ 304 
+Vedic Astrology: An Integrated Approach
+Chart 49 
+ 
+ 
+The antardasa sign Sg is the 9th house from lagna. The 9th house shows guidance. In 
+D-20, it shows one’s spiritual guru or organized religion or religious practices. It can 
+also show pilgrimages. It can certainly show moving to a monastery. Darapada (A7) 
+of D-20 is in Sg. The 7th house shows relations with others. Its arudha pada shows 
+the illusion associated with relationships or the things based on which the world 
+forms an impression about one’s relationship with others. It shows the people one 
+associates with. Darapada in D-20 shows the people one associates with, in one’s 
+spiritual life. So antardasa of the rasi containing darapada in D-20 can bring him to 
+the people he will associate with for the rest of his religious life. With Sg containing 
+Sun, natural significator of soul, and the nodes, his soul went through a churning 
+during Sg antardasa and he wandered in forests thinking about what life is. But Sg is 
+also the 9th house and its antardasa brought him to a monastery before its end. 
+ 
+The next antardasa belonged to Ar, which contains lagna. So there was all-round 
+progress in spiritual matters. Ar has 33 rekhas in D-20 SAV and it is strong. In 
+addition, Ar contains A5 (mantra pada, arudha pada of the 5th house) and this 
+antardasa may have brought some religious initiation and practice of some mantras. 
+It should be noted that the 5th house in D-20 shows one’s devotion and bhakti in 
+
+=== PAGE 317 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+305 
+ 
+ 
+ 
+religious matters. A5 shows the maya relating to devotion, i.e. practice of mantras 
+and religious rituals. 
+ 
+One may note that the 3rd house (Ge) and A3 (Li) have 30 or more rekhas in the 
+SAV. The 3rd house shows one’s communication skills. In D-20, it shows 
+communication skills as applicable in religious activities. A3 shows the associated 
+illusion, i.e. the things based on which the world forms impressions about one’s 
+communication skills. It can show the books and articles authored by one. In D-20, it 
+shows one’s religious works. If one casts D-10 of this native, one will see that the 3rd 
+house and A3 have 30 or more rekhas, in D-10 SAV also. Houses with 30 or more 
+rekhas in SAV are strengthened as per Parasara. So the 3rd house and A3 are strong 
+in both D-20 and D-10. One can conclude that this native will be a good 
+communicator and will be known for some religious literature. In fact, he is already 
+authoring a translation of “Sreemadbhaagavatam” into his mother tongue and travels 
+with some ISKCON gurus as an interpreter. A lot of worthy religious literature and 
+translations will emerge from the pen of this blessed soul in the years to come. 
+ 
+Exercise 36: The lady whose rasi and navamsa charts are given in Chart 50 was 
+married in Sg dasa and divorced in the same dasa. Sg contains Venus, the 
+significator of marriage. However, Venus also owns the 2nd and 7th from upapada in 
+rasi and navamsa. This dasa brought her marriage as well as divorce. Guess the 
+antardasa that may have brought the marriage and the antardasa that may have 
+brought the divorce. 
+ 
+
+=== PAGE 318 ===
+ 
+ 
+ 
+ 306 
+Vedic Astrology: An Integrated Approach
+Chart 50 
+ 
+
+=== PAGE 319 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+307 
+ 
+ 
+ 
+Exercise 37: Consider an actor’s D-10 chart shown in Chart 51. Venus in Aries in 
+the 10th house from AL shows a dynamic entertainer. Compute Kalachakra dasa and 
+SAV of D-10. Estimate whether Cn dasa during 1964-1984 was poor or average or 
+good. 
+ 
+Chart 51 
+ 
+ 
+24.5 Conclusion 
+ 
+Kalachakra dasa was called “the most respectable dasa of all dasas” by Parasara. 
+There are many controversies regarding its computation. This book follows the 
+approach that this author found the most acceptable based on his study of “Brihat 
+Parasara Hora Sastram” and his practical researches. A significant percentage of this 
+author’s successful long-range life-phase predictions were made using Kalachakra 
+dasa68 and that is his favorite dasa. 
+                                                 
+68 And, a significant percentage his successful short-term predictions (focussing on a period of one or 
+two weeks) were made using Tajaka annual and monthly charts.  
+
+=== PAGE 320 ===
+ 
+ 
+ 
+ 308 
+Vedic Astrology: An Integrated Approach
+ 
+When we learn a new dasa, the first question we should ask is “when should it be 
+applied and what results should be seen in it”. It is illogical to use 10 different dasas 
+interchangably. Mixing up various dasas without knowing the subtle differences 
+between them results in vague explanations. An intelligent astrologer will realize that 
+different dasas are good at showing different kinds of events. Even when different 
+dasas show the same event, they show it from different angles and focus on 
+different aspects of the same event. Without appreciating this, one cannot 
+understand why maharshis described tens, if not hundreds, of dasa systems. 
+ 
+Hence it is important to learn when a dasa can be applied and what kind of results it 
+shows. Some authors suggested that Kalachakra dasa applies only when Moon is 
+stronger in navamsa chart than in rasi chart. However, this author opines that 
+Kalachakra dasa is applicable to all people, as Parasara did not impose any 
+conditions on its applicability and went to the extent of calling it “the most 
+respectable dasa”. 
+ 
+Vimsottari dasa is based on the nakshatra of Moon. It throws light on the state of the 
+native’s mind as time progresses. It focusses on mind. Narayana dasa shows the 
+progress of lagna in one’s life and it shows the direction taken by one’s life. The 
+focus is no longer on mind, but it is on the real happenings. Of course, one’s mental 
+state directly depends on the direction taken by one’s life and the real happenings in 
+one’s life. In that sense, Vimsottari dasa and Narayana dasa show the same events. 
+But the focus is different. 
+ 
+Kalachakra dasa depends on Moon’s navamsa. Navamsa shows one’s adherence of 
+dharma or duty and throws light on the inner self. So the focus in Kalachakra dasa is 
+state of the inner self and the sense of connectedness in one’s mind. It shows how 
+connected one is with respect to the events in one’s life. For example, a political 
+leader may be running D-10 Narayana dasa of a yogakaraka rasi and he may land 
+political power. He may be running the Vimsottari dasa of Sun who may be exalted 
+in D-10 and so he may be feeling powerful. However, if Kalachakra dasa of a weak 
+and afflicted house in D-10 runs at the same time, his inner self may not feel 
+connected with the events in his career and he may feel a void. On the other hand, if 
+Kalachakra dasa rasi is strong and occupied by benefics in D-10, then one may be 
+successfully involved in activities that keep his inner self engaged. 
+ 
+
+=== PAGE 321 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+309 
+ 
+ 
+ 
+Narayana dasa specializes in showing what happens in one’s life; Vimsottari dasa 
+specializes in showing how one’s mind views what happens in one’s life; and, 
+Kalachakra dasa specializes in showing how one relates to what happens in one’s 
+life and how connected one feels. These three are the most important of all general 
+purpose phalita dasas. 
+ 
+Different dasas do not provide different alternatives that can be used interchangeably 
+to understand what happens in one’s life, but they provide different angles – or 
+vantage points – to view the same kaleidoscope that life is. 
+ 
+24.6 Answers to Exercises 
+ 
+Exercise 34: 
+ 
+Moon at 5Aq50 is in Dhanishtha 4th pada, which runs from 3Aq20 to 6Aq40. From 
+Table 47, we find that the 9 rasis associated with this nakshatra pada are: Sg, Sc, Li, 
+Vi, Le, Cn, Ge, Ta, Ar. 
+ 
+Table 52: Calculation for Exercise 34 
+ 
+Sg 
+Sc 
+Li 
+Vi 
+Le 
+Cn 
+Ge 
+Ta 
+Ar 
+Years 
+10 
+7 
+16 
+9 
+5 
+21 
+9 
+16 
+7 
+Cumulative 
+10 
+17 
+33 
+42 
+47 
+68 
+77 
+93 
+100 
+ 
+The fraction of the pada traversed by Moon is (2º30')/( 3º20') = 150'/200' = 0.75. The 
+same fraction of paramayush (100 years) is 0.75 x 100 = 75 years. So 75 years out of 
+the 100 years were over before birth. We see from Table 52 that 68 years were over 
+by the end of Cn dasa and 7 years of Ge dasa added to it makes it 75 years. So Ge 
+dasa was running at birth and 9 – 7 = 2 years of Ge dasa were remaining at birth. By 
+adding 2 years to the birthdate, we get the date on which Ge dasa ends. Then we run 
+16 years of Ta dasa and 7 years of Ar dasa. With Ar dasa, we finish the nine rasis 
+associated with the 4th pada of Dhanishtha (Apasavya-2). So we go to the 1st pada of 
+Apasavya-1 nakshatras (Table 46). The next 7 dasas will be Sg, Cp, Aq, Pi, Ar, Ta, 
+Ge. So we get the following calculations: 
+ 
+Ge dasa (02 years): 00-02 years of age 
+Ta dasa (16 years): 02-18 years of age 
+
+=== PAGE 322 ===
+ 
+ 
+ 
+ 310 
+Vedic Astrology: An Integrated Approach
+Ar dasa (07 years): 18-25 years of age 
+Sg dasa (10 years): 25-35 years of age 
+Cp dasa (04 years): 35-39 years of age 
+Aq dasa (04 years): 39-43 years of age 
+Pi dasa (10 years): 43-53 years of age 
+Ar dasa (07 years): 53-60 years of age 
+Ta dasa (16 years): 60-76 years of age 
+Ge dasa (09 years): 76-85 years of age 
+ 
+Exercise 35: 
+ 
+The 4th house is in Sg. A4 or the arudha pada of 4th house is in Vi. From Vi, Li is the 
+2nd house. Its lord Venus is in exalted in the 7th house and afflicts the debilitated 1st 
+lord (all from Vi). So Li is a strong maraka rasi from Vi. So Li-Li antardasa resulted 
+in the death of mother. 
+ 
+Exercise 36: 
+ 
+Let us take navamsa. Ge contains A7 in navamsa and can show a relationship. It 
+contains the 3rd from UL (upapada lagna) and can show the start of a marriage. It is 
+the 7th house from Venus. It is the 4th house of harmony and bliss from lagna. Its lord 
+Mercury is exalted in the 7th house. Ge has 33 rekhas in SAV. For all these reasons, 
+Ge can be the antardasa. The 7th house Vi is also a candidate, but it is very weak with 
+only 22 rekhas in SAV. 
+ 
+For divorce, the 6th and 8th houses from lagna and the 2nd and 7th houses from UL are 
+good candidates. The 6th and 8th houses from lagna bring marital troubles and 
+quarrels. The 2nd and 7th houses from upapada bring the end of marriage. Here Li is 
+the 8th house from lagna and the 7th house from upapada. It is the 7th house from 
+upapada in rasi also. In navamsa, it has 30 rekhas in SAV. While the 7th house has 
+only 22 rekhas, the 8th house has 30 rekhas and so the 8th house is strong. Evil 
+houses, when strong, only bring evil results. 
+ 
+Final Answer: The lady got married in Ge antardasa in Feb 1992 and got divorced in 
+Li antardasa in late 1995. 
+ 
+Exercise 37: 
+ 
+Ta dasa of about 13 years was left at birth. Then Ge dasa of 9 years, Le dasa 5 years 
+and Cn dasa of 21 years followed. Cn dasa ran during 1964-1984. 
+
+=== PAGE 323 ===
+ 
+ 
+ 
+Part 2: Dasa Analysis 
+311 
+ 
+ 
+ 
+ 
+Cn is the 10th from lagna. Its lord Moon is in the 5th from lagna. Moreover, Cn 
+contains AL and shows status in career. Its strength is decided by SAV. SAV of D-
+10 is shown below: 
+ 
+         Ar Ta Ge Cn Le Vi Li Sc Sg Cp Aq Pi  
+Rekhas   24 28 21 38 34 21 26 26 37 31 25 26  
+ 
+In SAV, Cn has 38 rekhas. That is exceedingly strong. With the rasi containing AL 
+having 38 rekhas in SAV, the status of this actor must be high. He must be a well-
+known actor. And, Cn dasa must’ve brought excellent results and increased his 
+stature as an actor. 
+ 
+Final Answer: This chart belongs to Bill Cosby, one of the most gifted entertainers 
+that the US television industry has ever seen. He had a successful acting career in 
+films too. He came to limelight in 1965 with a lighthearted adventure TV serial 
+called “I Spy”. He was the first black American to star in a prime-time television 
+drama series in US, and for his performances on the show he won the Emmy Award 
+for best actor in 1966, 1967, and 1968. The onset of Cn dasa brought him status. 
+ 
+ 
+
+=== PAGE 324 ===
+
+=== PAGE 325 ===
+ 
+ 
+ 
+ 
+ 
+Part 3:  Transit Analysis 
+ 
+ 
+ 
+The constant movement of planets in the skies is what is meant 
+by the word “transits” in astrology. Planets keep moving. The 
+relationship between (1) the positions of planets at a given time 
+and (2) the positions of planets at a person’s birthtime, will 
+have a major impact on the kind of results that planets can give 
+the person at the time. 
+ 
+Position of planets at any given time can be found out from 
+computer programs/software or ephemeris or almanacs 
+(panchangas). Judging the results for a person based on those, 
+given the natal (birth) chart, is the subject of this part. 
+ 
+There are many special techniques in Vedic astrology for 
+interpreting transits. Some of those techniques are explained in 
+this part. 
+
+=== PAGE 326 ===
+ 
+ 
+ 
+ 314 
+Vedic Astrology: An Integrated Approach
+25.  Transits and Natal References 
+ 
+25.1 Introduction 
+ 
+By transits or gochaara, we mean the motion of planets in the skies. By the transit or 
+chaara or gochaara position of a planet, we mean the position occupied by a planet at 
+a given time. By the natal or radical or birth or janma position of a planet, we mean 
+the position occupied by a planet at the time of one’s birth. 
+ 
+By correlating the transit positions on a given day with the natal positions of several 
+reference points, we can draw some conclusions about the nature of results 
+experienced by the native then. Some methods normally employed in such 
+correlation will be studied in this chapter. 
+ 
+25.2 Transits from Moon 
+ 
+The most popular natal reference in transit analysis is Moon. Moon is the significator 
+of mind and analysis of planetary positions with respect to Moon shows the mental 
+state. Depending on the houses occupied by transit planets with respect to natal 
+Moon, they exert different influences on one’s mental state. The transit of Vimsottari 
+dasa lord is particularly important, because he is the one who has the greatest 
+influence on one’s mental state during a period. 
+ 
+The rasi occupied by Moon in the natal chart is called “janma rasi” and planets give 
+different results when transiting in different houses from janma rasi. The standard 
+results given in literature are given in Table 53 – Table 59. 
+ 
+These results are given only for reference. In reality, not everyone with the same 
+janma rasi experiences the same results on a given day (or week or month). The 
+results given by planets depend on what they stand for in the natal chart. For 
+example, if Mars is the 5th lord in a natal chart, then the worries given by him during 
+his transit in the 8th house from janma rasi may pertain to children. If Mars is the 10th 
+lord in natal chart, then the worries given by him during his transit in the 8th house 
+from janma rasi may pertain to career. 
+
+=== PAGE 327 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+315
+ 
+ 
+Table 53: Sun's Transit from Janma Rasi 
+House 
+Snapshot 
+Typical results 
+1st 
+Bad 
+Financial loss, many travels, discomfort 
+2nd 
+Bad 
+Unhappiness, eye troubles, fear 
+3rd 
+Good 
+Wealth, good health, victory 
+4th 
+Bad 
+Marital disharmony, loss of name 
+5th 
+Bad 
+Bad health, fear from enemies 
+6th 
+Good 
+Success over enemies, good health 
+7th 
+Bad 
+Travels, physical pain 
+8th 
+Bad 
+Disease, setbacks in marriage 
+9th 
+Bad 
+Mental worries, obstacles 
+10th 
+Good 
+Success, honors, gains 
+11th 
+Good 
+Good health, prosperity, honors 
+12th 
+Bad 
+Expenditure, losses 
+ 
+Table 54: Moon's Transit from Janma Rasi 
+House 
+Snapshot 
+Typical results 
+1st 
+Good 
+Comfort, good spirits 
+2nd 
+Bad 
+Obstacles, losses 
+3rd 
+Good 
+Gains, happiness 
+4th 
+Bad 
+Lack of peace of mind, distrust 
+5th 
+Bad 
+Failures, disappointments, sadness 
+6th 
+Good 
+Happiness, health, wealth 
+7th 
+Good 
+Respect, gains 
+8th 
+Bad 
+Losses, tension, worries 
+9th 
+Bad 
+Mental uneasiness 
+10th 
+Good 
+Success, gains, authority 
+11th 
+Good 
+Prosperity, comforts, gains 
+12th 
+Bad 
+Injuries, expenditure, sadness 
+ 
+
+=== PAGE 328 ===
+ 
+ 
+ 
+ 316 
+Vedic Astrology: An Integrated Approach
+Table 55: Mars's Transit from Janma Rasi 
+House 
+Snapshot 
+Typical results 
+1st 
+Bad 
+Troubles, bodily afflictions 
+2nd 
+Bad 
+Accidents, losses, thefts, quarrels 
+3rd 
+Good 
+Gains, power, wealth 
+4th 
+Bad 
+Stomach problems, fevers, bad health 
+5th 
+Bad 
+Troubles from enemies, trouble with children 
+6th 
+Good 
+Success over enemies, wealth, success, well-being 
+7th 
+Bad 
+Quarrels, marital troubles, eye problems 
+8th 
+Bad 
+Worries, accidents, bad name, losses 
+9th 
+Bad 
+Losses, insults, illness 
+10th 
+Bad 
+Change of place, unexpected wealth 
+11th 
+Good 
+Authority,  gains, good name 
+12th 
+Bad 
+Expenses, quarrels with wife, diseases 
+ 
+Table 56: Mercury's Transit from Janma Rasi 
+House 
+Snapshot 
+Typical results 
+1st 
+Bad 
+Quarrels, imprisonment, losses, poor advice 
+2nd 
+Good 
+Success, wealth, gains 
+3rd 
+Bad 
+Wandering, losses, trouble from authorities 
+4th 
+Good 
+Prosperity in family, gains 
+5th 
+Bad 
+Quarrels with wife and children, suffering 
+6th 
+Good 
+Renown, success, ornaments 
+7th 
+Bad 
+Quarrels, mental discomfort, addictions 
+8th 
+Good 
+Childbirth, happiness, gains, success 
+9th 
+Bad 
+Mental worries, obstacles 
+10th 
+Good 
+Money, happiness, domestic harmony, success 
+11th 
+Good 
+Childbirth, happiness, wealth 
+12th 
+Bad 
+Disease, domestic disharmony, disease, losses 
+ 
+
+=== PAGE 329 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+317
+ 
+Table 57: Jupiter's Transit from Janma Rasi 
+House 
+Snapshot 
+Typical results 
+1st 
+Bad 
+Loss of money and intelligence, Wandering 
+2nd 
+Good 
+Happiness, domestic harmony, success 
+3rd 
+Bad 
+Obstacles, loss of position, travels 
+4th 
+Bad 
+Troubles, defeat, losses 
+5th 
+Good 
+Childbirth, intelligence, prosperity, wealth 
+6th 
+Bad 
+Mental uneasiness, enemies, worries 
+7th 
+Good 
+Health, happiness, erotic pleasures, sense of well-being 
+8th 
+Bad 
+Disease, imprisonment, illness, grief 
+9th 
+Good 
+Success, wealth, childbirth, religiousness 
+10th 
+Bad 
+Loss of position and money, ill-health, wandering 
+11th 
+Good 
+Recovery of health and position, happiness 
+12th 
+Bad 
+Fall from grace, misconduct, grief 
+ 
+Table 58: Venus's Transit from Janma Rasi 
+House 
+Snapshot 
+Typical results 
+1st 
+Good 
+Comforts, pleasures, happiness, good spirits 
+2nd 
+Good 
+Money, fortune, erotic pleasures, childbirth 
+3rd 
+Good 
+Respect, wealth, good spirits 
+4th 
+Good 
+Prosperity, success of enemies, comforts 
+5th 
+Good 
+Fame, power, good name 
+6th 
+Bad 
+Loss of fame, bad name, quarrels 
+7th 
+Bad 
+Humiliation, disease, troubles 
+8th 
+Bad 
+Fears, mental worries, injuries, troubles from women 
+9th 
+Good 
+Fortune, luxuries, marital happiness 
+10th 
+Bad 
+Virtuous acts, troubles, unpleasant events, disgrace 
+11th 
+Good 
+Gains, happiness, prosperity, comforts 
+12th 
+Bad 
+New friends, money, pleasures, gains 
+ 
+
+=== PAGE 330 ===
+ 
+ 
+ 
+ 318 
+Vedic Astrology: An Integrated Approach
+Table 59: Saturn's Transit from Janma Rasi 
+House 
+Snapshot 
+Typical results 
+1st 
+Bad 
+Fear of incarceration, worries, foreign trips 
+2nd 
+Bad 
+Physical weakness, discomfort, wealth, unhappiness 
+3rd 
+Good 
+Wealth, health, happiness, all-round success 
+4th 
+Bad 
+Stomach problems, wickedness, separation from family 
+5th 
+Bad 
+Separation from children, uneasiness, quarrels 
+6th 
+Good 
+Freedom from disease and enemies, success 
+7th 
+Bad 
+Wandering, quarrels with spouse, trouble from authorities 
+8th 
+Bad 
+Suffering, loss of status and balance, imprisonment 
+9th 
+Bad 
+Diseases, suffering, loss of status 
+10th 
+Bad 
+Loss of money, bad name, changes in career, laziness 
+11th 
+Good 
+Wealth, success, gains 
+12th 
+Bad 
+Grief, misery, losses, ill-health, frustration 
+Rahu’s behavior is similar to that of Saturn’s and Ketu’s behavior to Mars’s. 
+ 
+Chart 52 
+ 
+ 
+
+=== PAGE 331 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+319
+ 
+Example 103: Suppose someone has Moon in Ge in natal chart. Let us analyze the 
+transits on June 7, 1999. The transit chart is shown in Chart 52. 
+ 
+Janma rasi is Ge. Transit Jupiter and Saturn are in Ar, the 11th house from janma rasi. 
+This is a good transit and shows gains. The native may have gains in the matters 
+signified by the houses ruled and occupied by Jupiter and Saturn in natal rasi chart 
+and natal divisional charts. Because Jupiter signifies children and tradition and 
+Saturn signifies livelihood, the gains may also be related to children, traditional 
+cermemonies, livelihood etc. 
+ 
+Transit Sun is in Ta, the 12th house from janma rasi. That gives expenditure and 
+losses. One may have losses in the matters signified by the houses ruled and 
+occupied by Sun. Because Sun signifies authorities and health, it may also be related 
+to those. 
+ 
+Mercury is in janma rasi (Ge). This suggests “quarrels, imprisonment, losses, poor 
+advice”. However, Mercury is strong being in own house (intellectual Gemini). So 
+the results may be intellectual debates and arguments. 
+ 
+In this manner, we can analyze transits of all the planets. We can use the results 
+given in literature, but we should adapt them intelligently to the chart at hand. We 
+should understand what each planet stands for in a chart. 
+ 
+In addition, there are natal references other than Moon, though Moon is the most 
+important natal reference when interpreting transits. 
+ 
+25.3 Other Natal References 
+ 
+We can analyze transits with respect to lagna and paaka lagna. Lagna is the hub of 
+vitality and one’s personality in a chart. Using the ashtakavarga tables, we can 
+decipher whether the transit of a planet in a house from lagna is favorable or not. We 
+can see which house a planet is transiting in, with respect to natal lagna, and expect 
+the planet to influence the matters of that house. The influence exerted by a transit 
+planet on the house occupied by it depends on its inherent nature and its 
+significations in the natal chart. For example, Jupiter transiting in the Ta may give 
+marriage to someone born in Sc lagna, because Ta is the 7th house from Sc. Saturn 
+
+=== PAGE 332 ===
+ 
+ 
+ 
+ 320 
+Vedic Astrology: An Integrated Approach
+transiting in Ar may give relationship problems or marital problems for someone 
+born in Li lagna, because Ar is the 7th house from Li. 
+ 
+We can also look at the aspects cast by transiting planets. Suppose Jupiter is 
+transiting in Vi and someone has lagna in Sc. Jupiter aspects Ta, the 7th house from 
+Sc, when he is in Vi. So Jupiter can give marriage during his Vi transit also. We can 
+look at the aspects cast by transiting planets on the rasis containing the natal houses 
+and the natal planets. Suppose someone has lagna in Sc and Venus in Pi in natal 
+chart. Then the 7th house is in Ta and Venus, the significator of marriage, is in Pi. 
+Jupiter transiting in Vi aspects both Ta and Pi and hence he may give marriage. 
+ 
+Thus we should look at the rasis occupied and aspected by planets in their transit and 
+find out which houses and planets occupy those rasis in the natal chart. Based on 
+that, we should guess the results given by the planets. A planet occupying or 
+aspecting a rasi in transit influences the matters signified by the houses and 
+planets stationed in that rasi in the natal chart. The exact nature of the influence 
+exerted by a planet depends on its inherent nature and the matters it stands for in the 
+natal chart. For example, if the 5th lord in the natal chart is occupying the 8th house 
+from natal lagna in transit, some troubles related to children may be expected. If 
+Mars is the 8th lord in the natal chart and aspects, in transit, the rasis occupied by 
+Venus and 7th lord in the natal chart, then some disturbances in marital life may be 
+expected. 
+ 
+Sahams are useful in transit analysis. Sahams are the significant points in the zodiac. 
+For example, when the 7th lord or Venus transits close to vivaha saham, one may get 
+married. When the 6th lord or 8th lord or Mars or Rahu transits close to kali saham, 
+one may have an accident. 
+ 
+A malefic planet transiting in janma rasi may give mental worries and a malefic 
+planet transiting in natal lagna may affect the vitality of the native and create 
+obstacles in his efforts. On the other hand, paaka lagna explicitly stands for the 
+physical self and a malefic planet transiting in paaka lagna may give bodily 
+complaints. Similarly planets occupying or aspecting arudha padas in transit may 
+give relevant results. For example, Saturn’s transit in A10 can be bad for career, 
+Jupiter’s transit in A9 is good for fortune and so on. 
+ 
+Example 104: Let us consider the natal chart of a lady and the transit chart at the 
+time of her wedding (see Chart 53). 
+
+=== PAGE 333 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+321
+ 
+ 
+Chart 53 
+ 
+ 
+The 7th house in the natal chart is in Vi. Mercury is the 7th lord and he is in Cn in 
+natal chart. Venus is the significator of marriage and he is in Le in the natal chart. 
+
+=== PAGE 334 ===
+ 
+ 
+ 
+ 322 
+Vedic Astrology: An Integrated Approach
+Vivaha saham is at 1º in Cp in the natal chart. If important planets influence these 
+reference points in transit, they can give marriage. 
+ 
+Jupiter is a natural benefic and also lagna lord here. His transit is important for 
+timing auspicious events. On the day of wedding, Jupiter occupied Pi, aspecting Vi 
+(natal 7th house) and Cn (has natal 7th lord). Natal 7th lord Mercury occupied Cp in 
+transit and aspected Cn, rasi occupied by him in the natal chart. In addition, transit 
+Mercury was stationed about 1º away from natal vivaha saham. Venus also aspected 
+his natal position in transit. 
+ 
+25.4 Transits and Divisional Charts 
+ 
+Though the motivation for the approach described here comes from some principles 
+described in classics, the actual approach is essentially based on this author’s own 
+researches. This author heard about “Bhrigu transits”, which correlate the transit 
+positions in navamsa chart with the natal positions in rasi chart. However, he does 
+not know much about the tradition of Bhrigu transits to conclude whether or not his 
+findings are loosely related to that tradition. 
+ 
+Though this author prefers to teach only those approaches that have the sanction of 
+maharshis, he finds this particular approach superior to most other techniques of 
+transit analysis. Moreover, this approach does not violate any teachings of 
+maharshis. This is also a fertile area for research and deserves our attention. Hence it 
+will be covered here. However, readers are advised to keep in mind that what follows 
+is a product of the very limited intelligence of this author and hence prone to errors. 
+Readers are encouraged to question and to conduct further researches in this area. 
+ 
+We said that a planet occupying or aspecting a rasi in transit influences the matters 
+signified by the houses and planets stationed in that rasi in the natal chart. For 
+example, we said that Jupiter transiting over Venus69 may give marriage. However, 
+we know that navamsa is the chart that shows marriage. So, is there any significance 
+for Jupiter’s rasi chart transit over the navamsa of Venus? In other words, if Venus is 
+in Cancer in navamsa, can Jupiter transiting in Cancer in rasi chart bring marriage? 
+ 
+                                                 
+69 We say that “Jupiter transits over Venus”, if Jupiter, in his transit, occupies the rasi occupied by 
+Venus in the natal chart. 
+
+=== PAGE 335 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+323
+ 
+We do not have different zodiacs for different divisional charts. All the divisional 
+charts use the same zodiac. So Cancer in natal navamsa chart and Cancer in transit 
+rasi chart are not different. They are one and the same. If Jupiter transiting in Cancer 
+can influence the house and planets stationed in Cancer in rasi chart, he should be 
+able to influence the house and planets stationed in Cancer in navamsa chart too! We 
+can extend this logic to all the divisional charts. 
+ 
+Rasi chart shows everything that exists at the physical level. Divisional charts show 
+various areas of life. The interaction between the two decides how events in various 
+areas of life materialize at the physical level. Natal chart shows the innate potential. 
+Transit chart shows the temporary influences. The interaction between the two 
+decides how temporary influences convert innate potential into actions and life 
+events. 
+ 
+So the most important interactions are those between 
+ 
+(1) a natal divisional chart and the transit rasi chart, and, 
+(2) the natal rasi chart and a transit divisional chart. 
+ 
+Here (1) shows how innate potential in a particular area of life is influenced at a 
+given time to result in action at the physical level. This helps us in coarse timing of 
+events. We can fine-tune the timing of events with (2), which shows how the 
+potential at the physical level is transformed into an event in a particular area of life. 
+ 
+Example 105: Let us consider the natal navamsa chart of a male engineer and the 
+transit rasi chart at the time of his wedding (see Chart 54). 
+ 
+In natal navamsa, Pi contains the 7th house and its lord Jupiter is in Aq. When we 
+look at navamsa, we should look at the 9th lord. The 9th lord in navamsa shows the 
+dharma followed. In Hindu life, the marriage ceremony is an act of dharma. Here 
+Venus shows dharma. So Venusian influence over the 7th house shows getting 
+married. In the transit rasi chart of wedding, Venus occupies Aq, which is 7th lord 
+Jupiter’s natal navamsa position. 
+ 
+
+=== PAGE 336 ===
+ 
+ 
+ 
+ 324 
+Vedic Astrology: An Integrated Approach
+Chart 54 
+ 
+ 
+
+=== PAGE 337 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+325
+ 
+Jupiter is in own sign in Pi in transit, which is the 7th house in natal navamsa. Moon 
+owns the 11th house in natal navamsa and he shows gains in the matters of dharma 
+and marriage. He is in Aries in the transit Rasi chart and Aries contains upapada in 
+the natal navamsa chart. This shows the fructification, at the physical level, of gains 
+in dharma due to marriage. Lagna lord Mercury is in Cp in the natal navamsa, 
+showing dharmik self. In transit rasi chart also, Mercury occupies the same house. 
+ 
+The key points will be summarized again: 
+ 
+(1) Jupiter is in Pi in transit rasi chart and aspects Vi. Lagna is in Vi and the 7th 
+house is in Pi in the natal navamsa chart. 
+(2) Venus is the significator of marriage and the lord of the 9th house (dharma) in 
+natal navamsa. He is in Aq in the transit rasi chart. The 7th lord Jupiter occupies 
+Aq in the natal navamsa chart. 
+(3) Mercury is the lord of lagna and occupies Cp, in the natal navamsa chart. He is in 
+Cp in the transit rasi chart also. 
+ 
+Example 106: Let us consider the natal D-7 chart of a gentleman and the transit rasi 
+chart at the time of the birth of his daughter (see Chart 55). 
+ 
+D-7 shows children and happiness from them. The 5th house shows children. It is Vi 
+here. Jupiter, the significator of children, and exalted Mercury occupy it. It may be 
+noticed that both Jupiter and Mercury are in Vi at the time of child-birth. So 5th lord 
+in D-7 and significator of children activated the 5th house of D-7 in their rasi chart 
+transit and that gave a child. 
+ 
+Example 107: Let us consider the death of John F. Kennedy, Jr. Natal D-11 and 
+transit rasi charts are given in Chart 56. Natal rasi chart and transit D-11 charts are 
+given in Chart 57. 
+ 
+D-11 or Rudramsa is the chart that shows death and destruction. Considering that the 
+native had a violent death in a plane crash, D-11 is the apt chart to see his death. 
+ 
+In rasi chart, the 3rd house from AL shows the place and nature of death. It must have 
+the aspect of a cruel planet for a violent death. Here the 3rd house from AL is in Cp, a 
+watery sign. It is aspected by Rahu from Le and a violent death in water is possible. 
+
+=== PAGE 338 ===
+ 
+ 
+ 
+ 326 
+Vedic Astrology: An Integrated Approach
+Chart 55 
+ 
+
+=== PAGE 339 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+327
+ 
+Chart 56 
+ 
+
+=== PAGE 340 ===
+ 
+ 
+ 
+ 328 
+Vedic Astrology: An Integrated Approach
+Chart 57 
+ 
+ 
+
+=== PAGE 341 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+329
+ 
+Now, we must analyze D-11 carefully for a violent death. Natal D-11 has lagna in Ge 
+and Rahu occupies it. That is consistent with a violent death. The 2nd house in Cn is 
+strong with its lord Moon occupying it. Sun is the 3rd lord – which shows physical 
+vitality – and he joins the house of death, 7th, with 7th lord Jupiter. Mercury owns 
+lagna and he is in 12th. This D-11 chart has unfavorable features. Now let us look at 
+the houses occupied in transit rasi chart, with respect to this D-11, by the planets of 
+life – Mercury (1st lord), Sun (3rd lord) and Saturn (8th lord) – and the planets of 
+death – Jupiter (7th lord) and Moon (2nd lord) and Rahu (a malefic in lagna). 
+ 
+Two planets of life, Mercury and Sun, are in Cn, afflicted by Rahu. Cn is the 2nd 
+house and stands for death in the natal D-11. Planet of death Moon is in Le (a house 
+of life from natal D-11 lagna) and Jupiter aspects him, as well as his own 7th house 
+(Sg). Saturn is debilitated. On the whole, the houses and planets of life in D-11 are 
+afflicted or weak in the transit rasi chart. 
+ 
+Now let us look at the interaction between the natal rasi chart and the transit D-11 
+(Chart 57). In rasi chart, Le is lagna and Sun is lagna lord. Le represents the native, 
+Cp represents his accidents, Sun represents the physical body and Aq (7th) and Saturn 
+(7th lord) represent death. Jupiter (8th lord) represents longevity. 
+ 
+The natal rasi chart shows the existence of the native at the physical level. The transit 
+D-11 represents the momentary forces of destruction and let us study its interaction 
+with the natal rasi chart. 
+ 
+In transit D-11, Le is afflicted by Rahu and 12th lord Moon. Jupiter, who represents 
+longevity is in the 12th house. Sun, who represents the physical body in the natal rasi 
+chart, is in the 6th house of accidents in transit D-11 with exalted Mars, significator 
+of accidents. The 7th lord in natal rasi chart, Saturn, represents the end of the native’s 
+life and he is in Sc in transit D-11, the same sign that contains lagna lord in the natal 
+rasi chart. So the killer of the natal rasi chart (Saturn) interacts with the physical 
+body (Sun) in the chart showing momentary forces of destruction (transit D-11). 
+ 
+Exercise 38: For a native born on 4th April 1970 at 5:50 pm (IST) at Machilipatnam, 
+India (81e12, 16n15), an important event related to D-4 happened on 16th August 
+1991. Try to guess it based on the interaction between natal D-4 and transit rasi 
+chart. Then analyze the interaction between natal rasi chart and transit D-4 also. 
+ 
+
+=== PAGE 342 ===
+ 
+ 
+ 
+ 330 
+Vedic Astrology: An Integrated Approach
+Exercise 39: The native of Exercise 38 had an important event related to D-24 on 
+April 17, 1998. Try to guess it based on the interaction between the natal D-24 chart 
+and the transit rasi chart. 
+ 
+25.5 Transits and Ashtakavarga 
+ 
+Though one of the purposes of ashtakavarga is to assess the strength of planets and 
+houses in natal charts, its most important purpose is the interpretation of transits. Just 
+as we look at the house occupied by a transit planet with respect to natal Moon and 
+natal lagna, we can look at the houses occupied by a transit planet with respect to all 
+the eight references used in ashtakavarga. 
+ 
+If a planet is benefic in its transit rasi with respect to 5 or more natal references, out 
+of eight, then it will produce good results. If a planet is benefic in its transit rasi with 
+respect to 3 or less natal references, out of eight, then it will produce bad results. Of 
+course, the exact nature of the good or bad results given by a planet depend on its 
+natural significations and its significations in the natal chart. 
+ 
+To see this, we look at the number of rekhas in the transit rasi in the transiting 
+planet’s BAV. If, for example, Saturn’s BAV of the natal rasi chart has 5 rekhas in 
+Ta, then that means that Saturn is benefic with respect to 5 out of 8 natal references 
+in Ta. So he produces good results when he transits Taurus. The same logic can be 
+extended to the divisional charts. If Jupiter has 8 rekhas in Ar in natal D-10 chart, 
+then his transit in Aries in rasi chart invariably brings excellent results in career. The 
+matters that benefit depend on Jupiter’s placement and ownership in the natal D-10 
+chart. Basically, Jupiter’s rasi transit in Aries activates the manifestation of Jovian 
+energy at the physical level in Aries. If Jupiter has many rekhas in his D-10 BAV, it 
+shows that Jovian energy in Aries goes well with most sources of energy in D-10 and 
+thus it can have a significant impact on a native’s career. 
+ 
+A planet with 6 or 7 rekhas in its transit rasi in its BAV invariably brings excellent 
+results. A planet with 1 or 0 rekhas in its transit rasi in its BAV invariably brings 
+very poor results. 
+ 
+25.5.1 
+Samudaaya Ashtakavarga 
+ 
+
+=== PAGE 343 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+331
+ 
+In addition to looking at the transit planet’s natal BAV, we should also look at the 
+natal SAV – Samudaaya Ashtakavarga. If, for example, SAV has 40 bindus in 
+Pisces, then it means that Pisces is very strong in the chart. Planets transiting in 
+Pisces, tend to give good results irrespective of their strength. Of course, if a planet 
+with 6 rekhas in Pi in its own BAV and a planet with 2 rekhas in Pi in its own BAV 
+are transiting Pi, the former planet will produce better results than the latter planet. 
+Rekhas in the individual BAVs of planets also matter, but SAV will dominate over 
+the BAVs if it has too many or too few rekhas. 
+ 
+Planets transiting in rasis with more than 30 rekhas in SAV usually bring favorable 
+results. Planets transiting in rasis with less than 25 rekhas in SAV usually bring 
+unfavorable results. 
+Chart 58 
+ 
+ 
+Example 108: Let us consider the D-10 chart of Sri A.B. Vajpayee, India’s Prime 
+Minister (see Chart 58). His D-10 ashtakavarga is given below: 
+ 
+        Ar Ta Ge Cn Le Vi Li Sc Sg Cp Aq Pi 
+Sun      5  3  6  2  3  4  7  6  3  3  2  4 
+
+=== PAGE 344 ===
+ 
+ 
+ 
+ 332 
+Vedic Astrology: An Integrated Approach
+Moon     2  4  2  3  6  6  4  4  4  6  3  5 
+Mars     3  4  4  3  4  2  2  5  3  4  1  4 
+Merc     4  4  6  4  6  5  3  6  4  5  4  3 
+Jupi     4  6  4  2  3  8  3  6  4  3  7  6 
+Venu     2  4  6  4  3  5  3  5  5  6  5  4 
+Satu     3  1  5  2  3  3  4  3  5  4  2  4 
+SAV     23 26 33 20 28 33 26 35 28 31 24 30 
+ 
+He became India’s Prime Minister on March 19, 1998 (see Chart 59). 
+Chart 59 
+ 
+ 
+Sun, Mars, Mercury and Saturn are all in Pi and Pi has 30 rekhas in SAV. None of 
+them is too weak in individual BAV. Venus is GL lord in natal D-10 and he is an 
+important planet for power and authority. In the transit chart, he is in Cp. Cp has 31 
+rekhas and Venus has 6 rekhas. Moon is in Sc with 35 rekhas. Jupiter is in Aq. 
+Though Aq is not strong in SAV, it is strong in Jupiter’s BAV. It has 7 rekhas in 
+Jupiter’s natal D-10 BAV. Jupiter’s strength is important, as he is the Vimsottari 
+dasa lord. 
+ 
+
+=== PAGE 345 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+333
+ 
+So 6 out of 7 planets are in rasis that are very strong in D-10 SAV. And the 7th planet 
+is extremely strong in its BAV. Vimsottari dasa lord and natal GL lord have 7 and 6 
+rekhas respectively. 
+ 
+So, as per ashtakavarga, transits are very favorable to Sri Vajpayee’s career on 
+March 19, 1998. 
+ 
+Exercise 40: Consider the D-10 chart of a gentleman and the transit rasi chart during 
+a crucial week in his life, given in Chart 60. What are the prospects for his career at 
+the time of the transit? Do you expect good results or setbacks? 
+ 
+25.5.2 
+Kakshyas and Prastaara Ashtakavarga 
+ 
+Each rasi is divided into eight kakshyas of 3º 45' each. Kakshya literally means 
+“orbit”. When a planet is in Saturn’s kakshya, its placement with respect to Saturn is 
+the most important. When a planet is in Jupiter’s kakshya, its placement with respect 
+to Jupiter is the most important. The first kakshya in each rasi starts from 0º in that 
+rasi and ends at 3º 45'. Saturn is the ruler of the first kakshya. The start and end 
+points and the lords of all the eight kakshyas are given in Table 60. 
+ 
+Table 60: Kakshyas 
+Start 
+End 
+Kakshya lord 
+0º 
+3º 45' 
+Saturn 
+3º 45' 
+7º 30' 
+Jupiter 
+7º 30' 
+11º 15' 
+Mars 
+11º 15' 
+15º 
+Sun 
+15º 
+18º 45' 
+Venus 
+18º 45' 
+22º 30' 
+Mercury 
+22º 30' 
+26º 15' 
+Moon 
+26º 15' 
+30º 
+Lagna 
+ 
+
+=== PAGE 346 ===
+ 
+ 
+ 
+ 334 
+Vedic Astrology: An Integrated Approach
+Chart 60 
+ 
+ 
+Example 109: Let us say Mercury is at 16º in Cn, Jupiter is it 24º in Vi and Venus is 
+at 4º in Sc. Because 16º is between 15º and 18º 45', Mercury is in the kakshya of 
+
+=== PAGE 347 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+335
+ 
+Venus. Because 24º is between 22º 30' and 26º 15', Jupiter is in the kakshya of 
+Moon. Because 4º is between 3º 45' and 7º 30', Venus is in the kakshya of Jupiter. 
+ 
+In the above example, Venus is in the kakshya of Jupiter and hence the placement of 
+Venus with respect to Jupiter is more important than his placement with respect to 
+other planets. Suppose the BAV of Venus has 5 rekhas in Sc. Then Venus is benefic 
+in Sc with respect to 5 out of 8 references and that is favorable. However, when 
+Venus is at 4º in Sc, he is in Jupiter’s kakshya and what matters the most is whether 
+Venus is benefic in Sc with respect to Jupiter or not. If Jupiter is not one of the 5 
+references from which Venus is benefic in Sc, then Venusian transit between 3º 45' 
+and 7º 30' in Sc will not be favorable. 
+ 
+To find out whether Venus is benefic with respect to Jupiter in Sc or not, we can 
+look at the Prastaara Ashtakavarga (PAV) of Venus. If we find that Venus is benefic 
+with respect to Jupiter in Sc, we say that the PAV of Venus has a rekha in the 
+kakshya of Jupiter in Sc. Each rasi has eight kakshyas and a kakshya has a rekha in a 
+planet’s PAV if that planet is benefic in that rasi with respect to the kakshya lord.  
+ 
+A popular method of delineating favorable and unfavorable days is to look at the 
+number of planets that are in a kakshya with a rekha. If too many or too few planets 
+are in a kakshya with a rekha, favorable or unfavorable results may be expected 
+(respectively). However, one should not use this principle in vacuum. It should be 
+used only in conjunction with dasas, Tajaka charts and other transit analysis 
+techniques. This principle can only be used to fine-tune a prediction to a few days. 
+ 
+Example 110: Let us consider Indira Gandhi’s assassination. Her chart and the 
+transit chart at the time of her assassination is given in Chart 61. 
+ 
+Sun is at 14 Li 24. Because 14º 24' is between 11º 15' and 15º, he is in his own 
+kakshya. Sun’s PAV does not have a rekha in Sun’s kakshya in Li. Sun is benefic in 
+Li only with respect to lagna, Moon, Mercury, Jupiter and Saturn. So only the 
+corresponding kakshyas in Li have a rekha in Sun’s BAV. 
+ 
+It can be seen that Sun is in Sun’s kakshya, Moon in Sun’s kakshya, Mars in Moon’s  
+kakshya, Mercury in lagna’s kakshya, Jupiter in Venus’s kakshya, Venus in 
+Mercury’s kakshya and Saturn in Moon’s kakshya. Only Moon and Mercury are in 
+kakshyas with rekhas. 
+
+=== PAGE 348 ===
+ 
+ 
+ 
+ 336 
+Vedic Astrology: An Integrated Approach
+Chart 61 
+ 
+ 
+
+=== PAGE 349 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+337
+ 
+With 5 out of 7 planets transiting in kakshyas without rekhas, including Vimsottari 
+dasa lord Saturn, it is not a favorable time for Mrs. Gandhi. 
+ 
+Again it must be emphasized that this technique can only be used in conjunction with 
+other techniques and readers should not rush to predictions just based on this 
+principle. 
+ 
+25.6 Timing with Sodhya Pindas 
+ 
+Parasara taught some techniques of timing events based on sodhya pindas. We can 
+take the number of rekhas in any house from a planet and multiply the count with the 
+planet’s sodhya pinda. We can get a nakshatra from that product by dividing it with 
+27, taking the remainder and counting nakshatras from Aswini. Benefics and 
+malefics transiting in the nakshatra will give good or bad results (respectively) 
+relating to the original house. Especially Saturn’s transit is important. Saturn’s transit 
+in the nakshatra corresponding to a particular house makes the signified matters 
+suffer. Jupiter’s transit is beneficial. Some people also take the 10th or 19th nakshatra 
+from the nakshtra found above. A nakshatra and the 10th and 19th nakshatras from it 
+are owned by the same planet under Vimsottari dasa scheme and they go together. 
+ 
+We can also find a rasi by dividing the product with 12 instead of 27 and counting 
+rasis from Aries. Saturn’s transit in the resultant rasi brings misfortune relating to the 
+original house. However, nakshatras are more important. 
+ 
+When we find houses from Sun, we should look at matters related to soul, inherent 
+nature, personality, will power and father. Houses from Moon show mind, wisdom, 
+peace, happiness and mother. Houses from Mars show siblings, land and strength. 
+Houses from Mercury stress on business, commerce, profession, friends and good 
+behavior. Houses from Jupiter show the nourishment of body, learning, children and 
+wealth. Houses from Venus show marriage, comforts, luxuries, vehicles and sexual 
+pleasures. Saturn shows longevity, livelihood, fears, sadness, dangers and sorrows. 
+ 
+When we want to time events relating to a particular matter, we should first fix the 
+relevant planet. Then we should fix the relevant house. We should then find the 
+number of rekhas in that house from that planet in that planet’s BAV. We should 
+multiply it by the sodhya pinda of the planet (also called yoga pinda). By dividing 
+the product with 27 or 12 and taking the remainder, we should find the associated 
+
+=== PAGE 350 ===
+ 
+ 
+ 
+ 338 
+Vedic Astrology: An Integrated Approach
+nakshatra or rasi. Then we can time key events based on the transits in that nakshatra 
+and rasi. 
+ 
+For example, suppose we want to time the good and bad periods of a native’s father. 
+Father should be seen from Sun and the 9th house. We can take Sun’s BAV and find 
+the number of rekhas in the 9th house from Sun. Suppose Sun is in Aq. Suppose 
+Sun’s BAV contains 5 rekhas in Li (the 9th from Aq). Suppose Sun’s sodhya pinda is 
+86. Multiplying 86 with 5, we get 430. If we divide 430 by 27, the quotient is 15 and 
+the remainder is 25. The 25th constellation is Poorvabhadrapada. So Saturn’s transit 
+in Poorvabhadrapada is bad for father and Jupiter’s transit in the same nakshatra is 
+good. Now let us find the rasi. By dividing 430 by 12, we get a quotient of 35 and a 
+remainder of 10. So Saturn’s transit in Cp (the 10th rasi of the zodiac) is bad for 
+father and Jupiter’s transit in Cp is good. 
+ 
+Though Parasara indicated that we can take any house from any planet and gave a 
+long list of matters to be seen from each planet, he gave a few specific examples. A 
+list of the matters is given in Table 61. 
+ 
+Table 61: Timing with Sodhya Pinda 
+Planet 
+House 
+Area of life 
+Sun 
+9th 
+Father 
+Moon 
+4th 
+Mother 
+Mars 
+3rd 
+Siblings 
+Mercury 
+10th 
+Profession 
+Jupiter 
+5th 
+Children 
+Venus 
+7th 
+Marriage 
+Saturn 
+8th 
+Longevity 
+ 
+Some examples will be given now. However, this approach does not give consistent 
+results. Readers should realize that the topic of sodhya pindas is open to research. 
+Most astrologers use these principles with only the rasi chart. If matters relating to 
+father have to be seen from D-12, as taught by Parasara, should we use D-12 when 
+timing events related to father? Should we use the sodhya pinda and rekha count 
+from D-12? Should we take the 9th from Sun in rasi chart or take it in D-12? All 
+these are issues that need to be researched. Moreover, as we have learnt, there are 
+some inconsistencies between Parasara and Varahamihira in the definition of 
+ashtakavarga and this can alter the sodhya pindas of Moon and Venus. In addition, 
+
+=== PAGE 351 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+339
+ 
+we have some controversies in the exact definitions of the reductions to be done to 
+get Sodhita Ashtakavarga from Bhinna Ashtakavarga. That can again alter sodhya 
+pindas. Timing of events with sodhya pindas is a very important topic, but what the 
+readers learn here may not be the final word. It is hoped that readers will experiment 
+with an open mind and share their findings with other astrologers. 
+ 
+Example 111: Let us consider Princess Diana, who died in a fatal automobile crash 
+when Saturn was in Revathi star (Pisces). Her rasi chart is given in Chart 62. 
+Chart 62 
+ 
+ 
+To see longevity, we should use the 8th house from Saturn and Saturn’s BAV. The 8th 
+house from Saturn is Le. 
+ 
+               Ar Ta Ge Cn Le Vi Li Sc Sg Cp Aq Pi 
+Saturn’s BAV    3  4  6  3  0  2  2  5  4  3  2  5 
+ 
+
+=== PAGE 352 ===
+ 
+ 
+ 
+ 340 
+Vedic Astrology: An Integrated Approach
+Le has 0 rekhas in Saturn’s BAV. Saturn’s sodhya pinda is 203. The product is 0. By 
+dividing it with 27, we get 0 which is equivalent to 27. So we get Revathi star. By 
+dividing 0 with 12, we get 0 which is equivalent to 12. So we get Pisces. 
+ 
+When Saturn was transiting in Revathi star in Pisces, she passed away. 
+ 
+Example 112: Let us look at the rasi chart of software tycoon Bill Gates (see Chart 
+24). Despite Jupiter’s simultaneous transit, Saturn’s transit in Krittika star brought 
+some troubles. In a landmark ruling in June 2000, a US judge ruled that his company 
+– software giant Microsoft Corporation – was a monopoly and ordered a breakup 
+into two smaller companies. 
+ 
+Moon’s BAV is shown below: 
+ 
+             Ar Ta Ge Cn Le Vi Li Sc Sg Cp Aq Pi 
+Moon’s BAV    4  3  4  4  6  3  1  5  5  4  4  6 
+ 
+Moon is in Pisces and Pisces has 6 rekhas. Moon’s sodhya pinda is 122. The product 
+of 122 and 6 is 732. By dividing 732 with 27, we get a quotient of 27 and a 
+remainder of 3. The 3rd star is Krittika (26 Ar 40 – 10 Ta 00). So Saturn’s transit in 
+Krittika star can attack the 1st house from Moon – the mental state and happiness. 
+ 
+Saturn shows sorrows, suffering and fears. The 6th house shows litigation. The 6th 
+from Saturn can be used for sorrows and setbacks in litigation. Saturn’s BAV is 
+shown below: 
+ 
+               Ar Ta Ge Cn Le Vi Li Sc Sg Cp Aq Pi 
+Saturn’s BAV    3  3  4  4  7  2  1  3  2  4  3  3 
+ 
+Here the 6th house from Saturn is Pi and it has 3 rekhas in Saturn’s BAV. Saturn’s 
+sodhya pinda is 145. The product of 145 and 3 is 435. By dividing 435 with 27, we 
+get a quotient of 16 and a remainder of 3. That again shows Krittika star. So Saturn’s 
+transit in Krittika star can bring sadness and setbacks related to litigation. 
+ 
+As a result, he suffered an unfavorable ruling from a US judge. 
+ 
+
+=== PAGE 353 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+341
+ 
+25.7 Conclusion 
+ 
+Transit positions of planets are the positions occupied by them at a given time. Natal 
+positions of planets are the positions occupied by them at the time of one’s birth. 
+Natal positions stand for the innate potential of a nativity and the transit positions 
+show the temporary influences – planetary pulls and pushes. If their interaction is 
+studied, some insight can be gained on the kind of results that are experienced at a 
+given time. It is suggested that the interaction between the natal divisional charts and 
+the transit rasi chart helps in coarse timing of events and the interaction between the 
+natal rasi chart and transit divisional charts helps in fine timing of events. Some 
+techniques based on ashtakavarga, kakshyas and sodhya pindas are also given in this 
+chapter. 
+ 
+25.8 Answer to the Exercises 
+ 
+Exercise 38: 
+ 
+Natal D-4 chart and transit rasi chart are given in Chart 63. Lagna is in Sg in natal D-
+4. The 9th house of fortune in a foreign land is in Le and it contains Rahu, the 
+significator of foreign things. So Le stands for life in a foreign land in this D-4. Four 
+planets occupy it in the transit rasi chart, including Jupiter, Mercury and Mars. 
+Jupiter owns lagna in natal D-4 and he shows the native from the point of view of 
+residence and fortune. Mercury owns lagna in natal rasi chart and he shows the 
+physical self of the native. Mars owns the 12th house in natal D-4 and he shows 
+living in distant places. All these planets activate Le in their rasi chart transit. So 
+foreign journey is a possibility. In addition, Rahu is in Sg in the transit rasi chart and 
+Sg contains lagna in natal D-4. So foreign influence on residence is fortified. 
+ 
+Natal rasi chart and transit D-4 chart are given in Chart 64. Lagna in Vi shows the 
+nativity. Rahu in Vi in transit D-4 shows foreign influence on Vi in the matter of 
+residence. Since Vi represents the nativity in natal lagna, this D-4 transit supports 
+going abroad. 
+
+=== PAGE 354 ===
+ 
+ 
+ 
+ 342 
+Vedic Astrology: An Integrated Approach
+Chart 63 
+ 
+ 
+
+=== PAGE 355 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+343
+ 
+Chart 64 
+ 
+ 
+The 7th lord in the natal rasi chart is Jupiter and he is in Le in D-4. Le is the 12th 
+house in the natal rasi chart. This shows a long trip. Aries (8th house) and Mars (8th 
+lord) show changes in the natal rasi chart. Taurus (9th house) shows flourishing in a 
+foreign land. Aries contains two malefics and Mars occupies Taurus, in transit D-4. 
+
+=== PAGE 356 ===
+ 
+ 
+ 
+ 344 
+Vedic Astrology: An Integrated Approach
+This shows the changes in residence and the temporary troubles of adjusting to a 
+foreign land. Interaction between the natal rasi chart and transit divisional charts 
+shows finer and momentary details. 
+ 
+Final Answer: The native left his motherland and landed in USA on that date. 
+ 
+Exercise 39: 
+ 
+See Chart 65. The rasi transits that stand out are: (1) benefics Jupiter and Venus in 
+Aq with Ketu and (2) three malefics in Ar, with two of them being very strong. 
+ 
+Ar has the 11th house in natal D-24 and shows gains. It also contains Guru pada (A9 
+– arudha pada of the 9th house). Its lord Mars and exalted Sun occupy it in the transit 
+rasi chart and that can show gains in the area of life represented by D-24, i.e. 
+knowledge and learning. With A9 in D-24 activated by rasi transits, some 
+developments related to guru are also possible. 
+ 
+Now look at Jupiter and Venus. They are in Aq in the transit rasi chart. What does 
+Aq stand for in the natal D-24? It is the 9th house and it shows one’s teacher. Transit 
+of Jupiter and Venus in it can show coming under the influence of a guru. 
+ 
+Final Answer: The native was accepted as a sishya (disciple) by a Jyotish guru on the 
+given date. 
+ 
+Exercise 40: 
+ 
+Sun, Mercury and Saturn have 6, 6 and 5 rekhas (respectively) in Libra in their D-10 
+BAV’s. So their Libra transit is good for D-10 related matters. SAV contains 36 
+rekhas in Libra and that adds to it. Jupiter is also strong with 6 rekhas in Sg in his D-
+10. A few planets are very well-placed. Saturn is exalted in natal D-10 and he is 
+exalted in transit chart also. On the whole, transits look very good. 
+ 
+Final Answer: This D-10 belongs to Rajiv Gandhi, assassinated former PM of India. 
+The transit chart belongs to the time when he became the Prime Minister of India. 
+ 
+ 
+
+=== PAGE 357 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+345
+ 
+Chart 65 
+ 
+ 
+
+=== PAGE 358 ===
+ 
+ 
+ 
+ 346 
+Vedic Astrology: An Integrated Approach
+26.  Transits: Miscellaneous Topics 
+ 
+26.1 Introduction 
+ 
+In the chapter “Transits and Natal References”, we concentrated on correlating the 
+natal chart and the transit chart using the rasis occupied by planets in both. There are 
+some principles about rasi transits that we haven’t yet covered. We will cover a 
+couple of concepts in this chapter. 
+ 
+Nakshatras are also an important division of the zodiac and they are as important as 
+rasis. By looking at the interactions between the nakshatras occupied by planets in 
+the natal and transit charts, we can make some predictions about the results given by 
+them at the time of the transit. We will look at a few principles. 
+ 
+26.2 Murthis (Forms/Idols) 
+ 
+To judge the results given by a planet during its transit in a particular rasi, find 
+exactly when the planet enters the rasi. Find the house occupied by transit Moon at 
+that time with respect to his own (Moon’s) natal position. Based on the house, we 
+say that the planet is a golden or silver or copper or iron form during its transit in the 
+rasi. The list of houses and murthis is given in Table 62. 
+ 
+Table 62: Murthis 
+House 
+Murthi 
+Meaning 
+Results 
+1st, 6th, 11th 
+Swarna 
+Golden form 
+Highly favorable 
+2nd, 5th, 9th 
+Rajata 
+Silver form 
+Favorable 
+3rd, 7th, 10th 
+Taamra 
+Copper form 
+Unfavorable 
+4th, 8th, 12th 
+Loha 
+Iron form 
+Highly unfavorable 
+ 
+Let us take Mercury’s transit in Gemini during May 26, 2000 – Aug 3, 2000. 
+Mercury entered Gemini at 3:06 pm (IST) on May 26, 2000. At that time, Moon was 
+at 10º 29' in Aquarius. We should find which house Aquarius is with respect to natal 
+
+=== PAGE 359 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+347
+ 
+Moon and then refer to Table 62 to find out which murthi Mercury is for a particular 
+person during May 26-Aug 3, 2000. 
+ 
+Suppose someone has natal Moon in Aquarius. Then Moon at the time of Mercury’s 
+rasi entry is in the 1st house from natal Moon. So Mercury is a swarna murthi (golden 
+form) for that person during his Ge transit and will give full results. Suppose 
+someone has natal Moon in Pisces (e.g. Bill Gates, whose chart was considered 
+earlier). Aquarius is the 12th house from Pisces. So Mercury is a loha murthi (iron 
+form) during his Ge transit. That is highly unfavorable. Even if it is a favorable 
+transit otherwise, Mercury may not give his full results. If it is an unfavorable transit 
+otherwise, then Mercury will make the native suffer much. 
+ 
+26.3 Rasi Gochara Vedha 
+ 
+We listed the good and bad houses for all planets to transit from natal Moon in a 
+previous chapter. Even when a planet is transiting in a favorable house from natal 
+Moon, it may be “obstructed” by another planet transiting in the vedha sthana (house 
+of obstruction). In that case, the planet cannot give its good results. The vedha 
+sthaanas of all good transits of all planets are listed in Table 63. 
+ 
+Table 63: Vedha Sthaanas 
+Transiting 
+planet 
+Auspicious houses from natal Moon (Corresponding vedha 
+sthanas in parantheses) 
+Sun 
+3 (9),  6 (12),  10 (4),  11 (5) 
+Moon 
+1 (5),  3 (9),  6 (12),  7 (2),  10 (4),  11 (8) 
+Mars 
+3 (12),  6 (9),  11 (5) 
+Mercury 
+2 (5),  4 (3),  6 (9),  8 (1),  10 (8),  11 (12) 
+Jupiter 
+2 (12),  5 (4),  7 (3),  9 (10),  11 (8) 
+Venus 
+1 (8),  2 (7),  3 (1),  4 (10),  5 (9),  8 (5),  9 (11),  11 (6),  12 (3) 
+Saturn 
+3 (12),  6 (9),  11 (5) 
+ 
+Let us take Bill Gates, who has natal Moon in Pisces. Natal lagna and arudha lagna 
+lord Mercury transits in Gemini during June 2000. As Mercury transiting in the 4th 
+house from natal Moon is auspicious, this transit should bring good results. We can 
+find the vedha sthaana for the 4th house transit of Mercury from the above table. It is 
+the 3rd house. If there are planets in Taurus, the 3rd house from Pisces, then they 
+
+=== PAGE 360 ===
+ 
+ 
+ 
+ 348 
+Vedic Astrology: An Integrated Approach
+cause vedha (obstruction) on Mercury. There were several planets causing vedha on 
+Mercury on June 8, 2000, when the company of Mr. Gates received a legal setback. 
+With vedha from many planets, Mercury cannot give his good results. Moreover, 
+Mercury is a loha murthi as we discussed earlier. 
+ 
+This is how one should use the above table. Only exceptions are the father and son 
+pairs: 
+ 
+(1) Sun and Saturn do not cause vedha on each other. 
+(2) Moon and Mercury do not cause vedha on each other. 
+ 
+It is important to consider vedhas and murthis to understand why a planet expected 
+to produce brilliant results gives only marginal results sometimes. 
+ 
+26.4 Taras (Stars) 
+ 
+26.4.1 
+Basic Tara Classification 
+ 
+We can count constellations from the constellation of natal Moon to the constellation 
+occupied by a planet in transit. Suppose natal Moon is in Makha and transit Mars is 
+in Swaati. Counting constellations from Makha, we get (1) Maksha, (2) Poorva 
+Phalguni, (3) Uttara Phalguni, (4) Hasta, (5) Chitra and (6) Swaati. So Swaati is the 
+6th constellation from natal Moon’s constellation. 
+ 
+Different constellations from the constellation of natal Moon stand for different 
+things, as shown in Table 64. If a planet is in a bad tara in its transit, it cannot give its 
+full results. If dasa lord and antardasa lord as per Vimsottari dasa are in bad taras, 
+bad results can be expected. 
+ 
+Let us take an example. Bill Gates has natal Moon in Uttarabhadrapada constellation. 
+His company received an adverse ruling from a judge who ordered a breakup of the 
+company, on June 8, 2000. Saturn and Jupiter were transiting in Krittika, Sun, Venus 
+and Mars were in Mrigasira. From Uttarabhadrapada, Krittika is the 5th star, i.e. 
+pratyak tara (star of obstacles), and Mrigasira is the 7th star, i.e. naidhana tara (star of 
+death). With 5 planets transiting in bad taras, tara bala (strength of stars) was weak.  
+
+=== PAGE 361 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+349
+ 
+Table 64: Taras 
+Constellation (from 
+natal Moon’s 
+constellation) 
+Name 
+Meaning 
+1st, 10th, 19th 
+Janma Tara 
+Birth (mixed) 
+2nd, 11th, 20th 
+Sampat Tara 
+Wealth (good) 
+3rd, 12th, 21st 
+Vipat Tara 
+Danger (bad) 
+4th, 13th, 22nd 
+Kshema Tara 
+Well-being (good) 
+5th, 14th, 23rd 
+Pratyak Tara 
+Obstacles (bad) 
+6th, 15th, 24th 
+Saadhana Tara 
+Achievement (good) 
+7th, 16th, 25th 
+Naidhana/Vadha Tara 
+Death (bad) 
+8th, 17th, 26th 
+Mitra Tara 
+Friend (good) 
+9th, 18th, 27th 
+Parama Mitra Tara 
+Best friend (good) 
+ 
+Taras are also used in muhurtas. At the time of an auspicious effort or when a new 
+project is launched, transit Moon should not be in a bad constellation with respect to 
+the natal Moon’s constellation. 
+ 
+26.4.2 
+Special Nakshatras/Taras 
+ 
+In addition to the above general classification, we have a few special nakshatras for 
+each person: 
+ 
+(1) 
+The constellation occupied by natal Moon is called Janma nakshatra. Janma 
+means “birth” and this nakshatra shows general well-being. 
+(2) 
+The 10th constellation from janma nakshatra is called Karma nakshatra. Karma 
+means “profession” and this nakshatra shows profession and workplace. 
+(3) 
+The 18th constellation from janma nakshatra is called Saamudaayika 
+nakshatra. Saamudaayika roughly means “related to a crowd” and this 
+nakshatra shows group activities. 
+(4) 
+The 16th constellation from janma nakshatra is called Sanghaatika nakshatra. 
+Sanghaatika roughly means “belonging to group” and this nakshatra shows 
+group/social activities. 
+(5) 
+The 4th constellation from janma nakshatra is called Jaati nakshatra. Jaati 
+roughly means “community” and this nakshatra shows one’s community. To be 
+more correct, one’s jaati shows people who belong to the same class, nature 
+and profession. 
+
+=== PAGE 362 ===
+ 
+ 
+ 
+ 350 
+Vedic Astrology: An Integrated Approach
+(6) 
+The 7th constellation from janma nakshatra is called Naidhana nakshatra. 
+Naidhana means “death” and this nakshatra shows death and suffering. 
+(7) 
+The 12th constellation from janma nakshatra is called Desa nakshatra. Desa 
+means “country” and this nakshatra shows one’s country. 
+(8) 
+The 13th constellation from janma nakshatra is called Abhisheka nakshatra. 
+Abhisheka means “coronation” and this nakshatra shows power and authority. 
+This is also called Raajya nakshatra (kingdom). 
+(9) 
+The 19th constellation from janma nakshatra is called Aadhaana nakshatra. 
+Aadhaana means “epoch/conception” and this nakshatra shows well-being of 
+family. 
+(10) The 22th constellation from janma nakshatra is called Vainaasika/Vinaasana 
+nakshatra. Vainaasika means “destructive” and this nakshatra shows one’s 
+destruction. 
+(11) The 25th constellation from janma nakshatra is called Maanasa nakshatra. 
+Maanasa means “mind” and this nakshatra shows one’s mental state. 
+ 
+Benefics or malefics situated in these constellations in their transit bring good or bad 
+results related to the area covered by the nakshatra. However, it should be kept in 
+mind that the results will be with respect to the native. For example, malefics 
+transiting in desa nakshatra may not ruin one’s country. After all, any country has 
+almost the same number of people with desa nakshatra in each constellation. When 
+many malefics are transiting in desa nakshatra, one may be driven away from one’s 
+country or start hating one’s country. Similarly, many malefics transiting in jaati 
+nakshatra may alienate one from one’s community.  Many benefics transiting in 
+karma nakshatra may give success at workplace. This is how these special nakshatras 
+should be used. Sometimes, using these nakshtras gives special insights that cannot 
+be gained by looking at any divisional chart. 
+ 
+As an example, let us take Bill Gates who has natal Moon in Uttarabhadrapada. His 
+jaati nakshatra is the 4th from Uttarabhadrapada, i.e. Bharani. His karma nakshatra is 
+the 10th from Uttarabhadrapada, i.e. Pushyami. When Saturn was transiting in 
+Bharani, several people in the software community turned against Bill Gates and 
+gave damaging testimonies in a lawsuit to determine whether his company was a 
+monopoly employing unfair tactics against competitors. He was more or less 
+alienated in the community of software entrepreneurs. At the same time, Rahu was 
+transiting in Pushyami and that brought tension related to litigation at his workplace. 
+ 
+
+=== PAGE 363 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+351
+ 
+Exercise 41: Consider a native born in Leo lagna. He has Moon also in Leo in 
+Poorva Phalguni constellation. Let us say Jupiter is transiting in Sg in 
+Poorvaashaadha constellation with Mars. Mars is a yogakaraka from natal lagna. 
+Jupiter is transiting in his moolatrikona, in the 5th house from natal lagna and Moon. 
+That’s very favorable transit. Find out if transit Jupiter and transit Mars are in a 
+special nakshatra. Based on it, try to guess the area in which the transit did good to 
+the native. 
+ 
+Exercise 42: For a native with lagna in Leo, natal Moon is in the 4th quarter of 
+Dhanishtha. When the transit chart contains Saturn in Bharani, identify a possible 
+result. 
+ 
+Exercise 43: For a native with natal Moon in the 3rd quarter of Poorvabhadrapada 
+and lagna in Virgo, transit of Mars in Aasresha constellation in Cancer brought 
+material gains. Cancer is the 6th from natal Moon and 11th from natal lagna. Both are 
+favorable transits and so it makes sense that this transit gave material gains. Now 
+find out if Mars occupies a special constellation and, based on it, guess the nature of 
+the gains. 
+ 
+26.5 Nakshatra-based Aspects 
+ 
+Sun and Moon aspect the 14th and 15th constellations from them. Mars aspects the 1st, 
+3rd, 7th, 8th and 15th constellations from him. Mercury and Venus aspect the 1st and 
+15th constellations from them. Jupiter aspects the 10th, 15th and 19th constellations 
+from him. Saturn aspects the 3rd, 5th, 15th and 19th constellations from him. 
+ 
+A natural benefic gives good results related to the constellations aspected by it and a 
+natural malefic gives bad results related to the constellations aspected by it. 
+ 
+Exercise 44: For the native of Exercise 42, transit Mars was in Swaati when transit 
+Saturn was in Bharani. Identify the constellations aspected by Mars and see if any 
+special constellations are included. If so, predict the possible result. 
+ 
+
+=== PAGE 364 ===
+ 
+ 
+ 
+ 352 
+Vedic Astrology: An Integrated Approach
+26.6 Constellations and Body Parts 
+ 
+When they are transiting in various constellations as counted from janma nakshatra, 
+planets are said to dwell in different parts of one’s body and correspondingly some 
+standard results are attributed. These results are given in Table 65 – Table 69. 
+ 
+There are two different purposes for these tables: 
+ 
+(1) We can find the standard results for planetary transits in different constellations 
+with respect to the constellation of natal Moon. 
+(2) If a native has a disease or problem in a particular body part, we may be able to 
+use these tables and figure out the planet causing it. That can help us in deciding 
+the right remedial measures. We can also take preventive measures before the 
+transit. 
+Table 65: Body Parts in the Transit of Sun 
+Nakshatras (counted from 
+janma nakshatra) 
+Body part dwelt 
+by the planet 
+Standard Result 
+1st 
+Mouth/Face 
+Destruction 
+2nd, 3rd, 4th, 5th 
+Head 
+Influx of wealth 
+6th, 7th, 8th, 9th 
+Chest 
+Victory 
+10th, 11th, 12th, 13th 
+Right hand 
+Wealth 
+14th, 15th, 16th, 17th, 18th, 19th 
+Two feet 
+Poverty 
+20th, 21st, 22nd, 23rd 
+Left hand 
+Physical ailments 
+24th, 25th 
+Eyes 
+Gains 
+26th, 27th 
+Private parts 
+Death 
+Table 66: Body Parts in the Transit of Moon 
+Nakshatras (counted from 
+janma nakshatra) 
+Body part dwelt 
+by the planet 
+Standard Result 
+1st, 2nd 
+Face 
+Great fear 
+3rd, 4th, 5th, 6th 
+Head 
+Well-being 
+7th, 8th 
+Back 
+Victory over enemies 
+9th, 10th 
+Eyes 
+Money 
+11th, 12th, 13th, 14th, 15th 
+Heart 
+Comforts and peace 
+16th, 17th, 18th 
+Left hand 
+Quarrels 
+
+=== PAGE 365 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+353
+ 
+19th, 20th, 21st, 22nd, 23rd, 24th 
+Two feet 
+Going abroad 
+25th, 26th, 27th 
+Right hand 
+Financial gains 
+Table 67: Body Parts in the Transit of Mars 
+Nakshatras (counted from 
+janma nakshatra) 
+Body part dwelt 
+by the planet 
+Standard Result 
+1st, 2nd 
+Mouth/Face 
+Death 
+3rd, 4th, 5th, 6th, 7th, 8th 
+Two feet 
+Separation 
+9th, 10th, 11th 
+Chest 
+Victory 
+12th, 13th, 14th, 15th 
+Left hand 
+Poverty 
+16th, 17th 
+Head 
+Gains 
+18th, 19th, 20th, 21st 
+Face 
+Great fear 
+22nd, 23rd, 24th, 25th 
+Right hand 
+Well-being 
+26th, 27th 
+Eyes 
+Going abroad 
+Table 68: Body Parts in the Transit of Mercury, Jupiter and Venus 
+Nakshatras (counted from 
+janma nakshatra) 
+Body part dwelt 
+by the planet 
+Standard Result 
+1st, 2nd, 3rd 
+Head 
+Grief 
+4th, 5th, 6th 
+Face 
+Gains 
+7th, 8th, 9th, 10th, 11th, 12th 
+Two hands 
+Misfortune 
+13th, 14th, 15th, 16th, 17th 
+Stomach 
+Amassing of wealth 
+18th, 19th 
+Private parts 
+Destruction 
+20th, 21st, 22nd, 23rd, 24th, 25th, 
+26th, 27th 
+Two feet 
+Honor and fame 
+Table 69: Body Parts in the Transit of Saturn, Rahu and Ketu 
+Nakshatras (counted from 
+janma nakshatra) 
+Body part dwelt 
+by the planet 
+Standard Result 
+1st 
+Face 
+Grief 
+2nd, 3rd, 4th, 5th 
+Right hand 
+Comforts 
+6th, 7th, 8th 
+Right leg 
+Travels 
+9th, 10th, 11th 
+Left leg 
+Destruction 
+12th, 13th, 14th, 15th 
+Left hand 
+Gains 
+16th, 17th, 18th, 19th, 20th 
+Stomach 
+Pleasures 
+21st, 22nd, 23rd 
+Head 
+Comforts 
+
+=== PAGE 366 ===
+ 
+ 
+ 
+ 354 
+Vedic Astrology: An Integrated Approach
+24th, 25th 
+Eyes 
+Comforts 
+26th, 27th 
+Back 
+Death 
+ 
+If a planet dwells in the left hand in transit and some natural malefics aspect it or 
+cause vedha on it, then the planet may give suffering related to the left hand. Some 
+injuries to the left hand are possible then. 
+ 
+Let us consider a native who has natal Moon in the 1st quarter of Visakha. He had 
+some persistent pain in his chest in February 2000. Let us determine the planet 
+responsible for it. 
+ 
+One can find from Table 65  that Sun dwells in chest during his transit in the 6th, 7th, 
+8th and 9th nakshatras from janma nakshatra. From Visakha, they are Uttaraashaadha, 
+Sravana, Dhanishtha and Satabhisha. Sun transited in these stars during Jan 11-Mar 
+3, 2000. The chest troubles when Sun was dwelling in chest can be related to Sun. 
+ 
+At the time Sun entered Capricorn in January 2000, Moon was in Ar and hence Sun 
+is a taamra murthi (copper form) for people with natal Moon in Li. At the time Sun 
+entered Aquarius in February 2000, Moon was in Ta and hence Sun is a loha murthi 
+(iron form) for people with natal Moon in Li. Being a copper/iron form dwelling in 
+the chest, Sun brought chest pains. 
+ 
+26.7 Latta (Kick) 
+ 
+Latta is a nakshatra-based planetary kick. Each planet has latta (kick) on a 
+constellation based on its transit position. If a transit planet has latta on the 
+constellation occupied by Moon (or lagna) in natal chart, then we may expect some 
+unfavorable results related to the signification of the planet in natal chart. 
+ 
+Purolatta (forward kick): 
+ 
+(1) Sun has latta on the 12th nakshatra from him, reckoned in the forward direction. 
+If Sun is in Mrigasira, for example, he has latta on the 12th nakshatra from 
+Mrigasira, i.e. Visakha. 
+
+=== PAGE 367 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+355
+ 
+(2) Mars has latta on the 3rd nakshatra from him, reckoned in the forward direction. 
+If Mars is in Mrigasira, for example, he has latta on the 3rd nakshatra from 
+Mrigasira, i.e. Punarvasu. 
+(3) Jupiter has latta on the 6th nakshatra from him, reckoned in the forward direction. 
+If Jupiter is in Krittika, for example, he has latta on the 6th nakshatra from 
+Krittika, i.e. Pushyami. 
+(4) Saturn has latta on the 8th nakshatra from him, reckoned in the forward direction. 
+If Saturn is in Krittika, for example, he has latta on the 8th nakshatra from 
+Krittika, i.e. Makha. 
+ 
+Prishtha latta (backward kick): 
+ 
+(5) Moon has latta on the 22nd nakshatra from him, reckoned in the backward 
+direction. If Moon is in Anuradha, for example, he has latta on the 22nd nakshatra 
+(backwards) from Anuradha, i.e. Dhanishtha. 
+(6) Mercury has latta on the 7th nakshatra from him, reckoned in the backward 
+direction. If Mercury is in Punarvasu, for example, he has latta on the 7th 
+nakshatra (backwards) from Punarvasu, i.e. Aswini. 
+(7) Venus has latta on the 5th nakshatra from him, reckoned in the backward 
+direction. If Venus is in Mrigasira, for example, he has latta on the 5th nakshatra 
+(backwards) from Mrigasira, i.e. Aswini. 
+(8) Rahu has latta on the 9th nakshatra from him, reckoned in the backward direction. 
+If Rahu is in Punarvasu, for example, he has latta on the 9th nakshatra 
+(backwards) from Punarvasu, i.e. Uttarabhadrapada. 
+ 
+If the 6th lord has latta on janma nakshatra (nakshatra occupied by natal Moon) or 
+lagna nakshatra (nakshatra occupied by natal lagna) in his transit, then some troubles 
+related to litigation or disease or enemies may be expected. If the 7th lord has latta on 
+janma nakshatra or lagna nakshatra in his transit, then some troubles related to 
+marriage or spouse or relations can be expected. If an important planet in the 10th 
+house in natal chart has a latta on janma nakshatra or lagna nakshatra in transit, then 
+some troubles in career may be expected. We usually see some loss related to the 
+natal significations of a planet having latta on janma nakshatra or lagna nakshatra in 
+transit. This is an important concept and readers should memorize the latta formulas. 
+ 
+
+=== PAGE 368 ===
+ 
+ 
+ 
+ 356 
+Vedic Astrology: An Integrated Approach
+Example 113: Let us consider a native whose janma nakshatra is Poorvabhadrapada 
+and lagna nakshatra is Hasta. Let us see if any bad result is possible, using lattas, on 
+the evening of 5th December 1996. 
+ 
+Let us find if any planet has latta on Poorvabhadrapada or Hasta. 
+ 
+Table 70: Latta Calculation for Example 113 
+Planet 
+Constellation 
+occupied in transit
+Latta star 
+count 
+Latta 
+direction 
+Latta on 
+Sun 
+Jyeshtha 
+12th 
+Forward 
+Bharani 
+Moon 
+Hasta 
+22nd 
+Backward 
+Moola 
+Mars 
+Poorva Phalguni 
+3rd 
+Forward 
+Hasta 
+Mercury 
+Moola 
+7th 
+Backward 
+Hasta 
+Jupiter 
+Poorvaashaadha 
+6th 
+Forward 
+Poorvabhadrapada 
+Venus 
+Visaakha 
+5th 
+Backward 
+Uttaraphalguni 
+Saturn 
+Uttarabhadrapada 
+8th 
+Forward 
+Aardra 
+Rahu 
+Hasta 
+9th 
+Backward 
+Mrigasira 
+ 
+Natal lagna is in Virgo, as Hasta is in Virgo. There are two lattas on lagna nakshatra 
+– Hasta. One is by 8th lord Mars and the other is by lagna lord Mercury. So bad 
+results relating to 1st and 8th houses are possible. The 6th and 8th houses show 
+accidents. 
+ 
+However, latta on janma nakshatra is more important. Here Jupiter has latta on 
+Poorvabhadrapada. Jupiter owns the 4th and 7th houses in the natal chart. So some 
+misfortune related to vehicle or house or marital life is possible. 
+ 
+The native had a vehicular accident on the evening of 5th December 1996, in which 
+his car was totaled; i.e. it was so damaged that his insurance company found it 
+cheaper to give a new car instead of repairing it. 
+ 
+Exercise 45: Consider the chart of Bill Gates (see Chart 24). On 8th June 2000, his 
+company received an unfavorable ruling from a US judge in a landmark anti-trust 
+lawsuit. Find if any planets had latta on janma nakshatra or lagna nakshatra at the 
+time of the ruling. Find the common house related to those planets in the natal chart. 
+ 
+
+=== PAGE 369 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+357
+ 
+26.8 Sarvatobhadra Chakra 
+ 
+Definition: Sarvatah means “everywhere” or “entirely”. Bhadra means “auspicious” 
+or “well”. Sarvatobhadra chakra is a chart that shows all-round well-being and all 
+kinds of auspicious and inauspicious results. 
+Figure 3: Sarvatobhadra Chakra 
+ 
+
+=== PAGE 370 ===
+ 
+ 
+ 
+ 358 
+Vedic Astrology: An Integrated Approach
+ 
+There are 9 x 9 = 81 squares in the chart. Middle 7 squares on the outer borders 
+contains 7 nakshatras each. Abhijit (the last quarter of Uttarashadha) is included 
+among the nakshatras. The innermost 5 squares contains weekdays and tithis (lunar 
+days). The notation regarding tithis is: 
+ 
+(1) The entry Nanda represents 1st, 6th, 11th, 16th, 21st and 26th tithis. 
+(2) The entry Bhadra represents 2nd, 7th, 12th, 17th, 22nd and 27th tithis. 
+(3) The entry Jaya represents 3rd, 8th, 13th, 18th, 23rd and 28th tithis. 
+(4) The entry Rikta represents 4th, 9th, 14th, 19th, 24th and 29th tithis. 
+(5) The entry Poorna represents 5th, 10th, 15th, 20th and 30th tithis. 
+ 
+Rasis are also included in the chart. Some consonants are listed in the squres just 
+inside the border squares. All the squares lying on diagonals of the chart, except the 
+central square of the chart, contain vowels. There are 16 vowels and 20 consonants 
+that are covered. We see that 16 (vowels) + 20 (consonants) + 12 (rasis) + 28 
+(nakshtras) + 5 (tithis and weekdays) = 81. 
+ 
+Vedha: When a planet occupies a nakshatra, it causes vedha (obstruction) on the 
+contents of the squares along 3 lines. We can draw one vertical or horizontal line and 
+two crossward lines starting at the nakshatra. Contents of the squares on the lines 
+have vedha from the planet. 
+ 
+Example 114: Let us say Saturn is in Punarvasu. We see that Punarvasu is on the 
+eastern border. 
+ 
+Drawing a horizontal line to the west from it, we see that the consonant h, rasi Cn, 
+vowel au, tithis Bhadra (2nd, 7th, 12th, 17th, 22nd and 27th), weekdays Monday and 
+Wednesday, vowel am, rasi Sc, consonant y and constellation Moola are on this line. 
+So Saturn in Punarvasu causes vedha on all these. 
+ 
+Drawing a crossward line to the northwest from it, we see that the consonant k, rasis 
+Ta and Ar, consonant d and constellation Poorva Bhadrapada are on this line. So 
+Saturn in Punarvasu causes vedha on all these. 
+ 
+
+=== PAGE 371 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+359
+ 
+Drawing a crossward line to the southwest from it, we see that the consonant d 
+(alveolar), consonant m and constellation Uttara Phalguni are on this line. So Saturn 
+in Punarvasu causes vedha on all these. 
+ 
+Exercise 46: Find all the consonants, vowels, tithis, weekdays, rasis and 
+constellations on which Venus in Makha has vedha. 
+ 
+There are some special principles: 
+ 
+(1) A planet in the first quarter of Krittika or the last quarter of Bharani has vedha on 
+the vowel “a” which is in the northeastern corner. A similar thing applies to all 
+the vowels in corners. 
+(2) If an vowel has vedha, its similar vowel (e.g. a and aa, i and ee, u and uu) also 
+has vedha from the same planet. 
+(3) Some consonants are not covered in this chart. Planets in Ardra have vedha on g, 
+chh and ng (nasal). Planets in Hasta have vedha on h, n (alveolar) and th 
+(alveolar). Planets in Poorvashadha have vedha on dh (dental), ph and dh 
+(alveolar). Planets in Uttara Bhadrapada have vedha on th (dental), jh and nch 
+(nasal). 
+(4) If a planet has vedha on one of the following pairs of consonants, it has vedha on 
+the other one too: b & v; s & sh (palatal); kh & sh (alveolar); j & y; ng & tr. 
+ 
+Using Sarvatobhadra Chakra70: We should find the following in the natal chart: 
+ 
+(1) the constellation occupied by Moon or any special tara 
+(2) the rasi occupied by lagna or any house of interest 
+(3) the first/prominent consonant and vowel in the native’s name 
+(4) the tithi of birth (janma tithi) or a special tithi 
+(5) the weekday of birth (janma vaara) 
+ 
+We should study the vedha caused on these by different planets in their transit. 
+Vedha by benefics (Moon, Mercury, Jupiter and Venus) is favorable and vedha by 
+malefics (Sun, Mars, Saturn, Rahu and Ketu) is unfavorable. If several transiting 
+benefics have simultaneous vedha on several natal points listed above, then good 
+results may be expected. Malefics, on the other hand, give bad results. 
+                                                 
+70 This author’s experience in the use of Sarvatobhadra Chakra is very very limited. 
+
+=== PAGE 372 ===
+ 
+ 
+ 
+ 360 
+Vedic Astrology: An Integrated Approach
+ 
+In addition to considering janma nakshatra, we can consider special nakshatras 
+related to the matter of interest. Suppose we want to find the transit results related to 
+career. Then we can take karma nakshatra of natal chart and see the vedhas on it in 
+transit chart. 
+ 
+Similarly, we can take the tithi corresponding to the matter of interest. For example, 
+we can take “karma tithi” (lunar day of profession) instead of janma tithi when 
+finding transit results related to career. 
+ 
+Readers should refer to the first chapter for the procedure of finding tithis. Karma 
+tithi is a little different from normal tithi. To find karma tithi, we multiply the 
+difference between Moon’s longitude and Sun’s longitude with 10 and reduce the 
+product to a value between 0º and 360º (by adding or subtracting multiples of 360º). 
+We divide it by 12 and add 1 to the quotient. That gives a number between 1 and 30 
+and that represents “karma tithi”. Karma tithi changes 10 times as fast as normal 
+tithi. Similarly “dhana tithi” (lunar day of wealth) changes twice as fast as normal 
+tithi. We can find a tithi for several matters. The tithi relevant to the matter of 
+interest should be used when finding vedha of transiting planets on tithis (Nanda, 
+Bhadra, Jaya, Rikta and Poorna). 
+ 
+Let us take an example. If the 10th house, karma nakshatra, karma tithi and janma 
+vaara all have the vedha of a couple of transiting benefics, then some good 
+developments may take place in the native’s career. If they have the vedha of a 
+couple of malefics (instead of benefics), then we can expect setbacks in the native’s 
+career. In this manner, we study the impact of transits on important tithis, janma 
+vaara, important nakshatras and important houses in natal chart. If just one natal 
+reference has vedha from just one planet, we cannot make any predictions. But, if 2-
+3 natal reference have vedha from a couple of benefic/malefic transit planets, then 
+we can be more confident. However, a prediction should be made only if dasas and 
+Tajaka charts also show an event.  
+ 
+Example 115: Let us consider the death of John F. Kennedy, Jr. The data of birth 
+and death can be found in Example 107.  
+ 
+
+=== PAGE 373 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+361
+ 
+Janma tithi is Sukla Ashtami (8th tithi) and it belongs to the Jaya group. Janma vaara 
+is Thursday71. Jama nakshatra is Dhanishtha. Vainasika nakshatra (destruction) is in 
+Anooradha. Naidhana nakshatra (constellation of death) is in Bharani. If all these 
+natal reference points have vedha from a couple of natural malefics, then death is 
+more likely on other days. Of course, one will not die whenever this happens, but 
+this will increase the chances of death. 
+ 
+In the transit chart, Saturn is in naidhana nakshatra Bharani. Mars is in Swati. Rahu 
+is in Asresha. Ketu is in Sravanam. 
+ 
+If we draw crossward lines from Ketu in Sravanam and Saturn in Bharani, we can 
+see that they intersect in the square containing Jaya and Thursday. So janma tithi 
+(Jaya) and janma vaara (Thursday) have vedha from Ketu and Saturn. Janma 
+nakshatra Dhanishtha has vedha from Ketu in Sravanam and Rahu in Asresha. 
+Vainaasika nakshatra Anooradha also comes under the vedha of Saturn in Bharani 
+and Rahu in Asresha. The house of accidents Cp, which is the 3rd house from AL in 
+natal chart, comes under vedha from Ketu in Sravanam and Mars in Swati. 
+ 
+Considering that several key natal references are coming under the vedha of a couple 
+of malefics, unfavorable results are possible. Considering the involvement of 
+naidhana and vainaasika nakshatras, death is possible. 
+ 
+Example 116: Let us consider Rajiv Gandhi’s ascension to power in India on 
+October 31, 1984. It was covered in Exercise 40. Rasi chart of Mr. Gandhi can be 
+found in Chart 39. 
+ 
+At the time of the event, Jupiter was in Poorvashadha, Venus was in Jyeshtha, 
+Mercury was in Visakha and Moon was in Sravanam. Let us see if they have vedhas 
+on any important natal references. Here are the vedhas: 
+ 
+(1) Jupiter and Mercury both have vedha on Nanda and Sunday. Sunday is the 
+weekday of birth. The tithi of power (5th) is Sukla Shashthi (Nanda group). 
+(2) Mercury and Moon both have vedha on Dhanishtha (abhisheka nakshatra – 
+constellation of coronation). 
+                                                 
+71 As per the western calendar, Friday came at midnight and the native was born at 12:22 am. 
+However, a new day starts at sunrise for Hindus. So it was still Thursday. 
+
+=== PAGE 374 ===
+ 
+ 
+ 
+ 362 
+Vedic Astrology: An Integrated Approach
+(3) Jupiter and Venus both have vedha on Sg, which is the 5th house of power in 
+natal chart. 
+(4) Mercury and Venus both have vedha on Libra, which contains GL in natal chart. 
+GL is the seat of power. 
+ 
+So janma vaara, an important tithi, an important nakshatra and two important rasis in 
+natal chart have vedha from two benefic planets each. This is conducive to getting 
+political power. 
+ 
+Example 117: Let us continue with the same native. Rajiv Gandhi’s party lost 
+majority in the elections of November 22, 1989. 
+ 
+When he became India’s Prime Minister in 1984, Jupiter was in Poorvashadha. 
+Poorvashadha is karma nakshatra (constellation of profession). At the time of Mr. 
+Gandhi’s defeat in 1989, Saturn was in that constellation. 
+ 
+Let us find vedhas by transit planets on the same natal references considered in the 
+last example: 
+ 
+(1) Nanda and Sunday have vedha from 3 malefics: Saturn in Poorvashadha, Rahu in 
+Dhanishtha and Ketu in Asresha. 
+(2) Dhanishtha is Abhisheka nakshatra (constellation of coronation). It is occupied 
+by Rahu and Ketu has vedha on it. 
+(3) The 5th house of power in the natal chart, Sg, has vedha from Mars and Saturn. 
+ 
+For these reasons, transits were unfavorable from the point of view of political 
+power. So Mr. Gandhi’s party lost power. 
+ 
+26.9 Conclusion 
+ 
+Several important topics related to transits in nakshatras were covered in this chapter. 
+One should carefully learn and practice all these classical nakshatra-based 
+techniques. However, new students should not make predictions just based on these 
+techniques. Any technique that divides people into 27 groups and gives the same 
+result for everyone in the same group can be correct only to a limited extent. These 
+methods should be used in conjunction with other chart-sensitive methods. 
+
+=== PAGE 375 ===
+ 
+ 
+ 
+Part 3: Transit Analysis 
+363
+ 
+ 
+26.10 Answers to the Exercises 
+ 
+Exercise 41: 
+ 
+Poorvaashaadha is the 10th constellation from Poorva Phalguni. So the favorable 
+transit of Jupiter and Mars happens to be in the Karma nakshatra, which shows 
+profession. So the good results to be experienced may be related to profession. 
+ 
+Final Answer: The details belong to Rajiv Gandhi. He suddenly became India’s 
+Prime Minister during the said transit. We gave his birthdata earlier. 
+ 
+Exercise 42: 
+ 
+Bharani is the 7th constellation from Dhanishtha, i.e. it is the naidhana nakshatra 
+(death). Saturn is a malefic and the 7th lord – and hence a maraka – here. So this 
+transit has the potential to bring death. Of course, not everyone with lagna in Leo and 
+Moon in Dhanishtha dies then72, but death is a possibility during the transit. 
+ 
+Final Answer: The details belong to John F. Kennedy, Jr. He died in a plane crash 
+during the said transit. We gave his birthdata earlier. 
+ 
+Exercise 43: 
+ 
+Aasresha is the 12th constellation from Poorvabhaadrapada, i.e. Desa nakshatra. 
+Being a debilitated malefic in desa nakshatra (country), Mars can drive him out of 
+his country. That was indeed how Mars gave gains to the native of Chart 63 in the 
+second week of November 1994. The native left his motherland India then. 
+ 
+Exercise 44: 
+ 
+Mars aspects the 1st, 3rd, 7th, 8th and 15th constellations from him. Mars in Swaati will 
+aspect (1) Swaati, (2) Anooradha, (3) Uttaraashaadha, (4) Sravanam, and, (5) 
+Bharani. Because natal Moon is in Dhanishtha, these are the 20th, 22nd, 26th, 27th and 
+                                                 
+72 These transit principles based on nakshtra give good insight into future, but one cannot make 
+predictions just based on them. 
+
+=== PAGE 376 ===
+ 
+ 
+ 
+ 364 
+Vedic Astrology: An Integrated Approach
+7th constellations (respectively) from janma nakshatra. Out of these, 2 are special 
+nakshatras. The 7th constellation is known as naidhana nakshatra and shows death. 
+The 22nd nakshatra is known as vainaasika nakshatra and shows destruction. Mars 
+aspects both. As seen in Exercise 42, maraka in the natal chart Saturn occupies 
+naidhana nakshatra73. The predicted result is death.74 
+ 
+Final Answer: As already mentioned, Mr. Kennedy passed away during this transit. 
+ 
+Exercise 45: 
+ 
+Rahu was in Punarvasu at that time. He had latta on the 9th from Punarvasu 
+backwards, which is Uttarabhadrapada, i.e. janma nakshatra! So Rahu had latta on 
+janma nakshatra. Mars was in Mrigasira at the time and he had latta on the 3rd from 
+Mrigasira, which is Punarvasu, i.e. lagna nakshatra! 
+ 
+Rahu occupies the 6th house in the natal chart and Mars owns it. So the setbacks 
+given by their lattas on janma nakshatra and lagna nakshatra were related to the 6th 
+house matters – litigation and enemies. 
+ 
+Exercise 46: 
+ 
+(1) Verical line in the northern direction has uu, d (alveolar), h, k, v, a, u and 
+Bharani. 
+(2) Crossward line in the northeastern direction has Asresha. 
+(3) Crossward line in the northwestern direction has m, Le, Bhadra (2nd, 7th, 12th, 
+17th, 22nd and 27th), Monday, Wednesday, Jaya (3rd, 8th, 13th, 18th, 23rd and 28th), 
+Thursday, Cp, kh and Sravanam. 
+                                                 
+73 In the natal chart, Mars occupies his Mrityu Bhaga (part of death). So his aspect over the two 
+special constellations is also significant. 
+74 It will be very hasty to predict someone’s death just based on conjunctions and aspects on special 
+nakshatras in transit. Out of the many people with the same nakshatra, only those people whose dasas 
+and Tajaka charts also show death will die at the time of this death-inflicting transit. 
+
+=== PAGE 377 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Part 4:  Tajaka Analysis 
+ 
+ 
+ 
+A sub-system of Indian astrology, popularly known as “Tajaka 
+system”, is extremely useful in making precise and pointed 
+predictions. It considers planetary aspects and yogas different 
+from those employed in other classical methods of Vedic 
+astrology and it is closer to western astrology in terms of 
+aspects and yogas. In fact, some scholars may validly question 
+why Tajaka system is being covered in a book on Vedic 
+astrology. There are no references to it in the works of Parasara, 
+Jaimini and other maharshis. The oldest reference to these 
+techniques to be found in the works of a respected authority on 
+Vedic astrology is in “Tajaka Neelakanthi”, a work by 
+Neelakantha who wrote a celebrated commentary on “Jaimini 
+Sutras”. His coverage of Tajaka system lends some authenticity 
+to the system. One can only speculate whether Parasara talked 
+about this system in parts that are possibly missing today. We 
+will cover this system  in this book, because some illustrious 
+scholars of Vedic astrology, like Neelakantha and Dr. B.V. 
+Raman, set the precedent by teaching this system. 
+ 
+
+=== PAGE 378 ===
+ 
+ 
+ 
+ 366 
+Vedic Astrology: An Integrated Approach
+This system is based on solar return charts. When Sun returns 
+every year to the position he occupied in the zodiac at the time 
+of a person’s birth, a new year is said to commence for the 
+person and a chart drawn for that time is called “Tajaka annual 
+chart” or “Tajaka varsha chakra”. Analysis of this chart can 
+give insights into what may be in store during the one year 
+following the solar return. Results suggested in the annual chart 
+can take place only if they are ‘possible’ based on natal chart 
+also. However, annual chart often gives a finer insight into the 
+year in question than natal chart. 
+ 
+A few special dasa systems enable timing of events within the 
+365-day period of operation of an annual chart. 
+ 
+Similar to the annual charts, “monthly solar return charts” 
+(Tajaka masa chakras) can also be drawn and they are useful in 
+analyzing a one-month period in depth. 
+ 
+This part explains the casting and use of annual charts in giving 
+precise predictions. 
+
+=== PAGE 379 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+367
+ 
+27.  Tajaka Chart Basics 
+ 
+27.1 Casting Annual Charts 
+ 
+Sun moves with respect to earth at the rate of 30° per month. He takes one year to 
+complete one cycle through the zodiac. He returns to the position occupied by him at 
+the time of one’s birth after every one-year period. At the exact moment when Sun 
+returns to the exact position he occupied at the time of a person’s birth, a new year 
+is said to commence in the life of that person. A chart can be cast for the 
+commencement of the new year. This is called a Tajaka varsha chakra or a Tajaka 
+annual chart75. The longitude and latitude of the birthplace must be used in casting 
+this chart, irrespective of the place of living at the commencement of the new year. 
+ 
+The commencement of a new year is called “varsha pravesh” by some people. 
+Varsha means a year and pravesh means entry. 
+ 
+Example 118: 
+ 
+Let us take a native with this birthdata: 8th March 1967, 5:40 pm (IST), 73 E 04, 26 
+N 18. Sun occupies 23° 50' 25'' in Aq in his birthchart. Suppose we want analyze the 
+one-year period of March 2000-March 2001 using Tajaka annual chart. 
+ 
+Then we should find the date and time when Sun enters 23° 50' 25'' in Aq in March 
+2000. We find that Sun enters this position at 4:41:21 am on 8th March 2000. The 
+native finishes 33 years and enters his 34th year at that time. 
+ 
+We can erect a chart with the following data: 8th March 2000, 4:41:21 am (IST), 73 E 
+04, 26 N 1876. That chart is called the native’s Tajaka annual chart for 2000-2001. 
+Rasi chart erected with this data is shown in Chart 66. Along with this rasi chart, we 
+can draw all the divisional charts at this time. 
+                                                 
+75 Western astrologers also use similar charts and call them “solar return” charts. Some Indian 
+astrologers call these “varshaphal” charts. Varshaphal means “results for one year”. 
+76 Even if the native is living on the other side of the globe, we must still cast the annual chart for 
+birthplace co-ordinates. So we are using the longitude and latitude of his birthplace here. 
+
+=== PAGE 380 ===
+ 
+ 
+ 
+ 368 
+Vedic Astrology: An Integrated Approach
+ 
+Chart 66 
+ 
+ 
+By analyzing this rasi chart and the associated divisional charts, we can find out the 
+fortune of the native during the year. The matters shown by various divisional charts, 
+houses, rasis, planets, arudha padas etc remain the same. To time events within this 
+year, we have annual dasas. We will learn them in later chapters. 
+ 
+27.2 An Approximate Method 
+ 
+The exact time of the commencement of new year is determined by finding the exact 
+time when Sun enters the exact position occupied by him at the time of one’s birth. 
+However, this can be a laborious calculation to do manually. To make this task less 
+challenging, some scholars devised approximate methods based on the number of 
+days in an average solar year. A sidereal solar year has 365 days 6 hours 9 minutes 
+and 12 seconds. Based on this, the amount of time to be added to the birthdata to find 
+the varsha pravesh data is given in Table 71. 
+ 
+
+=== PAGE 381 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+369
+ 
+Table 71: Approximate Annual Chart Data 
+Age 
+(years) 
+Days 
+Hours 
+Minutes 
+Seconds
+1 
+1 
+6 
+9 
+12 
+2 
+2 
+12 
+18 
+18 
+3 
+3 
+18 
+27 
+30 
+4 
+5 
+0 
+36 
+36 
+5 
+6 
+6 
+45 
+48 
+6 
+0 
+12 
+55 
+0 
+7 
+1 
+19 
+4 
+6 
+8 
+3 
+1 
+13 
+18 
+9 
+4 
+7 
+22 
+30 
+10 
+5 
+13 
+31 
+36 
+20 
+4 
+3 
+3 
+12 
+30 
+2 
+16 
+34 
+54 
+40 
+1 
+6 
+6 
+30 
+50 
+6 
+19 
+38 
+6 
+60 
+5 
+9 
+9 
+42 
+70 
+3 
+22 
+41 
+24 
+80 
+2 
+12 
+13 
+0 
+90 
+1 
+1 
+44 
+36 
+100 
+6 
+15 
+16 
+12 
+ 
+Procedure: 
+ 
+(1) Find the birthday as per western calendar in the required year. 
+(2) Find the years completed. Find the corresponding days, hours, minutes and 
+seconds from Table 71. If the age is not in the list, express it as a sum of entries 
+found in the table and add their values. For example, suppose someone finished 
+46 years. Then add the values given for 40 years and 6 years. 
+(3) Add the days found above to the weekday77 of birth and find the resulting 
+weekday. Find the nearest date to the birthday found in (1) that falls on this 
+weekday. A time equal to the birthtime on this date is taken as a reference. 
+                                                 
+77 Remember that the weekday in Hindu calendar changes at sunrise and not at 12:00 midnight. 
+
+=== PAGE 382 ===
+ 
+ 
+ 
+ 370 
+Vedic Astrology: An Integrated Approach
+(4) Add the hours, minutes and seconds found in (2) to the reference date and time 
+found in (3). The result is the date and time of the commencement of new year. 
+(5) Find the planetary positions, lagna etc at this time for the longitude and latitude 
+of the birthplace. 
+ 
+Let us now revisit Example 118 and calculate varsha pravesh data using this 
+approximate method. 
+ 
+(1) Birthday is 8th March 1967. The 34th year starts in 2000. The birthday as per the 
+western calendar is on 8th March 2000. 
+(2) Finished years are 33 = 30 + 3. Adding the entries of 30 years and 3 years, we get 
+Days Hrs 
+Min 
+Sec 
+30 years: 
+ 
+2 
+16 
+34 
+54 
+(from Table 71) 
+3 years: 
+ 
+3 
+18 
+27 
+30 
+(from Table 71) 
+33 years (sum): 
+6 
+11 
+02 
+24 
+(3) Birthday (8th March 1967) is a Wednesday. Adding 6 days to it, we get a 
+Tuesday. We now have to find the Tuesday nearest to 8th March 2000. It is 7th 
+March 2000. The time of birth on 8th March 1967 is 5:40 pm and we now take 
+5:40 pm on 7th March 2000 as the reference time. 
+(4) We have to add 11 hours, 2 minutes and 24 seconds found in (2) to the reference 
+time in (3). We get 4:42:24 am on 8th March 2000. 
+(5) We find rasi chart and all divisional charts for the data: 8th March 2000, 4:42:24 
+am (IST), 73 E 04, 26 N 18. 
+ 
+Please note that the time found here is wrong only by 1 minute. In some examples, 
+the error resulting from the approximation can be higher. However, this approximate 
+method is very convenient and quick. 
+ 
+NOTE: Errors due to ayanamsa and approximations in the calculation of Sun’s 
+longitude cause greater errors than this approximation. As long as one takes the 
+correct nonlinear nature of ayanamsa change into account, there will not be any 
+considerable discrepancy in the varsha pravesh times found by people using different 
+ayanamsas. But ignoring the nonlinear nature of ayanamsa results in considerable 
+errors in varsha pravesh time. This is because lagna moves 360 times faster than Sun. 
+
+=== PAGE 383 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+371
+ 
+Any small errors in Sun’s longitude result in errors in lagna which are 360 times as 
+large. 
+ 
+Exercise 47: Find the varsha pravesh data for the 27th year of the native in Example 
+118 using (a) the approximate method and (b) the exact method. 
+ 
+27.3 Casting Monthly Charts 
+ 
+A year is divided into 12 months and a new chart can be cast at the commencement 
+of every new month. This is called Tajaka maasa chakra or a Tajaka monthly chart. 
+ 
+The commencement of a new month is called “maasa pravesh” by some people. 
+ 
+A year is the period in which Sun moves by 360º. A month is the period in which 
+Sun moves by 30º. 
+ 
+Let us take the native of Example 118. He was born on 8th March 1967. Sun was at 
+23° 50' 25'' in Aq when he was born. On 8th March 2000, Sun enters 23° 50' 25'' in 
+Aq at 4:41:21 am (IST) and a new year commences then. This is the 34th year in the 
+life of the native. 
+ 
+Along with the new year, a new month commences then. This is the first month of 
+the year. This month ends and a new month commences after Sun moves by exactly 
+30°. Sun enters 23° 50' 25'' in Pi on 7th April 2000 at 10:38:06 am. The second month 
+in the year commences then. We can cast rasi chart and divisional charts at that 
+moment. Using those charts, we can predict events in the next one-month period. 
+This month ends and the third month commences when Sun enters 23° 50' 25'' in Ar. 
+ 
+Thus, when Sun enters 23° 50' 25'' in different rasis, we cast different monthly charts 
+and use them for predicting the events in a one-month period. The thing to remember 
+here is that “one month” is the time when Sun moves by exactly 30°. 
+ 
+There isn’t any good approximate method for casting monthly charts. Sun takes 
+approximately the same time for moving by 360° and so we have an approximate 
+method for annual charts. But the time Sun takes to move by 30° varies considerably 
+from month to month. So there isn’t any approximate method that gives decent 
+
+=== PAGE 384 ===
+ 
+ 
+ 
+ 372 
+Vedic Astrology: An Integrated Approach
+results. It may be wise to exactly cast 12 monthly charts for the first year of the 
+native and then find monthly charts in later years from them, using the approximate 
+method given for annual charts. 
+ 
+27.4 Casting Sixty-hour Charts 
+ 
+A month is again divided into 12 shashti-horas. Each shashti-hora period consists of 
+60 hours, i.e. 2.5 days. At the beginning of every shashti-hora, a Tajaka shashti-hora 
+chakra78 (Tajaka sixty-hour chart) is cast. In the period corresponding to each Tajaka 
+sixty-hour chart, Sun moves by 2º30'. 
+ 
+In other words, we can cast a chart after every 2º30' motion of Sun and use that 
+Tajaka sixty-hour chart to predict events in the 2.5-day period commencing then. 
+There are exactly 12 such charts in a one-month period. 
+ 
+For example, let us take the second month of the year 2000-2001 for the native of 
+Example 118. The second month commences when Sun enters 23° 50' 25'' in Pi, i.e. 
+on 7th April 2000 at 10:38:06 am. The first shashti-hora of the month also starts then. 
+It ends and the second shashti-hora or 60-hour period commences when Sun is 
+advanced by 2º30', i.e. when Sun enters 26° 20' 25'' in Pi. This happens at 11:40:51 
+pm (IST) on 9th April 2000. If we cast a chart for that moment, we can make some 
+predictions for the next 2.5 days. 
+ 
+27.5 Conclusion 
+ 
+In this chapter, we learnt what Tajaka annual and monthly charts are and how they 
+are cast. When Sun re-enters every year the same longitude occupied by him at the 
+time of one’s birth, it signals the commencement of a new year in the native’s life. 
+We can cast a chart for that exact moment and predict events in the next one year 
+based on that chart. We can also cast monthly charts and sixty-hour charts. 
+ 
+These new years are based on the solar years and the commencement of new year is 
+around one’s birthday as per the modern western calendar. However, many Indians – 
+especially south Indians – celebrate birthday as per the lunar calendar. In fact, most 
+                                                 
+78 This is popularly known as just “Tajaka Hora Chakra”. 
+
+=== PAGE 385 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+373
+ 
+Hindu holidays are based on the lunar calendar. For example, birthdays of Lord 
+Rama and Lord Krishna are celebrated based on the tithi and not based on the solar 
+calendar. Lunar calendar is of great importance in Indian culture. Correspondingly, 
+there are techniques based on the birthday as per lunar calendar. However, those 
+techniques are beyond the scope of this book and we will restrict ourselves to solar 
+birthday and Tajaka annual charts. 
+ 
+27.6 Answers to Exercises 
+ 
+Exercise 47: 
+ 
+(a) Approximate method: 
+ 
+(1) The approximate birthday of the 27th year is 8th March 1993. He completes 26 
+years then. 
+(2) Adding the entries of 20 years and 6 years, we get 4 days 15 hr 58 min 12 sec. 
+(3) Adding 4 days to Wednesday (weekday of birth), we get Sunday. The nearest 
+Sunday to 8th March 1993 is 7th March 1993. So we take 5:40 pm on 7th March 
+1993 as the reference time. 
+(4) Add 15 hr 58 min 12 sec to this reference time. We get 9:38:12 am on 8th March 
+1993. 
+ 
+(b) Exact method: 
+ 
+Let us find the position of Sun at the above time. At 9:38:12 am (IST) on 8th March 
+1993, Sun is at 23° 50' 29'' in Aq. Natal position is 23° 50' 25'' in Aq. We have to 
+subtract about 2 minutes of time to get Sun 4'' behind. The correct varshapravesh 
+data is – 9:36:18 am (IST) on 8th March 1993. 
+
+=== PAGE 386 ===
+ 
+ 
+ 
+ 374 
+Vedic Astrology: An Integrated Approach
+28.  Techniques of Tajaka Charts 
+ 
+28.1 Muntha 
+ 
+Muntha is a concept specific to Tajaka charts. Progress lagna in the natal chart at the 
+rate of one rasi per year to get muntha in an annual chart. Suppose someone finishes 
+31 years and starts the 32nd year on a given date. Suppose we are casting the annual 
+chart of the 32nd year. Suppose the natal chart has lagna in Sc. Then muntha in the 
+annual chart will be the 32nd house from Sc, i.e. the 8th house from Sc (after 
+expunging multiples of 12 from 32). So muntha is in Ge. 
+ 
+Muntha is very important in Tajaka charts. Muntha is as important a reference point 
+in an annual chart as lagna. The reason may be obvious in the chapter on “Sudarsana 
+Chakra Dasa”. Some people find muntha in monthly charts by progressing natal 
+lagna by 2º30' per month. This author takes a different stand and the readers may be 
+able to appreciate this after reading the same chapter. 
+ 
+Look at the planets in muntha. They tell us the nature of events in the year or month. 
+For example, Jupiter in muntha may give good results, happiness from children and 
+knowledge. Saturn in muntha may make one sluggish, unhealthy, frustrated and 
+sorrowful. Of course, the strength of the planets influencing muntha also matters. For 
+example, an afflicted and weak Jupiter in muntha may give loss of position, bad 
+name and scandals. 
+ 
+Position of muntha in various houses with respect to lagna in the annual chart also 
+tells us the nature of events in a year. Situation of muntha in the 9th, 10th and 11th 
+houses is excellent. It gives prosperity, status and gains respectively. Situation of 
+muntha in the 1st, 2nd, 3rd and 5th houses is also good. It gives health, wealth, success 
+and fame respectively. Situation of muntha in the 6th, 8th and 12th houses is bad. It 
+gives illness, troubles and expenditures respectively. Situation of muntha in the 4th 
+house gives disputes and loss of position. Situation of muntha in the 7th house also 
+gives troubles in marriage and many hardships. 
+ 
+
+=== PAGE 387 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+375
+ 
+28.2 Aspects 
+ 
+In Tajaka analysis, we consider the following aspects:79 
+ 
+(1) Trinal aspect: A planet has a strong benefic aspect on the 5th and 9th houses 
+from it and on the planets in those houses. 
+(2) Sextile aspect: A planet has a weak benefic aspect on the 3rd and 11th houses 
+from it and on the planets in those houses. 
+(3) Square aspect: A planet has a weak malefic aspect on the 4th and 10th houses 
+from it and on the planets in those houses. 
+(4) Conjunction: A planet has a strong malefic aspect on the planets in the same 
+house occupied by it. 
+(5) Opposition: A planet has a strong malefic aspect on the 7th house from it and on 
+the planets in that house. 
+(6) Semi-sextile aspect: A planet has a neutral aspect on the 2nd and 12th houses 
+from it and on the planets in those houses. 
+ 
+Deeptamsa is “the orb of an aspect”. Deeptamsas of planets: Sun – 15º, Moon – 12º, 
+Mars – 8º, Mercury – 7º, Jupiter – 9º, Venus – 7º, Saturn – 9º. If Venus is at 13º in 
+Li, he will have a trinal aspect on Ge, but his aspect doesn’t cover the entire rasi. 
+Venusian aspect covers an angle of 7º from 13º in Gemini mainly, though Venus 
+may have a moderate aspectual influence on the entire rasi. So Venus mainly 
+influences 6º–20º in Ge by aspect. Deeptamsa is the same for all kinds of  aspects. 
+ 
+28.3 Harsha Bala 
+ 
+Harsha bala80 of seven planets is found by adding the strengths given by the 
+following 4 sources of strength: 
+ 
+                                                 
+79 These aspects are similar to the ones used in western astrology. Considering that graha and rasi 
+aspects were mentioned by maharshis, the exact meaning and use of these special aspects needs to be 
+further researched and correctly understood. The current understanding of scholars may be 
+incomplete. Rishi prokta (words spoken by great sages) should form the basis of our knowledge. 
+80 Harsha means “cheerful” and bala means “strength”. This is the strength of cheerfulness. 
+
+=== PAGE 388 ===
+ 
+ 
+ 
+ 376 
+Vedic Astrology: An Integrated Approach
+(1) Sun in the 9th house, Moon in the 3rd house, Mars in the 6th house, Mercury in the 
+1st house, Jupiter in the 11th house, Venus in the 5th house and Saturn in the 12th 
+house get 5 units. They get zero units in other houses. 
+(2) A planet in exaltation or own sign gets 5 units (else zero units). 
+(3) Feminine planets (Moon, Mercury, Venus and Saturn) get 5 units in the 1st, 2nd, 
+3rd 7th, 8th and 9th houses. Masculine planets (Sun, Mars and Jupiter) get 5 units in 
+the 4th, 5th, 6th, 10th, 11th and 12th houses. 
+(4) If the new year starts in the daytime, masculine planets get 5 units each. If the 
+new year starts in the night time, feminine planets get 5 units each. 
+ 
+A planet with 20 units of strength is exceedingly strong. A planet with 15 units of 
+strength is fully strong. A planet with 10 units of strength is of average strength. A 
+planet with 5 units of strength has only a little strength. A planet with zero units of 
+strength has no strength at all. 
+ 
+Example 119: Let us find Harsha bala of planets for the annual chart of Example 
+118. 
+ 
+(1) Only Moon is in the prescribed house (the 3rd house in Moon’s case). He gets 5 
+units. 
+(2) No planet is in exaltation or own sign. 
+(3) Venus in 1st, Mercury in 2nd, Moon in 3rd are the feminine planets in prescribed 
+houses. Jupiter in 4th is in the masculine planet in the prescibed house. 
+(4) Because the new year started at 4:42 am, i.e. during the night, we give 5 units 
+each to the feminine planets – Moon, Mercury, Venus and Saturn. 
+ 
+Adding all the sources, we get 15 for Moon, 10 for Mercury and Venus, 5 for Jupiter 
+and Saturn and zero for Sun and Mars. 
+ 
+28.4 Pancha Vargeeya Bala 
+ 
+Panchavargeeya81 bala is found using the following procedure: 
+ 
+                                                 
+81 Pancha means “five”. Pancha vargeeya means “from the group of five”. 
+
+=== PAGE 389 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+377
+ 
+28.4.1 
+Kshetra Bala 
+ 
+Kshetra bala shows the strength in rasi chart. A planet in own rasi gets 30 units of 
+Kshetra bala. A planet in a friend’s rasi gets 15 units of Kshetra bala. A planet in an 
+enemy’s rasi gets 7.5 units of Kshetra bala. 
+ 
+28.4.2 
+Uchcha Bala 
+ 
+Uchcha bala shows how close a planet is from its exaltation point. A planet gets 20 
+units of uchcha bala if it is at its deep exaltation point (Sun: 10º Ar, Moon: 3º Ta, 
+Mars: 28º Cp, Mercury: 15º Vi, Jupiter: 5º Cn, Venus: 27º Pi, Saturn: 20º Li). At 
+180º from its deep exaltation point, a planet is deeply debilitated and it gets 0 units of 
+uchcha bala. 
+ 
+We can find the longitude difference between a planet’s position and its deep 
+debilitation point and divide it by 180º to get the fraction that shows how far away it 
+is from its debilitation point. Bu multiplying 20 units with this fraction, we get 
+uchcha bala. 
+ 
+For example, suppose Jupiter is at 8Vi30 (8°30' in Vi). So he is at 158°30' from the 
+start of the zodiac. His debilitation point is 5° in Cp, i.e. 275°0'. The difference is 
+275°0' – 158°30' = 116°30'. Because this is less than 180°, we don’t have to subtract 
+it from 360°. 
+ 
+Now 116°30'/180° = 0.6472. Multiply 20 with this fraction, we get 12.94. So 
+Jupiter’s uchcha bala is 12.94 (out of 20). 
+ 
+28.4.3 
+Hadda Bala 
+ 
+Each rasi is divided into several haddas and different haddas have different lords. 
+Hadda is similar to D-30. Table 72 can be used for finding the hadda lords of planets. 
+ 
+Hadda bala shows the strength in hadda. A planet in own hadda gets 15 units of 
+Hadda bala. A planet in a friend’s hadda gets 7.5 units of Hadda bala. A planet in an 
+enemy’s hadda gets 3.75 units of Hadda bala. 
+ 
+
+=== PAGE 390 ===
+ 
+ 
+ 
+ 378 
+Vedic Astrology: An Integrated Approach
+28.4.4 
+Drekkana Bala 
+ 
+Drekkana bala shows the strength in drekkana chart (D-3). A planet in own rasi in D-
+3 gets 10 units of Drekkana bala. A planet in a friend’s rasi in D-3 gets 5 units of 
+Drekkana bala. A planet in an enemy’s rasi in D-3 gets 2.5 units of Drekkana bala. 
+ 
+Table 72: Hadda Lords 
+Ar 
+0º-6º 
+Jupiter 
+6º-12º 
+Venus 
+12º-20º 
+Mercury 
+20º-25º 
+Mars 
+25º-30º 
+Saturn 
+Ta 
+0º-8º 
+Venus 
+8º-14º 
+Mercury 
+14º-22º 
+Jupiter 
+22º-27º 
+Saturn 
+27º-30º 
+Mars 
+Ge 
+0º-6º 
+Mercury 
+6º-12º 
+Venus 
+12º-17º 
+Jupiter 
+17º-24º 
+Mars 
+24º-30º 
+Saturn 
+Cn 
+0º-7º 
+Mars 
+7º-13º 
+Venus 
+13º-19º 
+Mercury 
+19º-26º 
+Jupiter 
+26º-30º 
+Saturn 
+Le 
+0º-6º 
+Jupiter 
+6º-11º 
+Venus 
+11º-18º 
+Saturn 
+18º-24º 
+Mercury 
+24º-30º 
+Mars 
+Vi 
+0º-7º 
+Mercury 
+7º-17º 
+Venus 
+17º-21º 
+Jupiter 
+21º-28º 
+Mars 
+28º-30º 
+Saturn 
+Li 
+0º-6º 
+Saturn 
+6º-14º 
+Mercury 
+14º-21º 
+Jupiter 
+21º-28º 
+Venus 
+28º-30º 
+Mars 
+Sc 
+0º-7º 
+Mars 
+7º-11º 
+Venus 
+11º-19º 
+Mercury 
+19º-24º 
+Jupiter 
+24º-30º 
+Saturn 
+Sg 
+0º-12º 
+Jupiter 
+12º-17º 
+Venus 
+17º-21º 
+Mercury 
+21º-26º 
+Mars 
+26º-30º 
+Saturn 
+Cp 
+0º-7º 
+Mercury 
+7º-14º 
+Jupiter 
+14º-22º 
+Venus 
+22º-26º 
+Saturn 
+26º-30º 
+Mars 
+Aq 
+0º-7º 
+Mercury 
+7º-13º 
+Venus 
+13º-20º 
+Jupiter 
+20º-25º 
+Mars 
+25º-30º 
+Saturn 
+Pi 
+0º-12º 
+Venus 
+12º-16º 
+Jupiter 
+16º-19º 
+Mercury 
+19º-28º 
+Mars 
+28º-30º 
+Saturn 
+ 
+
+=== PAGE 391 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+379
+ 
+28.4.5 
+Navamsa Bala 
+ 
+Navamsa bala shows the strength in navamsa chart (D-9). A planet in own rasi in D-
+9 gets 5 units of Navamsa bala. A planet in a friend’s rasi in D-9 gets 2.5 units of 
+Navamsa bala. A planet in an enemy’s rasi in D-9 gets 1.25 units of Navamsa bala. 
+ 
+28.4.6 
+Final Computation 
+ 
+We find the sum of kshetra bala, uchcha bala, hadda bala, drekkana bala and 
+navamsa bala and divide the sum by 4. The result is called “Pancha Vargeeya Bala”. 
+If it is below 5, the planet is weak. If it is between 5 and 10, the planet has ordinary 
+strength. If it is between 10 and 15, the planet is strong. If it is between 15 and 20, 
+the planet is very strong. If it is above 20, the planet is extraordinarily strong. 
+ 
+28.5 Dwaadasa Vargeeya Bala 
+ 
+Consider the twelve divisional charts: D-1, D-2, D-3, D-4, D-5, D-6, D-7, D-8, D-9, 
+D-10, D-11, and, D-12. 
+ 
+A planet is strong in a chart if it is in its exaltation rasi or its own rasi or a rasi owned 
+by a friend. A planet is weak in a chart if it is in its debilitation rasi or a rasi owned 
+by an enemy. Out of the 12 charts above, count the charts in which a planet is strong 
+and count the charts in which a planet is weak. The difference gives 
+Dwadasavargeeya82 bala. If a planet is strong in more charts, it is strong overall. If a 
+planet is weak in more charts, it is weak overall. 
+ 
+28.6 Lord of the Year 
+ 
+Varsheswara or lord of the year is the most important planet during the year. His 
+dasa brings important results. The following are the candidates: 
+ 
+(1) Lord of the rasi occupied by Sun or Moon in the annual chart, based on whether 
+the new year starts during the day or the night 
+                                                 
+82 Dwaadasa means “twelve”. Dwaadasavargeeya means “from the 12 groups”. 
+
+=== PAGE 392 ===
+ 
+ 
+ 
+ 380 
+Vedic Astrology: An Integrated Approach
+(2) Lord of natal lagna 
+(3) Lord of Muntha 
+(4) Lord of lagna in the annual chart 
+(5) Triraasi lord of lagna in the annual chart (see Table 73) 
+ 
+Table 73: Triraasi Lords 
+Lagna 
+Day 
+Night 
+Ar 
+Sun 
+Jupiter 
+Ta 
+Venus 
+Moon 
+Ge 
+Saturn 
+Mercury 
+Cn 
+Venus 
+Mars 
+Le 
+Jupiter 
+Sun 
+Vi 
+Moon 
+Venus 
+Li 
+Mercury 
+Saturn 
+Sc 
+Mars 
+Venus 
+Sg 
+Saturn 
+Saturn 
+Cp 
+Mars 
+Mars 
+Aq 
+Jupiter 
+Jupiter 
+Pi 
+Moon 
+Moon 
+ 
+If a candidate is strong as per panchavargeeya bala and has a benefic aspect on lagna, 
+it becomes the lord of the year. 
+ 
+After the five candidates are found, the candidates having a benefic aspect on lagna 
+are short-listed. Out of those, the planet having the highest panchavargeeya bala 
+becomes the lord of the year. If two candidates have similar panchavargeeya bala, 
+the one becoming a candidate in more of the five categories listed above becomes the 
+lord of the year. 
+ 
+If none of the planet has a benefic aspect on lagna, even a malefic aspect may be 
+accepted. If none of the planets has an aspect on lagna, we may take a candidate that 
+is very strong as per panchavargeeya bala. 
+ 
+If none of the candidates has a strong aspect on lagna and none of the candidates is 
+very strong as per panchavargeeya bala, then we may take the first candidate (lord of 
+the rasi occupied by Sun or Moon in the annual chart, based on whether the new year 
+starts during the day or the night). 
+
+=== PAGE 393 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+381
+ 
+ 
+Example 120: Let us consider the annual chart in Example 118. Let us find the 
+candidates for the lord of the year: 
+ 
+(1) The new year started at 4:41 am, i.e. night time. So we should take Moon and 
+find the lord of the rasi occupied by him. Moon is in Pisces owned by Jupiter. So 
+Jupiter gets the first candidacy. 
+(2) Natal lagna is in Leo. So Sun gets the second candidacy. 
+(3) Muntha is in Taurus. So Venus gets the third candidacy. 
+(4) Lagna in the annual chart is in Capricorn. So Saturn gets the fourth candidacy. 
+(5) Triraasi lord for lagna in Cp at night time is Mars, from Table 73. So Mars gets 
+the fifth candidacy. 
+ 
+The candidates are – Jupiter, Sun, Venus, Saturn and Mars. Of those, Venus occupies 
+lagna and Jupiter and Saturn have a square aspect on lagna. All of them are malefic 
+aspects. Sun has a semi-sextile aspect, which is neutral. Mars has a sextile aspect on 
+Capricorn lagna from Pisces. He is also has the strongest panchavargeeya bala 
+(13.7). So we conclude easily that Mars is the lord of the year. 
+ 
+28.7 Lord of the Month 
+ 
+We find the lord of the month in a monthly chart in the same manner. We have six 
+candidates now: 
+ 
+(1) Lord of the rasi occupied by Sun or Moon in the monthly chart, based on whether 
+the new month starts during the day or the night 
+(2) Lord of natal lagna 
+(3) Lord of Muntha 
+(4) Lord of lagna in the monthly chart 
+(5) Triraasi lord of lagna in the monthly chart (see Table 73) 
+(6) Lord of the year 
+ 
+The rest of the rules are the same. 
+ 
+
+=== PAGE 394 ===
+ 
+ 
+ 
+ 382 
+Vedic Astrology: An Integrated Approach
+28.8 Sahams 
+ 
+28.8.1 
+Calculation 
+ 
+Sahams are the significant points in the zodiac related to specific matters. For 
+example, “raajya” means kingdom and “raajya saham” is a significant point in the 
+zodiac related to obtaining kingdom. “Paradesa” means a foreign country and 
+“paradesa saham” is a significant point in the zodiac related to going abroad. Each 
+saham has a formula that looks like A – B + C. What this means is that we take the 
+longitudes of A, B and C and find (A – B + C). This is equivalent to finding how far 
+A is from B and then taking the same distance from C. However, if C is not between 
+B and A (i.e. we start from B and go zodiacally till we meet A and we do not find C 
+on the way), then we add 30º to the value evaluated above. 
+ 
+For example, finding (Moon – Sun + Lagna) is equivalent to finding how far Moon 
+is from Sun and taking the same distance from lagna. If we start from the longitude 
+of Sun and go zodiacally till the longitude of Moon and do not find lagna on the way, 
+then we have to add 30º. The list of important sahams is given in Table 74. For most 
+sahams, the formula given as (A – B + C) is for daytime charts. For nighttime charts, 
+it changes to (B – A + C). This will not be explicitly mentioned for each saham and a 
+mention will be made only when there is a difference. 
+ 
+Table 74: Sahams 
+# 
+Saham 
+Meaning 
+Formula 
+1 
+Punya 
+Fortune/good deeds 
+Moon – Sun + Lagna 
+ 
+Vidya 
+Education 
+Sun – Moon + Lagna 
+3 
+Yasas 
+Fame 
+Jupiter – PunyaSaham + Lagna 
+4 
+Mitra 
+Friend 
+Jupiter – PunyaSaham + Venus 
+5 
+Mahatmya 
+Greatness 
+PunyaSaham – Mars + Lagna 
+6 
+Asha 
+Desires 
+Saturn – Mars + Lagna 
+7 
+Samartha 
+Enterprise/ability 
+Mars – Lagna Lord + Lagna 
+(Jupiter – Mars + Lagna, if Mars 
+owns lagna) 
+8 
+Bhratri 
+Brothers 
+Jupiter – Saturn + Lagna (same for 
+day & night) 
+9 
+Gaurava 
+Respect/regard 
+Jupiter – Moon + Sun 
+
+=== PAGE 395 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+383
+ 
+10 
+Pitri 
+Father 
+Saturn – Sun + Lagna 
+11 
+Rajya 
+Kingdom 
+Saturn – Sun + Lagna 
+12 
+Matri 
+Mother 
+Moon – Venus + Lagna 
+13 
+Putra 
+Children 
+Jupiter – Moon + Lagna 
+14 
+Jeeva 
+Life 
+Saturn – Jupiter + Lagna 
+15 
+Karma 
+Action (work) 
+Mars – Mercury + Lagna 
+16 
+Roga 
+Disease 
+Lagna – Moon + Lagna 
+17 
+Kali 
+Great misfortune 
+Jupiter – Mars + Lagna 
+18 
+Sastra 
+Sciences 
+Jupiter – Saturn + Mercury 
+19 
+Bandhu 
+Relatives 
+Mercury – Moon + Lagna 
+20 
+Mrityu 
+Death 
+8th house – Moon + Lagna (same 
+for day & night) 
+21 
+Paradesa 
+Foreign countries 
+9th house – 9th lord + Lagna (same 
+for day & night) 
+22 
+Artha 
+Money 
+2nd house – 2nd lord + Lagna (same 
+for day & night) 
+23 
+Paradara 
+Adultery 
+Venus – Sun + Lagna 
+24 
+Vanik 
+Commerce 
+Moon – Mercury + Lagna 
+25 
+Karyasiddhi 
+Success in 
+endeavours 
+Saturn – Sun + Lord of sunsign 
+(Night: Saturn – Moon + Lord of 
+Moonsign) 
+26 
+Vivaha 
+Marriage 
+Venus – Saturn + Lagna 
+27 
+Santapa 
+Sadness 
+Saturn – Moon + 6th house 
+28 
+Sraddha 
+Devotion/sincerity 
+Venus – Mars + Lagna 
+29 
+Preeti 
+Love/attachment 
+SastraSaham – PunyaSaham + 
+Lagna 
+30 
+Jadya 
+Chronic disease 
+Mars – Saturn + Mercury 
+31 
+Vyapara 
+Business 
+Mars – Saturn + Lagna (same for 
+day & night) 
+32 
+Satru 
+Enemy 
+Mars – Saturn + Lagna 
+33 
+Jalapatana 
+Crossing an ocean 
+Cancer 15º– Saturn + Lagna 
+34 
+Bandhana 
+Imprisonment 
+PunyaSaham – Saturn + Lagna 
+35 
+Apamrityu 
+Bad death 
+8th house – Mars + Lagna 
+36 
+Labha 
+Material gains 
+11th house – 11th lord + Lagna 
+(same for day & night) 
+ 
+ 
+
+=== PAGE 396 ===
+ 
+ 
+ 
+ 384 
+Vedic Astrology: An Integrated Approach
+Example 121: Let us consider the annual chart of Example 118 and find artha saham 
+(money), samartha saham (enterprise/ability) and vanik saham (commerce). 
+ 
+Let us use the formulas given in Table 74. Formula of artha saham is: 2nd house – 2nd 
+lord + Lagna. Because the chart is cast for the night time, we should reverse the 
+formula. However, as the note in parantheses after the formula says, this formula 
+should be used for both day & night. Lagna is at 10 Cp 50, i.e. 280°50'. The 2nd 
+house is at 10 Aq 50, i.e. 310°50'. Lord of the 2nd house is Saturn and he is at 19 Ar 
+10, i.e. 19°10'. So artha saham = 310°50' – 19°10' + 280°50' = 572°30'. We can add 
+or subtract multiples of 360º from a longitude to reduce it to the range 0º to 360º. By 
+subtracting 360º, we get 212°30'. This means that artha saham is at 212°30'. This 
+means 2°30' in Sc or simply 2 Sc 30. Now we have to check whether the C is 
+between B and A in A – B + C. We have to check whether lagna (280°50') is 
+between 2nd lord (19°10') and 2nd house (310°50'). It is – if we start from 19°10' and 
+go till 310°50', we do encounter 280°50' on the way. So we don’t have to add 30º. 
+ 
+Formula of samartha saham is: Mars – Lagna Lord + Lagna. Because this chart is 
+cast for night time, we should make it Lagna Lord – Mars + Lagna. Lagna lord 
+Saturn is at 19 Ar 10, i.e. 19°10'. Mars is at 24 Pi 58, i.e. 354°58'. Lagna is at 
+280°50'. So samartha saham = 19°10' – 354°58' + 280°50' + 360º. We added 360º to 
+make the result positive. We can always add and subtract multiples of 360º from any 
+longitude. So samartha saham is 305°2'. If we start from 354°58' and go zodiacally 
+till we reach 19°10' (when we reach the end of Pisces, we go to Aries), we do not 
+encounter 280°50'. So lagna is not between Mars and lagna lord. So we add 30º. 
+Samartha saham is finally at 335°2', i.e. at 5°2' in Pi or simply 5 Pi 02. 
+ 
+Formula of vanik saham is: Moon – Mercury + Lagna. Because this chart is cast for 
+night time, we should make it Mercury – Moon + Lagna. Moon is at 15 Pi 14, i.e. 
+345°14'. Mercury is at 11 Aq 28, i.e. 311°28'. Lagna is at 280°50'. So samartha 
+saham = 311°28' – 345°14' + 280°50'. So vanik saham is 247°4'. If we start from 
+345°14' and go zodiacally till we reach 311°28' (when we reach the end of Pisces, we 
+go to Aries), we cover a large arc of about 330º. On the way, we do encounter 
+280°50'. So lagna is between Moon and Mercury. So we don’t have to add 30º. 
+Vanik saham is at 247°4', i.e. at 7°4' in Sg or simply 7 Sg 04. 
+ 
+28.8.2 
+Use of sahams 
+
+=== PAGE 397 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+385
+ 
+ 
+If there are good yogas in an annucl chart involving the lord of the rasi containing an 
+important saham and lagna lord, then important events related to the matter of the 
+saham may materialize during the year. 
+ 
+We can also use sahams in natal charts. When Saturn or Rahu transits close to natal 
+paradesa saham or jalapatana saham, for example, one may go abroad. When Jupiter 
+occupies or aspects natal vivaha saham in transit, one may get married. Thus we can 
+use sahams in natal charts also. 
+ 
+NOTE: In western astrology, there are Arabian parts (e.g. part of fortune) which are 
+similar to sahams. In fact, there are a lot of similarities between the techniques in 
+Tajaka system and western astrology. 
+ 
+Some people may suggest that Indians learnt Tajaka system from Arabs. This is 
+possible. However, one must note that astrology as practiced in India is much 
+superior in width and depth to astrology practiced in any other part of the world. 
+Indian astrology is a big superset of which different astrological traditions of the 
+world are but small subsets. One may speculate that Vedic astrology as taught by 
+Parasara, Jaimini, Manu etc was very exhaustive in scope and experts in different 
+branches of it traveled to different parts of the world in ancient times to establish the 
+knowledge there. 
+ 
+ 
+
+=== PAGE 398 ===
+ 
+ 
+ 
+ 386 
+Vedic Astrology: An Integrated Approach
+29.  Tajaka Yogas 
+ 
+29.1 Introduction 
+ 
+Just as we have yogas in natal charts, we have special combinations with special 
+results that are applicable to Tajaka annual/monthly charts. These are called Tajaka 
+yogas. These yogas are applicable to Tajaka annual charts as well as prasna charts 
+(horary charts). We will briefly go over their definitions in this chapter. 
+ 
+29.2 Definitions 
+ 
+29.2.1 
+Ishkavala Yoga 
+ 
+If planets occupy only kendras (1st, 4th, 7th and 10th houses) and panapharas (2nd, 5th, 
+8th and 11th houses) and if apoklimas (3rd, 6th, 9th and 12th houses) are empty, then 
+this yoga is present. This yoga gives wealth, happiness and good fortune. 
+ 
+29.2.2 
+Induvara Yoga 
+ 
+If planets occupy only apoklimas (3rd, 6th, 9th and 12th houses) and if kendras (1st, 4th, 
+7th and 10th houses) and panapharas (2nd, 5th, 8th and 11th houses) are empty, then this 
+yoga is present. This yoga gives disappointments, worries and illnesses. 
+ 
+29.2.3 
+Ithasala Yoga 
+ 
+If two planets have an aspect and if the faster moving planet83 is less advanced in its 
+rasi than the slower moving planet, then we have an ithasala yoga between the two. 
+In western astrology, this is called an “applying aspect”. 
+ 
+                                                 
+83 In the increasing order of speed, planets can be listed as: Saturn, Rahu/Ketu, Jupiter, Mars, Sun, 
+Venus, Mercury and Moon. 
+
+=== PAGE 399 ===
+ 
+ 
+ 
+Part 4: Tajaka Analysis 
+387
+ 
+Results: This is a good yoga and this shows fulfillment of the matters represented by 
+the two planets in ithasala. Suppose we want to analyze prospects for a particular 
+matter. Then  ithasala involving lagna lord, lord of the related house, lord of the 
+related saham or the naisargika karaka (natural significator) will show good results 
+related to the matter. For example, ithasala between lagna lord and 7th lord (or the 
+lord of vivaha saham or Venus) shows that the native may get married in the year. 
+ 
+Example: Suppose Moon is at 14º in Le and Venus is at 19º in Li. They have a sextile 
+aspect. Both the planets are within the deeptaamsa (orb) of the other. Moon’s 
+advancement in his rasi is 14º and Venus’s advancement in his rasi is 19º. Faster 
+planet (Moon) is less advanced than the slower planet (Venus). So we have ithasala 
+yoga. 
+ 
+Types of Ithasala: There are 3 types of ithasala yoga. 
+ 
+(i) Vartamaana ithasala yoga results when the planets aspect each other and both are 
+within the deeptaamsa (orb) of the other planet. Vartamaana means present (current). 
+In the above example, Venus is at 19º and his deeptaamsa extends from 12º to 26º. 
+Moon is within his deeptaamsa. Venus is also within Moon’s deeptaamsa. So we 
+have vartamaana ithasala. 
+ 
+(ii) Poorna ithasala yoga results when the planets aspect each other closely and their 
+advancements in respective rasis are within 1º of each other. Poorna means complete. 
+Poorna ithasala is the most powerful ithasala. It shows speedy fulfillment of the 
+matter. In the above example, the difference between the advancements of Moon and 
+Venus in respective rasis is 19º–14º = 5º. This is more than 1º. So we don’t have a 
+poorna ithasala. Now let us say that Moon is at 18º25' in Le (instead of 14° in Le). 
+Then also we have an ithasala because Moon is behind Venus. The difference 
+between the advancements is only 0°35', i.e. less than 1°. So we have a poorna 
+ithasala now. 
+ 
+(iii) Bhavishya ithasala yoga is formed if vartamaana ithasala yoga is about to be 
+formed when the faster moving planet moves by 1º or less. Bhavishya means future. 
+Bhavishya ithasala shows fulfillment after some obstructions or delay. Suppose 
+Moon is at 13°35' in Le and Venus is at 21º20' in Le. There is a sextile aspect. 
+Moon’s deeptaamsa is 12º and hence his sextile aspect on Li extends from 1º35' to 
+25º35' in Li (subtract and add 12º, Moon’s deeptaamsa, from/to 13º35'). Venus is 
+within Moon’s deeptaamsa. However, Moon is just outside the deeptaamsa of Venus, 
+
+=== PAGE 400 ===
+ 
+ 
+ 
+ 388 
+Vedic Astrology: An Integrated Approach
+as the deeptaamsa of Venus’s sextile aspect on Le extends from 14º20' to 28º20' in Li 
+(subtract and add 7º, Venus’s deeptaamsa, from/to 21º20'). Moon is at 13°35' and 
+this is outside Venus’s deeptaamsa. So there is no vartamaana (present) ithasala. 
+However, when Moon is the faster planet and he needs to move by just 0°45' (which 
+is less than 1º) to come to 14°20'. Once he comes to 14°20', he is within the 
+deeptaamsa of Venus’s aspect on Le and we have a vartamaana ithasala yoga. So we 
+have a bhavishya (future) ithasala yoga when Moon is at 13°35' in Le. 
+ 
+Special Notes: One should understand the meaning of these combinations and apply 
+them intelligently. The main criterion of ithasala is that the faster moving planet 
+should be behind. This means that the two planets will reach the same advancement 
+in their rasis and have an exact aspect (sookshma drishti) very soon. If Moon is at 
+14º in Le and Venus is at 19º in Li, Moon is going to reach 19º very soon and Moon 
+and Venus are going to have an exact sextile aspect. So the energies of Moon and 
+Venus are soon going to work in unison. 
+ 
+That is the main idea behind ithasala. If the faster moving planet is retrograde, then 
+the above is not going to happen and we no longer have ithasala. For example, 
+suppose retrograde Mercury is at 18º in Ge and Mars is at 18°10' in Li. One may be 
+tempted to think that there is an extremely powerful trinal aspect and a poorna 
+ithasala yoga because the difference in advancements is merely 0°10'. However, that 
+is not correct. Being retrograde, Mercury will go backward and Mars will go 
+forward. They are not going to reach the same longitude anytime soon. Despite 
+indications of success, one may be dogged with failure under this combination. 
+ 
+On the other hand, if the slower planet is retrograde, there is no problem. It, in fact, 
+shows a faster realization, as the two planets will reach the same advancement faster. 
+Suppose Moon is at 18º in Ar and retrograde Mercury is at 24º in Ge. Now both the 
+planets move towards the other planet and they are going to reach the same 
+advancement soon. So there is an ithasala yoga. 
+ 
+Suppose the faster moving planet is retrograde and it is more advanced in its rasi 
+than the slower moving planet. In that case, one may be tempted to think that there is 
+no ithasala yoga. However, both the planets move towards the other and so there is 
+an ithasala yoga. However, a planet’s speed reduces under retrogression and the 
+difference in advancements has to be smaller. For example, suppose Mars is at 21º in 
+Cp and retrograde Mercury is at 23º in Vi. They have a trinal aspect. One may be 
+tempted to think that there is no ithasala here, because Mercury, who moves faster 
+
